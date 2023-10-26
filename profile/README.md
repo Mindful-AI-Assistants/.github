@@ -22,6 +22,7 @@
 <br> 
 
 # <p align="center"> 🪬💬 MindfulAI Copilots & Bots
+<br>
 
 
 
