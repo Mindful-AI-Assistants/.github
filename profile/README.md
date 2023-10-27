@@ -20,9 +20,7 @@ The company's open-source approach is also beneficial for businesses. By providi
 
 Overall, MindfulAI Copilots & Bots is an essential organization for businesses that want to improve their communication and productivity. The company's services can help businesses automate repetitive tasks, improve communication, and increase productivity. Additionally, the open-source approach allows for collaboration between businesses, which can lead to the development of new and innovative tools.
 
-![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
-
-![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg) ![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
 
 
