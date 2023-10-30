@@ -7,7 +7,7 @@
 　 ° 　. ● . ★ ° . *　　　°　.　 * ● ¸ . 　　　★ 　° :
 <br> 
 
-# <p align="center"> 𖤐 MindfulAI Copilots & Bots 💬
+# <p align="center">  💬 MindfulAI Copilots & Bots 𖤐 
 <br>
 
 
