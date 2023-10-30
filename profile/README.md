@@ -26,6 +26,8 @@ Overall, MindfulAI Copilots & Bots is an essential organization for businesses t
 
 
 
+### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/7499a095-0756-4207-9a9f-d72f2308d21a">
+
 
 
 
