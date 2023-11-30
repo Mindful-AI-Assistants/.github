@@ -15,4 +15,4 @@
 <iframe src="https://github.com/sponsors/Quantum-Software-Development/card" title="Sponsor Quantum-Software-Development" height="225" width="600" style="border: 0;"></iframe>
 
 
-<img width="600"          src="https://github.com/sponsors/Quantum-Software-Development/card" title="Sponsor Quantum-Software-Development" height="225" width="600" style="border: 0;"></iframe>
+<img width="600" height="225" src="https://github.com/sponsors/Quantum-Software-Development/card" title="Sponsor Quantum-Software-Development" height="225" width="600" style="border: 0;"></iframe>
