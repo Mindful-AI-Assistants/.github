@@ -12,3 +12,7 @@
 
 <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/7499a095-0756-4207-9a9f-d72f2308d21a">
 
+<iframe src="https://github.com/sponsors/Quantum-Software-Development/card" title="Sponsor Quantum-Software-Development" height="225" width="600" style="border: 0;"></iframe>
+
+
+<img width="600"          src="https://github.com/sponsors/Quantum-Software-Development/card" title="Sponsor Quantum-Software-Development" height="225" width="600" style="border: 0;"></iframe>
