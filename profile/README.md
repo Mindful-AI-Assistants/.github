@@ -30,7 +30,13 @@ Overall, MindfulAI Copilots & Bots is an essential organization for businesses t
 
 <br>
 
-<p align="center">  <img width="131" alt="Painted-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/914c6ecf-9c6f-4183-a4e7-48d9487767ed">
+· 　　 ⋆ ˚ ˚ 　　 ✦⋆ · 　 *⋆ ✧　 　 · 　 ✧　✵　　. 　★ ° . *　　　°　.　°☆° 　. ● . ★ ° . *★ ° . *　　　°　.　°☆★ ° . * *☆°. ☆. * ● ¸ . 　　　★ 　° :●. 　 *° :●. 　 *★ ° . *º :●: :
+• ○ ° ★　 .　 * 　.　 ○ ° ★　 .　 * 　. * ● ¸ . 　★ ° . *★　 　　　　　
+° 　. ● . ★ ° . *　　　°　. * ● ¸ . 　　　★ 　° :
+　 ° 　. ● . ★ ° . *　　　°　.　 * ● ¸ . 　　　★ 　° :<p align="center">  <img width="131" alt="Painted-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/914c6ecf-9c6f-4183-a4e7-48d9487767ed">· 　　 ⋆ ˚ ˚ 　　 ✦⋆ · 　 *⋆ ✧　 　 · 　 ✧　✵　　. 　★ ° . *　　　°　.　°☆° 　. ● . ★ ° . *★ ° . *　　　°　.　°☆★ ° . * *☆°. ☆. * ● ¸ . 　　　★ 　° :●. 　 *° :●. 　 *★ ° . *º :●: :
+• ○ ° ★　 .　 * 　.　 ○ ° ★　 .　 * 　. * ● ¸ . 　★ ° . *★　 　　　　　
+° 　. ● . ★ ° . *　　　°　. * ● ¸ . 　　　★ 　° :
+　 ° 　. ● . ★ ° . *　　　°　.　 * ● ¸ . 　　　★ 　° :
 
 
 
