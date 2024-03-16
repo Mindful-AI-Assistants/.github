@@ -12,7 +12,6 @@
 <br><br> 
 
 
-### <p align="center"> [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)](https://github.com/sponsors/MindfulAI-Copilots-Bots)
 
 <br><br>
 
@@ -38,6 +37,10 @@ The company's open-source approach is also beneficial for businesses. By providi
 
 · 　　 ⋆ ˚ ˚ 　　 ✦⋆ · 　 *⋆ ✧　 　 · 　 ✧　✵　　. 　★ ° . *　　　°　.　°☆° 　. ● . ★ ° . *★ ° . *　　　°　.　°☆★ ° . * *☆°. ☆. * ● ¸ . 　　　★ 　° :●. 　 *° :●. 　 *★ ° . *º :●: :
 • ○ ° ★　 .　 * 　.　 ○ ° ★　 .　 * 　. * ● ¸ . 　★ ° . *★　 　° 　. ● . ★ ° . *　　　°　. * ● ¸ . 　　　★　　　
+
+
+
+### <p align="center"> [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)](https://github.com/sponsors/MindfulAI-Copilots-Bots)
 
 
 
