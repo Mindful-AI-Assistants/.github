@@ -12,13 +12,12 @@
 <br><br> 
 
   <!--  START HEADER  -->  
-<p align="center">  [Tap here and Make Wish - 432 Ghz Frequency]()
-<img src="" />
+<p align="center">  [Tap here and Make Wish - 432 Ghz Frequency](https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/8e1bbca0-4d50-4963-8bee-88af5bd6db2d)
+
  <!--  END HEADER  --> 
   
  <br> 
  
-https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/8e1bbca0-4d50-4963-8bee-88af5bd6db2d
 
 <br><br>
 
