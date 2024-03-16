@@ -10,6 +10,8 @@
 
 # <p align="center">  💬 MindfulAI Copilots & Bots 
 
+### <p align="center"> [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)](https://github.com/sponsors/MindfulAI-Copilots-Bots)
+
 <br><br> 
 
 ###  <p align="center">   ⚝ [Tap here and Make Wish](https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/8e1bbca0-4d50-4963-8bee-88af5bd6db2d) ⚝
@@ -18,7 +20,7 @@
   
  <br> 
  
-### <p align="center"> [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)](https://github.com/sponsors/MindfulAI-Copilots-Bots)
+
 
 <br><br>
 
