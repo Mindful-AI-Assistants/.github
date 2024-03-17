@@ -18,7 +18,7 @@
 <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/7a520307-8c65-43f5-80ae-40bb86f09caf" width="300" />
 
 
- <!-- If you want to set the specific height and width, you can add the height attribute as well  --> 
+ <!--  The height of the image will be automatically adjusted to maintain the aspect ratio of the image. If you want to set the specific height and width, you can add the height attribute. --> 
 <p align="center">
 <img src="f" />
  --> 
