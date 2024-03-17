@@ -18,7 +18,10 @@
 <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/7a520307-8c65-43f5-80ae-40bb86f09caf" width="300" />
 
 
- <!-- If you want to set the specific height and width, you can add the height attribute but Be careful because the image may appear distorted because the original aspect ratio is not maintained. Therefore, it is recommended to use only one of the atribiuts so that the portion is adjusted,  , as occurs in the following code -->
+
+ <!-- If you want to set the specific height and width, you can add the height attribute but Be careful because the image may appear distorted because the original aspect ratio is not maintained. Therefore, it is recommended to use only one of the atribiuts so that the portion is adjusted,  , as occurs in the following code --> 
+ <!-- 
+<p align="center">
 
   <!-- Code out of portion adjusted:
   <p align="center">
