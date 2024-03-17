@@ -100,22 +100,9 @@ The company's open-source approach is also beneficial for businesses. By providi
   
   
   
-  <!--  START HEADER  -->   
- ° 　. ● . ★ ° . *　　　° * 　.　 :　　:●. 　 *° :●. 　 *
-.　 * 　.　 　 ˚ *.　　 *　　 * ⋆ 　 .
-· 　　 ⋆ ˚ ˚ 　　 ✦⋆ · 　 *⋆ ✧　 　 · 　 ✧　✵　　. 　★ ° . *　　　°　.　°☆° 　. ● . ★ ° . *★ ° . *　　　°　.　°☆★ ° . * *☆°. ☆. * ● ¸ . 　　　★ 　° :●. 　 *° :●. 　 *★ ° . *º :●: :
-• ○ ° ★　 .　 * 　.　 ○ ° ★　 .　 * 　. * ● ¸ . 　★ ° . *★　 　　　　　
-° 　. ● . ★ ° . *　　　°　. * ● ¸ . 　　　★ 　° :
-　 ° 　. ● . ★ ° . *　　　°　.　 * ● ¸ . 　　　★ 　° :
-<br><br> 
 
-# <p align="center">  💬 MindfulAI Copilots & Bots 
 
-<br><br> 
 
- <!--  width attribute in the img tag to set the width of the image.: The height of the image will be automatically adjusted to maintain the aspect ratio of the image.  --> 
-<p align="center">
-<img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/7a520307-8c65-43f5-80ae-40bb86f09caf" width="300" />
 
 
 
