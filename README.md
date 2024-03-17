@@ -19,8 +19,7 @@
 
 
  <!-- If you want to set the specific height and width, you can add the height attribute but Be careful because the image may appear distorted because the original aspect ratio is not maintained. Therefore, it is recommended to use only one of the atribiuts so that the portion is adjusted,  , as occurs in the following code --> 
-<p align="center">
-<img src="f" />
+
  --> 
 
 <br><br> 
