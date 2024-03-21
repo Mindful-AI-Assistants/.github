@@ -18,6 +18,8 @@
 
 <br><br> 
 
+### *Breathe deeply*  
+
  ##  <p align="center">   ☆ [Tap here and Make Wish](https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/8e1bbca0-4d50-4963-8bee-88af5bd6db2d) ☆
 
 
