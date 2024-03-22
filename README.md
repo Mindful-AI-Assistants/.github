@@ -18,9 +18,7 @@
 <p align="center">
 <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/7a520307-8c65-43f5-80ae-40bb86f09caf" width="250" />
 
-
-
- <!-- If you want to set the specific height and width, you can add the height attribute but Be careful because the image may appear distorted because the original aspect ratio is not maintained. Therefore, it is recommended to use only one of the atribiuts so that the portion is adjusted,  , as occurs in the following code --> 
+<!-- If you want to set the specific height and width, you can add the height attribute but Be careful because the image may appear distorted because the original aspect ratio is not maintained. Therefore, it is recommended to use only one of the atribiuts so that the portion is adjusted,  , as occurs in the following code --> 
  <!-- 
 <p align="center">
 
@@ -29,14 +27,13 @@
 <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/7a520307-8c65-43f5-80ae-40bb86f09caf" width="500" height="300" />
  --> 
 
-
-<br><br> 
+<br>
 
 ###  <p align="center">   ☆ [Tap here and Make Wish](https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/8e1bbca0-4d50-4963-8bee-88af5bd6db2d) ☆
 
  <!--  END HEADER  --> 
   
-<br><br>
+<br>
 
 
 MindfulAI Copilots & Bots is an open-source organization founded by [Fabiana Campanari](https://github.com/FabianaCampanari) a software developer passionate about AI, Design and Code. The company's concept is "Elevating Your Business with Mindful Copilots & Bots," and it focuses on creating copilots and chatbots for businesses. The company aims to provide businesses with AI-powered tools that can help them automate repetitive tasks, improve communication, and increase productivity. MindfulAI Copilots & Bots offers a range of services, including chatbot development, AI integration, and automation. The company's goal is to help businesses elevate their operations by leveraging the power of AI.
