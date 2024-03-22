@@ -8,6 +8,8 @@
 　 ° 　. ● . ★ ° . *　　　°　.　 * ● ¸ . 　　　★ 　° :
 <br><br> 
 
+  <!--  END HEADER  -->   
+
 # <p align="center">  💬 MindfulAI Copilots & Bots
 
 ### <p align="center"> [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)](https://github.com/sponsors/MindfulAI-Copilots-Bots)
