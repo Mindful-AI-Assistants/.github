@@ -11,6 +11,8 @@
 
 # <p align="center">  💬 MindfulAI Copilots & Bots 
 
+### [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)
+
 <br><br> 
 
 
