@@ -1,4 +1,4 @@
-
+<!-- ### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50"> [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)(https://github.com/sponsors/MindfulAI-Copilots-Bots)  -->
 
   <!--  START HEADER  -->   
  ° 　. ● . ★ ° . *　　　° * 　.　 :　　:●. 　 *° :●. 　 *
@@ -37,8 +37,6 @@
  <!--  END HEADER  --> 
   
 <br><br>
-
-<!-- ### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50"> [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)](https://github.com/sponsors/MindfulAI-Copilots-Bots)  -->
 
 
 MindfulAI Copilots & Bots is an open-source organization founded by [Fabiana Campanari](https://github.com/FabianaCampanari) a software developer passionate about AI, Design and Code. The company's concept is "Elevating Your Business with Mindful Copilots & Bots," and it focuses on creating copilots and chatbots for businesses. The company aims to provide businesses with AI-powered tools that can help them automate repetitive tasks, improve communication, and increase productivity. MindfulAI Copilots & Bots offers a range of services, including chatbot development, AI integration, and automation. The company's goal is to help businesses elevate their operations by leveraging the power of AI.
