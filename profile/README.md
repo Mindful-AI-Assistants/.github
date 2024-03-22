@@ -25,7 +25,7 @@
 ###  <p align="center"> [*Dive within yourself*]()  
 ### <p align="center"> *Discover your essence*
 
-### <p align="center">  [☆]() [Click here](#) to become one in the infinite field of possibilities [☆]()
+### <p align="center">  [☆]() Click here to become one in the infinite field of possibilities [☆]()
 
   #
 
