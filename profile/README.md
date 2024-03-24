@@ -29,11 +29,6 @@
 
 <br>
 
-### $$\Huge \boldsymbol{\mathbf{{\color{Green} \lim \infty }}}$$
-
-
-
-
 <br><br> 
 
 ### <p align="center"> [*Breathe deeply*]()  
