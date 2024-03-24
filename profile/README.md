@@ -10,7 +10,7 @@
 
 
 
-# <p align="center">  💬 MindfulAI Copilots & Bots
+## <p align="center">  💬 MindfulAI Copilots & Bots
 
 
 <br><br><br>
@@ -28,6 +28,7 @@
 <br>
 
 ### $$\Huge \boldsymbol{\mathbf{{\color{Green} \lim \infty }}}$$
+### {\color{cyan} \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}
 
 
 <br><br> 
@@ -49,6 +50,10 @@
 
 <!-- ### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50"> [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)](https://github.com/sponsors/MindfulAI-Copilots-Bots)  -->
 
+### $$\Huge \boldsymbol{\mathbf{{\color{Green} \lim \infty }}}$$
+
+### {\color{cyan} \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}
+
 
 
 <br>
@@ -61,7 +66,6 @@ The company's open-source approach is also beneficial for businesses. By providi
 
 <br>
 
-### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
 
   
 · 　　 ⋆ ˚ ˚ 　　 ✦⋆ · 　 *⋆ ✧　 　 · 　 ✧　✵　　. 　★ ° . *　　　°　.　°☆° 　. ● . ★ ° . *★ ° . *　　　°　.　°☆★ ° . * *☆°. ☆. * ● ¸ . 　　　★ 　° :●. 　 *° :●. 　 *★ ° . *º :●: :
