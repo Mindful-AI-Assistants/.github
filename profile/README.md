@@ -16,7 +16,7 @@
 <br><br><br>
   <!--  END HEADER  -->   
 
-  
+ {\color{cyan} \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}} 
 
 #### $${\color{Green} \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
 
