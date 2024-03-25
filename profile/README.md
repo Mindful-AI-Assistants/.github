@@ -43,9 +43,9 @@ $${\color{Cyan} \Huge \boldsymbol{\mathbf{{ \lim \infty }}}}$$
 ### <p align="center"> 𖤐 *Discover your essence*
 ### <p align="center"> 𖤐 *We are only One Consciousness*
 
-### <p align="center">  [Click Here And Become One in the Infinite Field of Possibilities...](https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/8e1bbca0-4d50-4963-8bee-88af5bd6db2d)
+### <p align="center">  [⚝ Click Here And Become One in the Infinite Field of Possibilities... ⚝](https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/8e1bbca0-4d50-4963-8bee-88af5bd6db2d)
 
-<br>
+ <br>
 
 #
 
