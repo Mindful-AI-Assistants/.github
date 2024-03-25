@@ -30,6 +30,8 @@
 
 $${\color{Cyan} \Huge \boldsymbol{\mathbf{{ \lim \infty }}}}$$
 
+$${\Huge \color{Cyan} \boldsymbol{\mathbf{{ \lim \infty }}}}$$
+
 
 
 
