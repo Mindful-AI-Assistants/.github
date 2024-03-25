@@ -1,4 +1,3 @@
-<!-- ### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50"> [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)(https://github.com/sponsors/MindfulAI-Copilots-Bots)  -->
 
   <!--  START HEADER  -->   
  ° 　. ● . ★ ° . *　　　° * 　.　 :　　:●. 　 *° :●. 　 *
@@ -7,57 +6,46 @@
 • ○ ° ★　 .　 * 　.　 ○ ° ★　 .　 * 　. * ● ¸ . 　★ ° . *★　 　　　　　
 ° 　. ● . ★ ° . *　　　°　. * ● ¸ . 　　　★ 　° :
 　 ° 　. ● . ★ ° . *　　　°　.　 * ● ¸ . 　　　★ 　° :
-<br><br><br>  
-
-## <p align="center">  💬 MindfulAI Copilots & Bots 
-
 <br><br> 
 
- <!--  EMND HEADER  -->
-
- <!-- ### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50"> [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)](https://github.com/sponsors/MindfulAI-Copilots-Bots)  -->
- 
-
- <!--  Latex Math Formula  -->
 
 
- <!-- 
+# <p align="center">  💬 MindfulAI Copilots & Bots
+
+
+<br><br><br>
+  <!--  END HEADER  -->   
+
+ <!-- Math Latex Foumulas   -->     
+ <!--
 ####  $${\color{cyan} \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$ 
 
 #### $${\color{Green} \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
 
+$${\color{Cyan} \Huge \boldsymbol{\mathbf{{ \lim \infty }}}}$$
+
 ### $${\color{cyan} \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
-
-
-### $${\color{Cyan} \Huge \boldsymbol{\mathbf{{ \lim \infty }}}}$$
-
- -->
-
+ --> 
+ 
 ### $${\color{Blue} {\mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
 
-<!-- IMAGE -->
- <!--  width attribute in the img tag to set the width of the image.: The height of the image will be automatically adjusted to maintain the aspect ratio of the image.  --> 
-<p align="center">
-<img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/7a520307-8c65-43f5-80ae-40bb86f09caf" width="250" />
+<br>
 
-### $${\color{Blue}  \Huge \boldsymbol{\mathbf{{ \lim \infty }}}}$$
+<p align="center">
+<img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/7a520307-8c65-43f5-80ae-40bb86f09caf" width="250"/>
 
 <br>
 
-<!-- If you want to set the specific height and width, you can add the height attribute but Be careful because the image may appear distorted because the original aspect ratio is not maintained. Therefore, it is recommended to use only one of the atribiuts so that the portion is adjusted,  , as occurs in the following code --> 
- <!-- 
-<p align="center">
+<br><br> 
 
-  <!-- Code out of portion adjusted:
-  <p align="center">
-<img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/7a520307-8c65-43f5-80ae-40bb86f09caf" width="500" height="300" />
- --> 
+### <p align="center"> 𖤐 *Breathe deeply* 
+###  <p align="center"> 𖤐 *Dive within yourself*  
+### <p align="center"> 𖤐 *Discover your essence*
+### <p align="center"> 𖤐 *We are only One Consciousness*
 
-<br><br>
+### <p align="center">  [⚝ Click Here And Become One in the Infinite Field of Possibilities... ⚝](https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/8e1bbca0-4d50-4963-8bee-88af5bd6db2d)
 
-###  <p align="center">   ☆ [Tap here and Make Wish](https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/8e1bbca0-4d50-4963-8bee-88af5bd6db2d) ☆
-
-<br>
+ <br>
 
 #
 
@@ -92,57 +80,4 @@ The company's open-source approach is also beneficial for businesses. By providi
 ###### <p align="center">[Copyright 2024 MindfulAI-Copilots-Bots. Code released under the  MIT license.](https://github.com/MindfulAI-Copilots-Bots/.github/blob/cc8ab163231d96e24788c1717fa862d151c1aab1/LICENSE)
  
  
- 
-
-
-
-
-
-
-
-
-
-
-
-
- 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
