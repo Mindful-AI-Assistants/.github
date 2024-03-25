@@ -18,7 +18,7 @@
  <!-- ### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50"> [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)](https://github.com/sponsors/MindfulAI-Copilots-Bots)  -->
  
 
-
+{\color{Blue} {\mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}
 
 ####  $${\color{cyan} \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$ 
 
