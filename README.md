@@ -31,9 +31,6 @@ $${\color{Blue} {\mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}
 
  $${\color{Cyan} \Huge \boldsymbol{\mathbf{{ \lim \infty }}}}$$
 
-$${\color{Cyan} \Huge \boldsymbol{\mathbf{{ \lim \infty }}}}$$
-
-$${\Huge \color{Cyan} \boldsymbol{\mathbf{{ \lim \infty }}}}$$
 
 
 <!-- IMAGE -->
