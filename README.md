@@ -15,6 +15,22 @@
 
  <!--  EMND HEADER  -->
 
+ <!-- ### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50"> [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)](https://github.com/sponsors/MindfulAI-Copilots-Bots)  -->
+ 
+
+### $$\Huge \boldsymbol{\mathbf{{\color{Green} \lim \infty }}}$$
+
+{\color{Cyan} \Huge \boldsymbol{\mathbf{{ \lim \infty }}}}
+
+### {\color{cyan} \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}
+
+
+
+
+
+
+
+
  <!--  width attribute in the img tag to set the width of the image.: The height of the image will be automatically adjusted to maintain the aspect ratio of the image.  --> 
 <p align="center">
 <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/7a520307-8c65-43f5-80ae-40bb86f09caf" width="250" />
