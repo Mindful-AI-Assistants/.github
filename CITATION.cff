@@ -4,5 +4,5 @@ message: If you really want to cite this repository, here's how you should cite 
 type: software
 authors:
   - given-names: MindfulAI-Copilots-Bots
-repository-code: https://github.com/MindfulAI-Copilots-Bots/HACKAPUCSP
+repository-code: https://github.com/MindfulAI-Copilots-Bots/.github
 license: MIT License
