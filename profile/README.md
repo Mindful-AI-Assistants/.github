@@ -32,6 +32,12 @@ $${\color{Cyan} \Huge \boldsymbol{\mathbf{{ \lim \infty }}}}$$
 ### $${\color{cyan} \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
 
 ### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
+
+$$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
+
+### $${\color{cyan}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
+
+### $${\color{Cyan} \Huge \boldsymbol{\mathbf{\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
  --> 
  
 ### $${\color{cyan}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
@@ -48,11 +54,7 @@ $${\color{Cyan} \Huge \boldsymbol{\mathbf{{ \lim \infty }}}}$$
 
 <br>
 
-$$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
-### $${\color{cyan}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
-
-### $${\color{Cyan} \Huge \boldsymbol{\mathbf{\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
 
 ### $${\color{cyan} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$
 
