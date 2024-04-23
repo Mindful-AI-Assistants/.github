@@ -51,7 +51,7 @@ $${\color{Cyan} \Huge \boldsymbol{\mathbf{{ \lim \infty }}}}$$
 
 ### $${\color{Cyan} \Huge \boldsymbol{\mathbf{{ \lim \infty }}}}$$
 
-### $${\color{cyan} \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$
+### $${\color{cyan} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$
 
 <br><br> 
 
