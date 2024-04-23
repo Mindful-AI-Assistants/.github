@@ -25,6 +25,8 @@
 
 $${\color{Cyan} \Huge \boldsymbol{\mathbf{{ \lim \infty }}}}$$
 
+### $${\color{Blue} \boldsymbol{\mathbf{{ \lim \infty }}}}$$
+
 ### $${\color{Blue} {\mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
 
 ### $${\color{cyan} \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
@@ -46,7 +48,7 @@ $${\color{Green} \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}
 
 <br>
 
-### $${\color{Blue} \boldsymbol{\mathbf{{ \lim \infty }}}}$$
+
 
 $${\color{Cyan} \Huge \boldsymbol{\mathbf{{ \lim \infty }}}}$$
 
