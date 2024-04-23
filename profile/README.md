@@ -28,6 +28,7 @@ $${\color{Cyan} \Huge \boldsymbol{\mathbf{{ \lim \infty }}}}$$
 ### $${\color{cyan} \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
  --> 
  
+### $${\color{cyan} \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
 ### $${\color{Blue} {\mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
 
 <br>
