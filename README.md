@@ -14,8 +14,7 @@
 ### <p align="center"> [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)](https://github.com/sponsors/MindfulAI-Copilots-Bots)
 
 
-<br><br><br>
-  <!--  END HEADER  -->   
+<br>
 
  <!-- Math Latex Foumulas   -->     
  <!--
@@ -25,32 +24,44 @@
 
 $${\color{Cyan} \Huge \boldsymbol{\mathbf{{ \lim \infty }}}}$$
 
+### $${\color{Blue} \boldsymbol{\mathbf{{ \lim \infty }}}}$$
+
+### $${\color{Blue} {\mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
+
 ### $${\color{cyan} \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
+
+### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
+
+$$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
+
+### $${\color{cyan}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
+
+### $${\color{Cyan} \Huge \boldsymbol{\mathbf{\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
  --> 
  
-### $${\color{Blue} {\mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
+##### $${\color{cyan}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
+
 
 <br>
 
- <!-- <p align="center"> 
+ <!-- <p align="center">
 <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/7a520307-8c65-43f5-80ae-40bb86f09caf" width="250"/>  --> 
 
 <p align="center">
-<img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="200"/><img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="200"/>
-
+<img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="170"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="170"/>
 
 <br>
 
-### $${\color{Blue} \boldsymbol{\mathbf{{ \lim \infty }}}}$$
+##### $${\color{cyan} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$
 
 <br><br> 
 
-### <p align="center"> 𖤐 *Breathe deeply.* 
-###  <p align="center"> 𖤐 *Dive within yourself.*  
-### <p align="center"> 𖤐 *Discover your essence.*
-### <p align="center"> 𖤐 *We are only one consciousness.*
+### <p align="center"> [𖤐]() *Breathe deeply.* 
+###  <p align="center"> [𖤐]() *Dive within yourself.*  
+### <p align="center"> [𖤐]() *Discover your essence.*
+### <p align="center"> [𖤐]() *We are only one [consciousness]().*
 
-### <p align="center">  [⚝ Click And Become One in the Infinite Field of Possibilities... ⚝](https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/8e1bbca0-4d50-4963-8bee-88af5bd6db2d)
+### <p align="center">  ⚝ [Tap Here](https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/8e1bbca0-4d50-4963-8bee-88af5bd6db2d) and Become One in the Infinite Field of Possibilities... ⚝
 
  <br>
 
