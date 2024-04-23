@@ -34,7 +34,7 @@ $${\color{Cyan} \Huge \boldsymbol{\mathbf{{ \lim \infty }}}}$$
  
 ### $${\color{cyan}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
 
-### $${\color{Green} \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
+### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
 
 
 <br>
