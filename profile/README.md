@@ -13,8 +13,8 @@
 
 ### <p align="center"> [![Sponsor MindfulAI Copilots & Bots](https://img.shields.io/badge/Sponsor-MindfulAI%20Copilots%20%26%20Bots-brightgreen?logo=GitHub)](https://github.com/sponsors/MindfulAI-Copilots-Bots)
 
+<br>
 
-<br><br><br>
   <!--  END HEADER  -->   
 
  <!-- Math Latex Foumulas   -->     
@@ -35,8 +35,6 @@ $${\color{Cyan} \Huge \boldsymbol{\mathbf{{ \lim \infty }}}}$$
  --> 
  
 ### $${\color{cyan}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
-
-
 
 
 <br>
