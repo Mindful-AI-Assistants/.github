@@ -57,10 +57,10 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 <br><br> 
 
-### <p align="center"> [𖤐]() *Breathe deeply.* 
-###  <p align="center"> [𖤐]() *Dive within yourself.*  
-### <p align="center"> [𖤐]() *Discover your essence.*
-### <p align="center"> [𖤐]() *We are only one [consciousness]().*
+#### <p align="center"> [𖤐]() *Breathe deeply.* 
+####  <p align="center"> [𖤐]() *Dive within yourself.*  
+#### <p align="center"> [𖤐]() *Discover your essence.*
+#### <p align="center"> [𖤐]() *We are only one [consciousness]().*
 
 ### <p align="center">  ⚝ [Tap Here](https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/8e1bbca0-4d50-4963-8bee-88af5bd6db2d) and Become One in the Infinite Field of Possibilities... ⚝
 
