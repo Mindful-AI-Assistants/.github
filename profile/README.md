@@ -48,6 +48,7 @@ $${\color{Cyan} \Huge \boldsymbol{\mathbf{{ \lim \infty }}}}$$
 
 <br>
 
+$$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 ### $${\color{Cyan} \Huge \boldsymbol{\mathbf{{ \lim \infty }}}}$$
 
