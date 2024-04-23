@@ -40,7 +40,7 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 ### $${\color{Cyan} \Huge \boldsymbol{\mathbf{\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
  --> 
  
-#### $${\color{cyan}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
+##### $${\color{cyan}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
 
 
 <br>
@@ -53,7 +53,7 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 <br>
 
-#### $${\color{cyan} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$
+##### $${\color{cyan} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$
 
 <br><br> 
 
