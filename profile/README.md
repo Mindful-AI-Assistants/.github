@@ -53,7 +53,7 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 <br>
 
-##### $${\color{cyan} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$  <br>
+##### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$  <br>
 
 #### <p align="center"> [𖤐]() *Breathe deeply.* 
 ####  <p align="center"> [𖤐]() *Dive within yourself.*  
