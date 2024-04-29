@@ -89,7 +89,7 @@ The company's open-source approach is also beneficial for businesses. By providi
 
 #
  
-###### <p align="center">[Copyright 2024 Mindful-AI-Assistants. Code released under the  MIT license.](https://github.com/MindfulAI-Copilots-Bots/.github/blob/cc8ab163231d96e24788c1717fa862d151c1aab1/LICENSE)
+###### <p align="center">[Copyright 2024 Mindful-AI-Assistants. Code released under the  MIT license.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE
+)
  
- https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE
 
