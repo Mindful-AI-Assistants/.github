@@ -40,3 +40,6 @@
 **Mindful-AI-Assistants** é uma organização de código aberto fundada por [Fabiana Campanari](https://github.com/FabianaCampanari), uma cientista de dados de inteligência artificial apaixonada por IA, Design e Código. O conceito da organização é “Elevando Seu Negócio com Copilots, Bots e Agentes Conscientes”, e se concentra na criação de copilotos, bots, agentes e outras soluções de IA.
 
 ## O que são Copilotos, Bots e Agentes?
+
+  Copilots: A Copilot is an artificial intelligence that assists users in specific tasks, providing real-time suggestions and guidance. For example, a Copilot can be designed to help users write code, providing real-time suggestions and corrections.
+
