@@ -81,8 +81,7 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
  --------
 
-
-The company's open-source approach is also beneficial for businesses. By providing access to the source code, businesses can customize the tools to meet their specific needs. Additionally, the open-source approach allows for collaboration between businesses, which can lead to the development of new and innovative tools.
+the open-source approach allows for collaboration between businesses, which can lead to the development of new and innovative tools.
 
 <br>
 
