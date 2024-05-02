@@ -74,13 +74,12 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 #
 
 <br>
-
+-
 
 [Fabiana Campanari](https://github.com/FabianaCampanari) 
 
 
 
-The company's open-source approach is also beneficial for businesses. By providing access to the source code, businesses can customize the tools to meet their specific needs. Additionally, the open-source approach allows for collaboration between businesses, which can lead to the development of new and innovative tools.
 
 <br>
 
