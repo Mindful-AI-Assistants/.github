@@ -86,7 +86,7 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
  - **Bots:** A Bot is a software programmed to perform automated tasks. Bots can be simple (like a customer service bot that answers frequently asked questions) or complex (like a stock trading bot that analyzes real-time stock market data).
 
- - **Agents:** An Agent is a computer program that operates autonomously to perform specific tasks. 
+ - **Agents:** An Agent is a computer program that operates autonomously to perform specific tasks. They are designed to learn and adapt over time based on data input and feedback. 
 
 
 
