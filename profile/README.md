@@ -88,8 +88,6 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 - **Bots:** A Bot is a software programmed to perform automated tasks. Bots can be simple (like a customer service bot that answers frequently asked questions)  or complex (like a stock trading bot that analyzes real-time stock market data).
 
-- **Bots:** A Bot is a software programmed to perform automated tasks. Bots can be simple (like a customer service bot that answers frequently asked questions).
-
 
 - **Agents:** 
 
