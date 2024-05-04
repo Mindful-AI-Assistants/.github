@@ -101,6 +101,7 @@ Predictive modeling, in turn, is a technique that uses data, statistical algorit
 
 ## Open Source Approach
 
+Our open-source approach offers significant benefits for businesses. 
 
 
 
