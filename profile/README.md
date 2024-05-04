@@ -85,7 +85,7 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 - **Copilots:** A Copilot is an artificial intelligence that assists users in specific tasks, providing real-time suggestions and guidance. For example, a Copilot can be designed to help users write code, providing real-time suggestions and corrections.
 
-- **Bots:** A Bot is a software programmed to perform automated tasks. Bots can be simple 
+- **Bots:** A Bot is a software programmed to perform automated tasks. Bots can be simple (like a customer service bot that answers frequently asked questions)
 
 
 
