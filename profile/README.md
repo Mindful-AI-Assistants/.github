@@ -75,11 +75,8 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 <br>
 
--------
+Mindful-AI-Assistants is an open-source organization founded by [Fabiana Campanari](https://github.com/FabianaCampanari) 
 
- [Fabiana Campanari](https://github.com/FabianaCampanari) 
-
- --------
 
 the open-source approach allows for collaboration between businesses, which can lead to the development of new and innovative tools.
 
