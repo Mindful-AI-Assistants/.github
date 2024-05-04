@@ -108,9 +108,12 @@ Our open-source approach offers significant benefits for businesses. It not only
 
 The **Mindful AI Assistants Organization** encourages everyone to participate in the project and contribute to its success!
 
+<br>
+
  <p align="center"> 🌎💙 TOGETHER WE ARE STRONGER, TOGETHER WE CAN CJHAN GE THE WORLD !
 
-<br>
+
+#
 
 ### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
      
