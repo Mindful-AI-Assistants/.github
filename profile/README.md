@@ -75,7 +75,7 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 <br>
 
-**Mindful-AI-Assistants** is an open-source organization founded by [Fabiana Campanari](https://github.com/FabianaCampanari)a passionate artificial intelligence data scientist who loves AI, Design, and Code. The concept of the organization is "Elevating Your Business with Conscious Copilots, Bots, and Agents", and it focuses on creating copilots, bots, agents, and other AI solutions. Moreover, Mindful-AI-Assistants goes beyond technology, aiming to integrate spiritual development into its mission. We believe that technological advancement is truly meaningful only when accompanied by spiritual growth, 
+**Mindful-AI-Assistants** is an open-source organization founded by [Fabiana Campanari](https://github.com/FabianaCampanari)a passionate artificial intelligence data scientist who loves AI, Design, and Code. The concept of the organization is "Elevating Your Business with Conscious Copilots, Bots, and Agents", and it focuses on creating copilots, bots, agents, and other AI solutions. Moreover, Mindful-AI-Assistants goes beyond technology, aiming to integrate spiritual development into its mission. We believe that technological advancement is truly meaningful only when accompanied by spiritual growth, as both are essential for human well-being. 
 
 
 
