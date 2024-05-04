@@ -106,6 +106,8 @@ Our open-source approach offers significant benefits for businesses. It not only
 
 ## Important Note
 
+The **Mindful AI Assistants Organization** 
+
 
 
 
