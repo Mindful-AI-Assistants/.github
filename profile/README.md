@@ -110,7 +110,7 @@ The **Mindful AI Assistants Organization** encourages everyone to participate in
 
 <br>
 
- <p align="center"> 🌎💙 TOGETHER WE ARE STRONGER, TOGETHER WE CAN CJHAN GE THE WORLD !
+ <p align="center"> 🌎💙  TOGETHER WE ARE STRONGER, TOGETHER WE CAN CHANGE THE WORLD !
 
 
 #
