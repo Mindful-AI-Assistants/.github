@@ -66,10 +66,6 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
  <br>
 
-#
-
-<br>
-
 ## Sobre Nós
 
 **Assistentes de IA Conscientes** é uma organização de código aberto fundada por [Fabiana Campanari](https://github.com/FabianaCampanari) uma apaixonada cientista de dados de
