@@ -38,5 +38,9 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 ### $${\color{cyan}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
 
+### $${\color{Cyan} \Huge \boldsymbol{\mathbf{\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
+ --> 
+
+
 
 
