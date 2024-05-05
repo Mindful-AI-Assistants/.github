@@ -60,6 +60,8 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 <br>
 
+#### <p align="center"> [𖤐]() *Respire profundamente*  [𖤐]() *Mergulhe dentro de si mesmo* [𖤐]() *Descubra sua essência*
+
 
 
 
