@@ -64,8 +64,6 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 #### <p align="center"> [𖤐]() *Nós somos apenas [uma consciência](https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/8e1bbca0-4d50-4963-8bee-88af5bd6db2d) no campo infinito de possibilidades... [⚝]()*
 
-
-
  <br>
 
 #
@@ -73,5 +71,7 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 <br>
 
 ## Sobre Nós
+
+**Assistentes de IA Conscientes** é uma organização de código aberto fundada por [Fabiana Campanari](https://github.com/FabianaCampanari) uma apaixonada cientista de dados de
 
 
