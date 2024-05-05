@@ -100,3 +100,4 @@ A modelagem preditiva, por sua vez, é uma técnica que utiliza dados, algoritmo
 
 
 
+
