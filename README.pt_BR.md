@@ -82,7 +82,9 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 ## O que Oferecemos
 
-A **MindfulAI-Assistants** tem como objetivo fornecer ferramentas alimentadas por IA que podem ajudar a automatizar tarefas repetitivas, melhorar a comunicação, aumentar a produtividade e realizar análises futuras baseadas em modelos preditivos. 
+A **MindfulAI-Assistants** tem como objetivo fornecer ferramentas alimentadas por IA que podem ajudar a automatizar tarefas repetitivas, melhorar a comunicação, aumentar a produtividade e realizar análises futuras baseadas em modelos preditivos. Oferecemos uma variedade de soluções, incluindo desenvolvimento de chatbot, integração de IA, automação e modelagem preditiva.
+
+
 
 
 
