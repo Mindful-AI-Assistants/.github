@@ -103,7 +103,7 @@ Our open-source approach offers significant benefits for businesses. It not only
 
 ## Important Note
 
-The **Mindful AI Assistants Organization** encourages everyone to participate in the project and contribute to its success!
+**Mindful AI Assistants Organization** encourages everyone to participate in the project and contribute to its success!
 
 <br>
 
