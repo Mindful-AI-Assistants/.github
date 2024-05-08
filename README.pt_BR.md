@@ -99,6 +99,12 @@ Nossa abordagem de código aberto oferece benefícios significativos para os neg
 
 Nossa abordagem de código aberto oferece benefícios significativos para os negócios. Ela não apenas fornece acesso ao código-fonte, permitindo a personalização das ferramentas de acordo com as necessidades específicas,  mas também promove a colaboração interempresarial. Essa interação pode impulsionar o desenvolvimento de soluções inovadoras, ampliando ainda mais as possibilidades de uso da Inteligência Artificial.
 
+A MindfulAI Copilots & Bots Organization incentiva todos a participarem do projeto e contribuírem para o seu sucesso! 
+
+
+
+
+
 
 
 
