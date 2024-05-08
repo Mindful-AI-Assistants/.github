@@ -97,8 +97,7 @@ Nossa abordagem de código aberto oferece benefícios significativos para os neg
 
 ## Abordagem de Código Aberto
 
-Nossa abordagem de código aberto oferece benefícios significativos para os negócios. E
-
+Nossa abordagem de código aberto oferece benefícios significativos para os negócios. Ela não apenas fornece acesso ao código-fonte, permitindo a personalização das ferramentas de acordo com as necessidades específicas,
 
 
 
