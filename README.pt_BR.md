@@ -103,7 +103,10 @@ A MindfulAI Copilots & Bots Organization incentiva todos a participarem do proje
 
 <br>
 
-🌎💙 Unidos SOMOS MAIS FORTES! Unidos PODE<OS M<UDART O MUNDO!
+
+🌎💙 Unidos SOMOS MAIS FORTES! Unidos PODE<OS MUDAR O MUNDO!
+
+
 
 
 
