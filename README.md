@@ -1,4 +1,4 @@
- \[[🇧🇷 Português](README.ptBR.md)\] \[**[🇺🇸English](README.md)**\]
+]
 
  <!--  START HEADER  -->   
  ° 　. ● . ★ ° . *　　　° * 　.　 :　　:●. 　 *° :●. 　 *
