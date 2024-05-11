@@ -67,6 +67,6 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 **Mindful AI Assistants** é uma organização de código aberto fundada por [Fabiana Campanari](https://github.com/FabianaCampanari), uma apaixonada cientista de dados de inteligência artificial que ama IA, Design e Código. O conceito da organização é "Capacitar Empresas com Co-pilotos, Agentes, Bots e Mais!",  e ela se concentra em criar co-pilotos, bots, agentes e outras soluções de IA. Além disso, a **Mindful AI Assistants** vai além da tecnologia, visando integrar o desenvolvimento espiritual em sua missão. Acreditamos que o avanço tecnológico é verdadeiramente significativo apenas quando acompanhado pelo crescimento espiritual, pois ambos são essenciais para o bem-estar e desenvolvimento humano. 
 
-Nossa abordagem valoriza o trabalho colaborativo e promove o senso de unidade, inspirando-nos a contribuir e implementar nossos códigos com o propósito de construir algo que beneficie a humanidade como um todo. Esta visão elevada é a força motriz por trás de nossa motivação, 
+Nossa abordagem valoriza o trabalho colaborativo e promove o senso de unidade, inspirando-nos a contribuir e implementar nossos códigos com o propósito de construir algo que beneficie a humanidade como um todo. Esta visão elevada é a força motriz por trás de nossa motivação, irradiando **amor**, **frequencia**, **vibração** e **alegria** em cada empreendimento. ॐ 
  
 
