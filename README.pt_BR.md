@@ -77,6 +77,10 @@ Nossa abordagem valoriza o trabalho colaborativo e promove o senso de unidade, i
 
 - **Agentes:** Um Agente é um programa de computador que opera autonomamente para realizar tarefas específicas. Eles são projetados para aprender e se adaptar ao longo do tempo com base em entradas de dados e feedback. Eles podem ser usados em uma variedade de aplicações, de jogos de computador a assistentes pessoais virtuais.
 
+## O que Oferecemos
+
+
+
 
 
  
