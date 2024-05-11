@@ -11,7 +11,7 @@
 <br><br> 
 
 
-# <p align="center">  💬 Mindful-AI-Assistants
+# <p align="center">  💬 Mindful AI Assistants
 ### <p align="center"> Empowering Businesses with Copilots, Agents, Bots and More!
 
 
