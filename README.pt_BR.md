@@ -63,13 +63,13 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
  <br>
 
-## Sobre Nós
+## [Sobre Nós]()
 
 **Mindful AI Assistants** é uma organização de código aberto fundada por [Fabiana Campanari](https://github.com/FabianaCampanari), uma apaixonada cientista de dados de inteligência artificial que ama IA, Design e Código. O conceito da organização é "Capacitar Empresas com Co-pilotos, Agentes, Bots e Mais!",  e ela se concentra em criar co-pilotos, bots, agentes e outras soluções de IA. Além disso, a **Mindful AI Assistants** vai além da tecnologia, visando integrar o desenvolvimento espiritual em sua missão. Acreditamos que o avanço tecnológico é verdadeiramente significativo apenas quando acompanhado pelo crescimento espiritual, pois ambos são essenciais para o bem-estar e desenvolvimento humano. 
 
 Nossa abordagem valoriza o trabalho colaborativo e promove o senso de unidade, inspirando-nos a contribuir e implementar nossos códigos com o propósito de construir algo que beneficie a humanidade como um todo. Esta visão elevada é a força motriz por trás de nossa motivação, irradiando **amor**, **frequencia**, **vibração** e **alegria** em cada empreendimento. [ॐ]() 
 
- ## O Que São Co-pilotos, Bots e Agentes?
+ ## [O Que São Co-pilotos, Bots e Agentes?]()
 
 - **Co-pilotos:** Um Co-piloto é uma inteligência artificial que ajuda os usuários em tarefas específicas, fornecendo sugestões e orientações em tempo real. Por exemplo, um Co-piloto pode ser projetado para ajudar os usuários a escrever código, fornecendo sugestões e correções em tempo real.
 
@@ -77,7 +77,7 @@ Nossa abordagem valoriza o trabalho colaborativo e promove o senso de unidade, i
 
 - **Agentes:** Um Agente é um programa de computador que opera autonomamente para realizar tarefas específicas. Eles são projetados para aprender e se adaptar ao longo do tempo com base em entradas de dados e feedback. Eles podem ser usados em uma variedade de aplicações, de jogos de computador a assistentes pessoais virtuais.
 
-## O que Oferecemos
+## [O que Oferecemos]()
 
 A **Mindful AI Assistants** tem como objetivo fornecer ferramentas alimentadas por IA que podem ajudar a automatizar tarefas repetitivas, melhorar a comunicação, aumentar a produtividade e realizar análises futuras baseadas em modelos preditivos. Oferecemos uma variedade de soluções, incluindo **desenvolvimento de chatbot**, **integração de IA**, **automação** e **modelagem preditiva**.
 
