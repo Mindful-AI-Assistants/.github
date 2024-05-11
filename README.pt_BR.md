@@ -71,5 +71,4 @@ Nossa abordagem valoriza o trabalho colaborativo e promove o senso de unidade, i
 
  ## O Que São Co-pilotos, Bots e Agentes?
 
-- **Co-pilotos:** Um Co-piloto é uma inteligência artificial que ajuda os usuários em tarefas específicas, fornecendo sugestões e orientações em tempo real. 
-
+- **Co-pilotos:** Um Co-piloto é uma inteligência artificial que ajuda os usuários em tarefas específicas, fornecendo sugestões e orientações em tempo real. Por exemplo, um Co-piloto pode ser projetado para ajudar os usuários a escrever código,
