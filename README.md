@@ -75,7 +75,9 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 ## About Us
 
-**Mindful-AI-Assistants** is an open-source organization founded by [Fabiana Campanari](https://github.com/FabianaCampanari) a passionate artificial intelligence data scientist who loves AI, Design, and Code. The concept of the organization is "Empowering Businesses with Copilots, Agents, Bots and More!", and it focuses on creating copilots, bots, agents, and other AI solutions. Moreover, **Mindful-AI-Assistants** goes beyond technology, aiming to integrate spiritual development into its mission. We believe that technological advancement is truly meaningful only when accompanied by spiritual growth, as both are essential for human well-being. Our approach values collaborative work and fosters a sense of unity, inspiring us to contribute and implement our codes with the purpose of building something that benefits humanity as a whole. This elevated vision is the driving force behind our motivation, radiating love, vibration, and joy in every endeavor. ॐ
+**Mindful-AI-Assistants** is an open-source organization founded by [Fabiana Campanari](https://github.com/FabianaCampanari) a passionate artificial intelligence data scientist who loves AI, Design, and Code. The concept of the organization is "Empowering Businesses with Copilots, Agents, Bots and More!", and it focuses on creating copilots, bots, agents, and other AI solutions. Moreover, **Mindful-AI-Assistants** goes beyond technology, aiming to integrate spiritual development into its mission. We believe that technological advancement is truly meaningful only when accompanied by spiritual growth, as both are essential for human well-being. 
+
+Our approach values collaborative work and fosters a sense of unity, inspiring us to contribute and implement our codes with the purpose of building something that benefits humanity as a whole. This elevated vision is the driving force behind our motivation, radiating **love**, **frequencia**,**vibration**, and **joy** in every endeavor. ॐ
 
 ## What are Copilots, Bots, and Agents?
 
