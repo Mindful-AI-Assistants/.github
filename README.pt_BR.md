@@ -73,6 +73,8 @@ Nossa abordagem valoriza o trabalho colaborativo e promove o senso de unidade, i
 
 - **Co-pilotos:** Um Co-piloto é uma inteligência artificial que ajuda os usuários em tarefas específicas, fornecendo sugestões e orientações em tempo real. Por exemplo, um Co-piloto pode ser projetado para ajudar os usuários a escrever código, fornecendo sugestões e correções em tempo real.
 
-- **Bots:** Um Bot é um software programado para realizar tarefas automatizadas.  Os Bots podem ser simples (como um bot de serviço ao cliente que responde a perguntas frequentes) 
+- **Bots:** Um Bot é um software programado para realizar tarefas automatizadas.  Os Bots podem ser simples (como um bot de serviço ao cliente que responde a perguntas frequentes) ou complexos (como um bot de negociação de ações que analisa dados do mercado de ações em tempo real).
+
+
 
 
