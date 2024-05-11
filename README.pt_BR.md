@@ -79,7 +79,7 @@ Nossa abordagem valoriza o trabalho colaborativo e promove o senso de unidade, i
 
 ## O que Oferecemos
 
-A **Mindful AI Assistants** tem como objetivo fornecer ferramentas alimentadas por IA que podem ajudar a automatizar tarefas repetitivas, melhorar a comunicação, aumentar a produtividade e realizar análises futuras baseadas em modelos preditivos. Oferecemos uma variedade de soluções, incluindo desenvolvimento de chatbot, integração de IA, automação e modelagem preditiva.
+A **Mindful AI Assistants** tem como objetivo fornecer ferramentas alimentadas por IA que podem ajudar a automatizar tarefas repetitivas, melhorar a comunicação, aumentar a produtividade e realizar análises futuras baseadas em modelos preditivos. Oferecemos uma variedade de soluções, incluindo desenvolvimento de **chatbot**, **integração de IA**, **automação** e **modelagem preditiva**.
 
 
 
