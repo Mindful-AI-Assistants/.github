@@ -79,4 +79,12 @@ Nossa abordagem valoriza o trabalho colaborativo e promove o senso de unidade, i
 
 ## O que Oferecemos
 
-A **Mindful AI Assistants** 
+A **Mindful AI Assistants** tem como objetivo fornecer ferramentas alimentadas por IA 
+
+
+
+
+
+ 
+
+
