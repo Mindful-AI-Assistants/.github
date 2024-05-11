@@ -75,6 +75,4 @@ Nossa abordagem valoriza o trabalho colaborativo e promove o senso de unidade, i
 
 - **Bots:** Um Bot é um software programado para realizar tarefas automatizadas.  Os Bots podem ser simples (como um bot de serviço ao cliente que responde a perguntas frequentes) ou complexos (como um bot de negociação de ações que analisa dados do mercado de ações em tempo real).
 
-
-
-
+- - **Agentes:** 
