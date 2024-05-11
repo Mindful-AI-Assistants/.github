@@ -79,7 +79,7 @@ Nossa abordagem valoriza o trabalho colaborativo e promove o senso de unidade, i
 
 ## O que Oferecemos
 
-A **Mindful AI Assistants** tem como objetivo fornecer ferramentas alimentadas por IA 
+A **Mindful AI Assistants** tem como objetivo fornecer ferramentas alimentadas por IA que podem ajudar a automatizar tarefas repetitivas, melhorar a comunicação, aumentar a produtividade
 
 
 
