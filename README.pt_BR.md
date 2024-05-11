@@ -79,10 +79,4 @@ Nossa abordagem valoriza o trabalho colaborativo e promove o senso de unidade, i
 
 ## O que Oferecemos
 
-
-
-
-
- 
-
-
+A **MindfulAI-Assistants** 
