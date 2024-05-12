@@ -88,7 +88,10 @@ A  **modelagem preditiva**, por sua vez, é uma técnica que utiliza dados, algo
   
 ## Abordagem de Código Aberto
 
-Nossa abordagem de código aberto 
+Nossa abordagem de código aberto oferece benefícios significativos para os negócios. 
+
+
+ 
 
 
 
