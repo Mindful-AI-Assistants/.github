@@ -88,9 +88,7 @@ A  **modelagem preditiva**, por sua vez, é uma técnica que utiliza dados, algo
   
 ## Abordagem de Código Aberto
 
-Nossa abordagem de código aberto oferece benefícios significativos para os negócios. Ela não apenas fornece acesso ao código-fonte, permitindo a personalização das ferramentas de acordo com as necessidades específicas
-
-
+Nossa abordagem de código aberto oferece benefícios significativos para os negócios. Ela não apenas fornece acesso ao código-fonte, permitindo a personalização das ferramentas de acordo com as necessidades específicas , mas também promove a colaboração interempresarial. 
  
 
 
