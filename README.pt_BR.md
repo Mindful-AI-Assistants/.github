@@ -93,6 +93,10 @@ Nossa abordagem de código aberto oferece benefícios significativos para os neg
 
 ## Aviso Importante
 
+ 
+A MindfulAI Copilots & Bots Organization incentiva todos a participarem do projeto e contribuírem para o seu sucesso! 
+
+
 
  
 
