@@ -1,6 +1,6 @@
-\[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
-
- <!--  START HEADER  -->   
+ \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
+  <!--  START HEADER  -->   
+  
  ° 　. ● . ★ ° . *　　　° * 　.　 :　　:●. 　 *° :●. 　 *
 .　 * 　.　 　 ˚ *.　　 *　　 * ⋆ 　 .
 · 　　 ⋆ ˚ ˚ 　　 ✦⋆ · 　 *⋆ ✧　 　 · 　 ✧　✵　　. 　★ ° . *　　　°　.　°☆° 　. ● . ★ ° . *★ ° . *　　　°　.　°☆★ ° . * *☆°. ☆. * ● ¸ . 　　　★ 　° :●. 　 *° :●. 　 *★ ° . *º :●: :
@@ -12,7 +12,7 @@
 <br><br> 
 
 
-# <p align="center">  💬 Mindful-AI-Assistants
+# <p align="center">  💬 Mindful AI Assistants
 ### <p align="center"> Empowering Businesses with Copilots, Agents, Bots and More!
 
 
@@ -52,12 +52,11 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 <br>
 
- <!--
-<p align="center">
+ <!-- <p align="center">
 <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/7a520307-8c65-43f5-80ae-40bb86f09caf" width="250"/>  --> 
 
 <p align="center">
-<img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="250"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="250"/>
+<img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="230"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="230"/>
 
 <br><br>
 
@@ -74,13 +73,15 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
  <br>
 
 
-## About Us
+## [About Us]()
 
 **Mindful-AI-Assistants** is an open-source organization founded by [Fabiana Campanari](https://github.com/FabianaCampanari) a passionate artificial intelligence data scientist who loves AI, Design, and Code. The concept of the organization is "Empowering Businesses with Copilots, Agents, Bots and More!", and it focuses on creating copilots, bots, agents, and other AI solutions. Moreover, **Mindful-AI-Assistants** goes beyond technology, aiming to integrate spiritual development into its mission. We believe that technological advancement is truly meaningful only when accompanied by spiritual growth, as both are essential for human well-being. 
 
-Our approach values collaborative work and fosters a sense of unity, inspiring us to contribute and implement our codes with the purpose of building something that benefits humanity as a whole. This elevated vision is the driving force behind our motivation, radiating **love**, **frequency**, **vibration**, and **joy** in every endeavor. ॐ
+Our approach values collaborative work and fosters a sense of unity, inspiring us to contribute and implement our codes with the purpose of building something that benefits humanity as a whole. This elevated vision is the driving force behind our motivation, radiating **love**, **frequency**, **vibration**, and **joy** in every endeavor. [ॐ]()
 
-## What are Copilots, Bots, and Agents?
+
+
+## [What are Copilots, Bots, and Agents?]()
 
 - **Copilots:** A Copilot is an artificial intelligence that assists users in specific tasks, providing real-time suggestions and guidance. For example, a Copilot can be designed to help users write code, providing real-time suggestions and corrections.
 
@@ -89,27 +90,27 @@ Our approach values collaborative work and fosters a sense of unity, inspiring u
 - **Agents:** An Agent is a computer program that operates autonomously to perform specific tasks. They are designed to learn and adapt over time based on data input and feedback. They can be used in a variety of applications, from computer games to virtual personal assistants.
   
 
-## What We Offer
+## [What We Offer]()
 
-**MindfulAI-Assistants** aims to provide AI-powered tools that can help automate repetitive tasks, improve communication, increase productivity, and perform future analyses based on predictive models. We offer a variety of solutions, including chatbot development, AI integration, automation, and predictive modeling.
+**MindfulAI-Assistants** aims to provide AI-powered tools that can help automate repetitive tasks, improve communication, increase productivity, and perform future analyses based on predictive models. We offer a variety of solutions, including **chatbot development**, **AI integration, automation**, and **predictive modeling**.
 
-Our solutions are essential for businesses that want to improve their communication, productivity, and ability to predict trends and patterns. The use of chatbots, copilots, and agents can help automate repetitive tasks, freeing up time for employees to focus on more important tasks.  In addition, the implementation of AI-based tools can enhance communication , promoting more effective collaboration and more fluid information sharing, benefiting both the interaction among team members and the relationship with customers.
+Our solutions are essential for businesses that want to improve their communication, productivity, and ability to predict trends and patterns. The use of **chatbots**, **copilots**, and **agents** can help automate repetitive tasks, freeing up time for employees to focus on more important tasks.  In addition, the implementation of AI-based tools can enhance communication , promoting more effective collaboration and more fluid information sharing, benefiting both the interaction among team members and the relationship with customers.
 
-Predictive modeling, in turn, is a technique that uses data, statistical algorithms, and machine learning techniques to identify the likelihood of future outcomes based on historical data. **It can help your business anticipate trends, optimize resources, and make informed decisions based on future analyses.**
+**Predictive modeling**, in turn, is a technique that uses data, statistical algorithms, and machine learning techniques to identify the likelihood of future outcomes based on historical data. **It can help your business anticipate trends, optimize resources, and make informed decisions based on future analyses.**
 
 
-## Open Source Approach
+## [Open Source Approach]()
 
 Our open-source approach offers significant benefits for businesses. It not only provides access to the source code, allowing the customization of tools according to specific needs, but also promotes inter-company collaboration. This interaction can drive the development of innovative solutions, further expanding the possibilities of AI use.
 
 
-## Important Note
+## [Important Note]()
 
-The **Mindful AI Assistants Organization** encourages everyone to participate in the project and contribute to its success!
+**Mindful AI Assistants Organization** encourages everyone to participate in the project and contribute to its success!
 
 <br>
 
- <p align="center"> 🌎💙  TOGETHER WE ARE STRONGER, TOGETHER WE CAN CHANGE THE WORLD !
+ [🌎💙 TOGETHER WE ARE STRONGER, TOGETHER WE CAN CHANGE THE WORLD!]()
 
 
 #
@@ -122,6 +123,10 @@ The **Mindful AI Assistants Organization** encourages everyone to participate in
 #
  
 ###### <p align="center">[Copyright 2024 Mindful-AI-Assistants. Code released under the  MIT license.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
- 
+
+  <!-- ##### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$  --> 
+
+
+
 
 
