@@ -16,7 +16,7 @@
 ### <p align="center"> Empowering Businesses with Copilots, Agents, Bots and More!
 
 
-#### <p align="center">  ***< with vibe, frequency & joy />*** 𝛹 𝜳
+#### <p align="center">  ***< with vibe, frequency & joy />*** **[𝜳]()**
 
 
 
