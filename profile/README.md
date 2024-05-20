@@ -16,7 +16,7 @@
 ### <p align="center"> Empowering Businesses with Copilots, Agents, Bots and More!
 
 
-#### <p align="center">  ***< with vibe, frequency & joy />*** **[𝜳]()**
+#### <p align="center">  ***< with vibe, frequency & joy />*** **[𝜳](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/456d3131-2667-4e48-8af5-5c6974c2b1d8)**
 
 
 
