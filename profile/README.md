@@ -13,11 +13,11 @@
 <br><br> 
 
 
-# <p align="center">  . ݁˖ . ݁⋆.˚✮Mindful AI Assistants✮˚.⋆. ݁₊ ⊹ . ݁˖ . ݁
+# <p align="center">  Mindful AI Assistants 𓍯𓂃𓏧☆
 
 ### <p align="center"> Empowering Businesses with Copilots, Agents, Bots and More!
 
-
+<!--
 #### $${\color{Green} \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
 
 $${\color{Cyan} \Huge \boldsymbol{\mathbf{{ \lim \infty }}}}$$
