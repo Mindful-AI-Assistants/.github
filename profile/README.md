@@ -16,6 +16,8 @@
 # <p align="center">  💭 Mindful AI Assistants
 ### <p align="center"> Empowering Businesses with Copilots, Agents, Bots and More!
 
+<br><br>
+
 <!--
 #### $${\color{Green} \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
 
