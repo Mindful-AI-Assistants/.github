@@ -13,8 +13,7 @@
 <br><br> 
 
 
-# <p align="center">  Mindful AI Assistants 𓍯𓂃𓏧☆
-
+# <p align="center">  Mindful AI Assistants [𓍯𓂃𓏧☆]()
 ### <p align="center"> Empowering Businesses with Copilots, Agents, Bots and More!
 
 <!--
