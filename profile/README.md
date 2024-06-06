@@ -13,22 +13,10 @@
 <br><br> 
 
 
-# <p align="center">  ꧁ᬊᬁMindful AI Assistantsᬊ᭄꧂
+# <p align="center">  . ݁˖ . ݁⋆.˚✮Mindful AI Assistants✮˚.⋆. ݁₊ ⊹ . ݁˖ . ݁
 
 ### <p align="center"> Empowering Businesses with Copilots, Agents, Bots and More!
 
-
-#### <p align="center">  ***< made with vibe, frequency & joy />*** **[𝜳](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/456d3131-2667-4e48-8af5-5c6974c2b1d8)**
-
-
-
-<br>
-
-  <!--  END HEADER  -->   
-
- <!-- Math Latex Foumulas   -->     
- <!--
-####  $${\color{cyan} \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$ 
 
 #### $${\color{Green} \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
 
