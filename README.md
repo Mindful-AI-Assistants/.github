@@ -8,23 +8,17 @@
 ° 　. ● . ★ ° . *　　　°　. * ● ¸ . 　　　★ 　° :
 　 ° 　. ● . ★ ° . *　　　°　.　 * ● ¸ . 　　　★ 　° :
 
+⋆.*⃝̥◌ॱ꒰*ॢ˘̴͈́꒵˘̴͈̀*ॢ꒱ॱ◌̥*⃝̣ ⋆
  
 <br><br> 
 
 
-# <p align="center">  💬 Mindful AI Assistants
+# <p align="center">  💭 Mindful AI Assistants
 ### <p align="center"> Empowering Businesses with Copilots, Agents, Bots and More!
 
+<br><br>
 
-
-<br>
-
-  <!--  END HEADER  -->   
-
- <!-- Math Latex Foumulas   -->     
- <!--
-####  $${\color{cyan} \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$ 
-
+<!--
 #### $${\color{Green} \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
 
 $${\color{Cyan} \Huge \boldsymbol{\mathbf{{ \lim \infty }}}}$$
@@ -50,17 +44,19 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 
 
-<br>
+<br><br>
 
  <!-- <p align="center">
 <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/7a520307-8c65-43f5-80ae-40bb86f09caf" width="250"/>  --> 
 
 <p align="center">
-<img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="250"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="250"/>
+<img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="230"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="230"/>
 
 <br><br>
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
+
 
 
  <!-- ##### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$  --> 
@@ -68,7 +64,7 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
  <br>
 
 #### <p align="center"> [𖤐]() *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* 
-#### <p align="center"> [𖤐]() *We are only [one consciousness](https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/8e1bbca0-4d50-4963-8bee-88af5bd6db2d) in the infinity field of possibilities... [⚝]()*
+#### <p align="center"> [𖤐]() *We are only [One Consciousness](https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/8e1bbca0-4d50-4963-8bee-88af5bd6db2d) in the infinity field of possibilities... [⚝]()*
 
  <br>
 
@@ -81,16 +77,11 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 ### <p align="center" style="font-size: 200px"> [*ੈ✩‧₊˚༺ ☆ ༻*ੈ✩‧₊˚](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
 
-
- <!--
-### <p align="center" style="font-size: 200px"> [⋆.*⃝̥◌ॱ꒰*ॢ˘̴͈́꒵˘̴͈̀*ॢ꒱ॱ◌̥*⃝̣ ⋆](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>   
- -->  
-
 <br>
 
 Our approach values collaborative work and fosters a sense of , inspiring us to contribute and implement our codes with the purpose of building something that benefits humanity as a whole. This elevated vision is the driving force behind our motivation, radiating **love**, **frequency**, **vibration**, and **joy** in every endeavor. 
 
-
+<br>
 
 ## [What are Copilots, Bots, and Agents?]()
 
@@ -121,7 +112,7 @@ Our open-source approach offers significant benefits for businesses. It not only
 
 <br>
 
- 🌎💙 TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2)
+TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2)  🌎💙 
 
 #
 
