@@ -77,6 +77,9 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 ### <p align="center" style="font-size: 200px"> [*ੈ✩‧₊˚༺ ☆ ༻*ੈ✩‧₊˚](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
 
+
+https://github.com/Mindful-AI-Assistants/.github/assets/113218619/47daf45c-2f2a-44dd-9005-f0b078e241c3
+
 <br>
 
 Our approach values collaborative work and fosters a sense of , inspiring us to contribute and implement our codes with the purpose of building something that benefits humanity as a whole. This elevated vision is the driving force behind our motivation, radiating **love**, **frequency**, **vibration**, and **joy** in every endeavor. 
