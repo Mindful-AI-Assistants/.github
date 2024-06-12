@@ -78,7 +78,8 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 ### <p align="center" style="font-size: 200px"> [*ੈ✩‧₊˚༺ ☆ ༻*ੈ✩‧₊˚](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
 
 
-https://github.com/Mindful-AI-Assistants/.github/assets/113218619/47daf45c-2f2a-44dd-9005-f0b078e241c3
+*ੈ✩‧₊˚༺ ☆ ༻*ੈ✩‧₊˚
+
 
 <br>
 
