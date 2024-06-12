@@ -77,7 +77,9 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 ### <p align="center" style="font-size: 200px"> [*ੈ✩‧₊˚༺ ☆ ༻*ੈ✩‧₊˚](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
 
+
 *ੈ✩‧₊˚༺ ☆ ༻*ੈ✩‧₊˚
+
 
 <br>
 
