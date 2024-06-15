@@ -90,6 +90,16 @@ Our approach values collaborative work and fosters a sense of , inspiring us to 
 - **Bots:** A Bot is a software programmed to perform automated tasks. Bots can be simple (like a customer service bot that answers frequently asked questions)  or complex (like a stock trading bot that analyzes real-time stock market data).
 
 - **Agents:** An Agent is a computer program that operates autonomously to perform specific tasks. They are designed to learn and adapt over time based on data input and feedback. They can be used in a variety of applications, from computer games to virtual personal assistants.
+
+
+
+
+
+
+
+
+
+
   
 
 ## [What We Offer]()
