@@ -6,13 +6,7 @@
 · 　　 ⋆ ˚ ˚ 　　 ✦⋆ · 　 *⋆ ✧　 　 · 　 ✧　✵　　. 　★ ° . *　　　°　.　°☆° 　. ● . ★ ° . *★ ° . *　　　°　.　°☆★ ° . * *☆°. ☆. * ● ¸ . 　　　★ 　° :●. 　 *° :●. 　 *★ ° . *º :●: :
 • ○ ° ★　 .　 * 　.　 ○ ° ★　 .　 * 　. * ● ¸ . 　★ ° . *★　 　　　　　
 ° 　. ● . ★ ° . *　　　°　. * ● ¸ . 　　　★ 　° :
-　 ° 　. ● . ★ ° . *　　　°　.　 * ● ¸ us to simplify the expression by canceling out the common factor of ( 7 + x ) in the numerator and denominator: \lim_{{x \to -7}} (7 - x) 
-Final Result: When we substitute ( x ) with -7, the expression simplifies to: 7 - (-7) = 14 
-Explanation: The limit of the function ( \frac{{49 - x^2}}{{7 + x}} ) as ( x ) approaches -7 is 14. This result is obtained because after canceling the common factor, we are left with ( 7 - x ), which equals 14 when ( x ) is -7.
-This process demonstrates how limits help us understand the behavior of functions near points that might not be defined, by finding equivalent expressions that are easier to evaluate. 
-#
-
-
+　 ° 　. ● . ★ ° . *　　　°　.　 * ● ¸ 
 
 
 
