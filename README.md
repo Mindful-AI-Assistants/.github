@@ -4,14 +4,16 @@
  ° 　. ● . ★ ° . *　　　° * 　.　 :　　:●. 　 *° :●. 　 *
 .　 * 　.　 　 ˚ *.　　 *　　 * ⋆ 　 .
 · 　　 ⋆ ˚ ˚ 　　 ✦⋆ · 　 *⋆ ✧　 　 · 　 ✧　✵　　. 　★ ° . *　　　°　.　°☆° 　. ● . ★ ° . *★ ° . *　　　°　.　°☆★ ° . * *☆°. ☆. * ● ¸ . 　　　★ 　° :●. 　 *° :●. 　 *★ ° . *º :●: :
-• ○ ° ★　 .　 * 　.　 ○ ° ★　 .　 * 　. * ● ¸ . 　★ ° . *★　 　　　　　
-° 　. ● . ★ ° . *　　　°　. * ● ¸ . 　　　★ 　° :
-　 ° 　. ● . ★ ° . *　　　°　.　 * ● ¸ 
+• ○ ° ★　 .　 * 　.　 ○ ° ★　 .　 * 　. * ● ¸ . 　★ ° . *★　   　　  　　　
 
+° 　. ● . ★ ° . *　　　°　. * ● ¸ . 　　　★ 　° :      
+
+
+ 
+<br><br> 
 
 
 # <p align="center">  💭 Mindful AI Assistants
-
 ### <p align="center"> Empowering Businesses with Copilots, Agents, Bots and More!
 
 <br><br>
@@ -48,7 +50,7 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/7a520307-8c65-43f5-80ae-40bb86f09caf" width="250"/>  --> 
 
 <p align="center">
-<img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="250"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="250"/>
+<img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="230"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="230"/>
 
 <br><br>
 
@@ -73,9 +75,7 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 <br>
 
-### <p align="center" style="font-size: 400px"> [*ੈ✩‧₊˚༺ ☆ ༻*ੈ✩‧₊˚](https://github.com/Mindful-AI-Assistants/.github/assets/113218619/47daf45c-2f2a-44dd-9005-f0b078e241c3) </p>
-
-
+### <p align="center" style="font-size: 200px"> [*ੈ✩‧₊˚༺ ☆ ༻*ੈ✩‧₊˚](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
 
 <br>
 
@@ -90,6 +90,16 @@ Our approach values collaborative work and fosters a sense of , inspiring us to 
 - **Bots:** A Bot is a software programmed to perform automated tasks. Bots can be simple (like a customer service bot that answers frequently asked questions)  or complex (like a stock trading bot that analyzes real-time stock market data).
 
 - **Agents:** An Agent is a computer program that operates autonomously to perform specific tasks. They are designed to learn and adapt over time based on data input and feedback. They can be used in a variety of applications, from computer games to virtual personal assistants.
+
+
+
+
+
+
+
+
+
+
   
 
 ## [What We Offer]()
