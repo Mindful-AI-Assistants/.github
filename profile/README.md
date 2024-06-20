@@ -7,12 +7,14 @@
 • ○ ° ★　 .　 * 　.　 ○ ° ★　 .　 * 　. * ● ¸ . 　★ ° . *★　   　　  　　　
 
 ° 　. ● . ★ ° . *　　　°　. * ● ¸ . 　　　★ 　° :      
+
+
  
-<br>
+<br><br> 
 
 
 # <p align="center">  💭 Mindful AI Assistants
-### <p align="center"> Empowering Businesses with Copilots, Agents, Bots and More!
+### <p align="center"> *Empowering Businesses with Copilots, Agents, Bots and More!*
 
 <br><br>
 
@@ -55,7 +57,7 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
 
-  <!-- ##### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$  --> 
+
 
  <!-- ##### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$  --> 
 
@@ -73,7 +75,12 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 <br>
 
+<!--
 ### <p align="center" style="font-size: 200px"> [*ੈ✩‧₊˚༺ ☆ ༻*ੈ✩‧₊˚](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
+-->
+
+### <p align="center" style="font-size: 200px"> [⋆.*⃝̥◌ॱ꒰*ॢ˘̴͈́꒵˘̴͈̀*ॢ꒱ॱ◌̥*⃝̣ ⋆](https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-474a-b2c9-d7a4c0afbb70)
+
 
 <br>
 
@@ -89,7 +96,6 @@ Our approach values collaborative work and fosters a sense of , inspiring us to 
 
 - **Agents:** An Agent is a computer program that operates autonomously to perform specific tasks. They are designed to learn and adapt over time based on data input and feedback. They can be used in a variety of applications, from computer games to virtual personal assistants.
 
-  
 
 ## [What We Offer]()
 
@@ -124,7 +130,7 @@ TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com
  
 ###### <p align="center">[Copyright 2024 Mindful-AI-Assistants. Code released under the  MIT license.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
 
-
+  <!-- ##### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$  --> 
 
 
 
