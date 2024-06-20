@@ -75,7 +75,7 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 <br>
 
-### <p align="center" ⋆.*⃝̥◌ॱ꒰*ॢ˘̴͈́꒵˘̴͈̀*ॢ꒱ॱ◌̥*⃝̣ ⋆
+### <p align="center" style="font-size: 200px"> ⋆.*⃝̥◌ॱ꒰*ॢ˘̴͈́꒵˘̴͈̀*ॢ꒱ॱ◌̥*⃝̣ ⋆
 
 
 <!--
