@@ -81,6 +81,7 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 ### <p align="center" style="font-size: 200px"> [*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊](https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-474a-b2c9-d7a4c0afbb70)
 
+
 <br>
 
 Our approach values collaborative work and fosters a sense of , inspiring us to contribute and implement our codes with the purpose of building something that benefits humanity as a whole. This elevated vision is the driving force behind our motivation, radiating **love**, **frequency**, **vibration**, and **joy** in every endeavor. 
