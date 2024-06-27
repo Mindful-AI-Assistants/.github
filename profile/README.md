@@ -16,9 +16,6 @@
 # <p align="center">  💭 Mindful AI Assistants
 ### <p align="center"> *Empowering Businesses with Copilots, Agents, Bots and More!*
 
-####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
-
-
 <br><br>
 
 <!--
@@ -45,6 +42,7 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 ### $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
 
+####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
 
 
 <br><br>
