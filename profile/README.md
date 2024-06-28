@@ -42,7 +42,6 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 ### $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
 
-####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
 
 
 <br><br>
@@ -80,7 +79,7 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 ### <p align="center" style="font-size: 200px"> [*ੈ✩‧₊˚༺ ☆ ༻*ੈ✩‧₊˚](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
 -->
 
-### <p align="center" style="font-size: 200px"> [](https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-474a-b2c9-d7a4c0afbb70)
+### <p align="center" style="font-size: 200px"> [*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊](https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-474a-b2c9-d7a4c0afbb70)
 
 
 <br>
@@ -116,7 +115,9 @@ Our open-source approach offers significant benefits for businesses. It not only
 
 **Mindful AI Assistants Organization** encourages everyone to participate in the project and contribute to its success!
 
-<br>
+
+### <p align="center" style="font-size: 200px">  [ॐ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
+
 
 TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2)  🌎💙 
 
