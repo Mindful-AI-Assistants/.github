@@ -60,7 +60,7 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 <br><br>
 
 #### <p align="center"> [𖤐]() *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* 
-#### <p align="center"> [𖤐]() *We are only [One Consciousness](https://github.com/Mindful-AI-Assistants/.github/assets/113218619/dcb55bcf-ea80-4ab6-a14a-fcce1898d2b8) in the infinity field of possibilities... [⚝]()*
+#### <p align="center"> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/Mindful-AI-Assistants/.github/assets/113218619/dcb55bcf-ea80-4ab6-a14a-fcce1898d2b8) in the infinity field of possibilities... [⚝]()*
 
 
  <br>
