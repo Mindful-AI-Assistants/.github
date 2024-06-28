@@ -40,6 +40,8 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
  
  <!-- ##### $${\color{green}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$  --> 
 
+  <!-- ##### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$  --> 
+
 ### $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
 
 ####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
@@ -57,16 +59,13 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 <br><br>
 
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+#### <p align="center"> [𖤐]() *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* 
+#### <p align="center"> [𖤐]() *We are only [One Consciousness](https://github.com/Mindful-AI-Assistants/.github/assets/113218619/dcb55bcf-ea80-4ab6-a14a-fcce1898d2b8) in the infinity field of possibilities... [⚝]()*
 
-
-
- <!-- ##### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$  --> 
 
  <br>
 
-#### <p align="center"> [𖤐]() *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* 
-#### <p align="center"> [𖤐]() *We are only [One Consciousness](https://github.com/Mindful-AI-Assistants/.github/assets/113218619/dcb55bcf-ea80-4ab6-a14a-fcce1898d2b8) in the infinity field of possibilities... [⚝]()*
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
  <br>
 
