@@ -61,7 +61,6 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 
 
-
  <!-- ##### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$  --> 
 
  <br>
