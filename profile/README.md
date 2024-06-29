@@ -1,5 +1,8 @@
  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
   <!--  START HEADER  -->   
+
+https://github.com/Mindful-AI-Assistants/.github/blob/a451e3d044dd4118b123506e90d4c7450661986a/README.pt_BR.md
+  
   
  ° 　. ● . ★ ° . *　　　° * 　.　 :　　:●. 　 *° :●. 　 *
 .　 * 　.　 　 ˚ *.　　 *　　 * ⋆ 　 .
