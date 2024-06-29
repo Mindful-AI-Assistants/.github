@@ -1,7 +1,7 @@
  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
   <!--  START HEADER  -->   
 
-https://github.com/Mindful-AI-Assistants/.gith
+
   
   
  ° 　. ● . ★ ° . *　　　° * 　.　 :　　:●. 　 *° :●. 　 *
