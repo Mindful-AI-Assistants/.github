@@ -1,9 +1,6 @@
  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
  
   <!--  START HEADER  -->   
-
-
-  
   
  ° 　. ● . ★ ° . *　　　° * 　.　 :　　:●. 　 *° :●. 　 *
 .　 * 　.　 　 ˚ *.　　 *　　 * ⋆ 　 .
@@ -17,8 +14,8 @@
 <br><br> 
 
 
-# <p align="center">  💭 [Mindful AI](https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/8e1bbca0-4d50-4963-8bee-88af5bd6db2d) Assistants
-### <p align="center"> *Empowering Businesses with Copilots, Agents, Bots and More!*
+# <p align="center">   💭 [Mindful AI](https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/8e1bbca0-4d50-4963-8bee-88af5bd6db2d) Assistants
+#### <p align="center"> *Empowering Businesses with Copilots, Agents, Bots and More!*
 
 <br><br>
 
@@ -44,7 +41,6 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
  
  <!-- ##### $${\color{green}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$  --> 
 
- 
   <!-- ##### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$  --> 
 
 ### $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
@@ -64,16 +60,13 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 <br><br>
 
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+#### <p align="center"> [𖤐]() *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* 
+#### <p align="center"> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/Mindful-AI-Assistants/.github/assets/113218619/dcb55bcf-ea80-4ab6-a14a-fcce1898d2b8) in the infinity field of possibilities... [⚝]()*
 
-
-
- <!-- ##### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$  --> 
 
  <br>
 
-#### <p align="center"> [𖤐]() *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* 
-#### <p align="center"> [𖤐]() *We are only [One Consciousness](https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/8e1bbca0-4d50-4963-8bee-88af5bd6db2d) in the infinity field of possibilities... [⚝]()*
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
  <br>
 
@@ -82,12 +75,15 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 **Mindful-AI-Assistants** is an open-source organization founded by [Fabiana Campanari](https://github.com/FabianaCampanari) a passionate artificial intelligence data scientist who loves AI, Design, and Code. The concept of the organization is "Empowering Businesses with Copilots, Agents, Bots and More!", and it focuses on creating copilots, bots, agents, and other AI solutions. Moreover, **Mindful-AI-Assistants** goes beyond technology, aiming to integrate spiritual development into its mission. We believe that technological advancement is truly meaningful only when accompanied by spiritual growth, as both are essential for human well-being. 
 
+<br>
 
 <!--
-### <p align="center" style="font-size: 200px"> [*ੈ✩‧₊˚༺ ☆ ༻*ੈ✩‧₊˚](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
+### <p align="center" style="font-size: 400px"> [*ੈ ✩‧₊˚༺ ☆ ༻ *ੈ✩‧₊˚](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
+
+https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-474a-b2c9-d7a4c0afbb70 - sacred geomrtry
 -->
 
-### <p align="center" style="font-size: 200px"> [*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊](https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-474a-b2c9-d7a4c0afbb70)
+### <p align="center" style="font-size: 300px"> [*ੈ✩‧₊˚༺ ☆ ༻*ੈ✩‧₊](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)
 
 
 <br>
@@ -123,12 +119,8 @@ Our open-source approach offers significant benefits for businesses. It not only
 
 **Mindful AI Assistants Organization** encourages everyone to participate in the project and contribute to its success!
 
-<br>
 
-
-### <p align="center" style="font-size: 200px">  [ॐ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
-
-<br>
+### <p align="center" style="font-size: 200px">  [ॐ]() </p>
 
 
 TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2)  🌎💙 
@@ -137,11 +129,8 @@ TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com
 
 ### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
      
- ### <p align="center"> [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml) 
- 
- <!--
- [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml)   
--->
+ ### <p align="center"> [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml)  [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml)   
+
 
 #
  
