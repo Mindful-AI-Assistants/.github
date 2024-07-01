@@ -18,7 +18,7 @@ keras==2.6
 
 # Bibliotecas para processamento de linguagem natural
 nltk==3.6.6
-spacy==3.1.
+spacy==3.1.0
 
 # Bibliotecas para web scraping
 beautifulsoup4==4.10.0
