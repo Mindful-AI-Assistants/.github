@@ -7,7 +7,7 @@ updates:
     schedule:
       interval: "weekly"
       day: "sunday"
-      time: "3:08"
+      time: "16:00"
     groups:
       aws-sdk:
         patterns:
