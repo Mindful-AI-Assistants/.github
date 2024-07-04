@@ -39,3 +39,4 @@ jobs:
           git config --global user.email github-actions[bot]@.noreply.github.com
           git commit -am "Syncing with ${{ inputs.environment }}."
           git push --set-upstream origin ${{ vars.SYNC_BRANCH_NAME }}
+          
