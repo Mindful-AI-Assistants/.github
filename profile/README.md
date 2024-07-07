@@ -14,7 +14,7 @@
 <br><br> 
 
 
-# <p align="center">   💭 [Mindful AI](https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/8e1bbca0-4d50-4963-8bee-88af5bd6db2d) Assistants
+# <p align="center">   💭 [Mindful AI]() Assistants
 ### <p align="center"> *Empowering Businesses with Copilots, Agents, Bots and More!*
 
 <br><br>
@@ -83,7 +83,7 @@ https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-
 
 <br><br>
 
-### <p align="center" style="font-size: 300px"> [*ੈ✩‧₊˚༺ ☆ ༻*ੈ✩‧₊]()
+### <p align="center" style="font-size: 300px"> [*ੈ✩‧₊˚༺ ☆ ༻*ੈ✩‧₊](https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/8e1bbca0-4d50-4963-8bee-88af5bd6db2d)
 
 
 <br><brbr>      
