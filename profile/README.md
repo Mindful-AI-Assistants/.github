@@ -14,7 +14,7 @@
 <br><br> 
 
 
-# <p align="center">   💭 [Mindful AI]() Assistants
+# <p align="center">   💭 [Mindful AI](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/7c5f3def-9d6d-4c0b-8817-7e530e42e9c9) Assistants
 ### <p align="center"> *Empowering Businesses with Copilots, Agents, Bots and More!*
 
 <br><br>
