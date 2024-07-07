@@ -121,7 +121,7 @@ Our open-source approach offers significant benefits for businesses. It not only
 
 <br>
 
-### <p align="center" style="font-size: 200px">  [ॐ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
+### <p align="center" style="font-size: 200px">  [ॐ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>  <br>
 
 <br>
 
