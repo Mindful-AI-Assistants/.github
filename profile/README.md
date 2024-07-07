@@ -117,11 +117,11 @@ Our open-source approach offers significant benefits for businesses. It not only
 
 ## [Important Note]()
 
-**Mindful AI Assistants Organization** encourages everyone to participate in the project and contribute to its success!
+**Mindful AI Assistants Organization** encourages everyone to participate in the project and contribute to its success !
 
 <br>
 
-### <p align="center" style="font-size: 200px">  [ॐ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>  <br>
+### <p align="center" style="font-size: 200px">  [ॐ](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>  
 
 <br>
 
