@@ -125,7 +125,7 @@ Our open-source approach offers significant benefits for businesses. It not only
 
 <br> 
 
-<p align="center">🌎💙 
+<p align="center">🌎💙 𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈 
 
 <br> 
 
