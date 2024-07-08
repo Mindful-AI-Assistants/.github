@@ -125,9 +125,15 @@ Our open-source approach offers significant benefits for businesses. It not only
 
 TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2) 
 
-Where We Go One, We Go ALL !
+<br> 
 
 🌎💙 
+
+<br> 
+
+Where We Go One, We Go ALL !
+
+
 
 #
 
