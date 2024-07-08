@@ -125,14 +125,12 @@ Our open-source approach offers significant benefits for businesses. It not only
 
 <br> 
 
-### <p align="center">🌎💙 𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈 
+🌎💙
 
 <br> 
 
 <p align="center"> Where We Go One, [We Go ALL]() !
-
-
-
+  
 #
 
 ### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
