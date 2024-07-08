@@ -129,7 +129,7 @@ Our open-source approach offers significant benefits for businesses. It not only
 
 <br> 
 
-<p align="center"> Where We Go One, We Go ALL !
+<p align="center"> Where We Go One, [We Go ALL]() !
 
 
 
