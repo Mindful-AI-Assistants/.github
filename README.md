@@ -63,19 +63,15 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 #### <p align="center"> [𖤐]() *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* 
 #### <p align="center"> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/Mindful-AI-Assistants/.github/assets/113218619/dcb55bcf-ea80-4ab6-a14a-fcce1898d2b8) in the infinity field of possibilities... [⚝]()*
 
-
  <br>
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
  <br>
 
-
 ## [About Us]()
 
 **Mindful-AI-Assistants** is an open-source organization founded by [Fabiana Campanari](https://github.com/FabianaCampanari) a passionate artificial intelligence data scientist who loves AI, Design, and Code. The concept of the organization is "Empowering Businesses with Copilots, Agents, Bots and More!", and it focuses on creating copilots, bots, agents, and other AI solutions. Moreover, **Mindful-AI-Assistants** goes beyond technology, aiming to integrate spiritual development into its mission. We believe that technological advancement is truly meaningful only when accompanied by spiritual growth, as both are essential for human well-being. 
-
-<br>
 
 <!--
 ### <p align="center" style="font-size: 400px"> [*ੈ ✩‧₊˚༺ ☆ ༻ *ੈ✩‧₊˚](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
@@ -83,10 +79,12 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-474a-b2c9-d7a4c0afbb70 - sacred geomrtry
 -->
 
+<br><br>
+
 ### <p align="center" style="font-size: 300px"> [*ੈ✩‧₊˚༺ ☆ ༻*ੈ✩‧₊](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)
 
 
-<br>
+<br><br>
 
 Our approach values collaborative work and fosters a sense of , inspiring us to contribute and implement our codes with the purpose of building something that benefits humanity as a whole. This elevated vision is the driving force behind our motivation, radiating **love**, **frequency**, **vibration**, and **joy** in every endeavor. 
 
