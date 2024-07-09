@@ -2,7 +2,7 @@
 
 ## Security / Disclosure
 
-If you find any bug with Mindful AI Assistants Repositories may be a security problem, then e-mail us at: [fabicampanari@priton.me](mailto:fabicampanari@priton.me).
+If you find any bug with Mindful AI Assistants Repositories may be a security problem, then e-mail us at: [fabicampanari@priton.me](mailto:fabicampanari@proton.me).
 This way we can evaluate the bug and hopefully fix it before it gets abused.
 Please give us enough time to investigate the bug before you report it anywhere else.
 
@@ -10,7 +10,7 @@ Please do not create GitHub issues for security-related doubts or problems.
 
 ## Support
 
-If you want help with your Renovate configuration, go to the [discussions tab in the Renovate repository](https://github.com/renovatebot/renovate/discussions) and open a new "config help" discussion post.
+If you want help with your Mindful AI Assistants configuration, go to the [discussions tab in the Mindful AI Assistants repository](https://github.com/renovatebot/renovate/discussions) and open a new "config help" discussion post.
 
 ## Bug Reports and Feature Requests
 
