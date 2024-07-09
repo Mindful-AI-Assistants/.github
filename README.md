@@ -118,17 +118,7 @@ Our open-source approach offers significant benefits for businesses. It not only
 
  <br>
 
-### <p align="center" style="font-size: 400px">  [˗ˏˋ✮ˎˊ˗]() </p>
-
-
-### <p align="center" style="font-size: 400px">  [ ─── ⋆⋅☆⋅⋆ ──]() </p> 
-
-
 ### <p align="center" style="font-size: 400px">  [ ─── ⋆⋅˗ˏˋ✮ˎˊ˗⋅⋆ ──]() </p> 
-
-
-
-
 
  <br>
 
