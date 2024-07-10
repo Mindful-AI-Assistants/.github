@@ -116,7 +116,13 @@ Our open-source approach offers significant benefits for businesses. It not only
 
 **Mindful AI Assistants Organization** encourages everyone to participate in the project and contribute to its success!
 
+
+<br><br>
+
 ### <p align="center" style="font-size: 400px">  [˗ˏˋ✮ˎˊ˗]() </p>
+
+
+<br><br>
 
 <!--
 ### <p align="center" style="font-size: 400px">  [ॐ]() </p>
