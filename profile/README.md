@@ -116,16 +116,11 @@ Our open-source approach offers significant benefits for businesses. It not only
 
 **Mindful AI Assistants Organization** encourages everyone to participate in the project and contribute to its success!
 
+ <br>
 
-<br>
+### <p align="center" style="font-size: 400px">  [ ─── ⋆⋅˗ˏˋ✮ˎˊ˗⋅⋆ ──]() </p> 
 
-### <p align="center" style="font-size: 400px">  [˗ˏˋ✮ˎˊ˗]() </p>
-
-<br>
-
-<!--
-### <p align="center" style="font-size: 400px">  [ॐ]() </p>
--->
+ <br>
 
 #### <p align="center"> TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2) 🌎💙
   
@@ -134,6 +129,10 @@ Our open-source approach offers significant benefits for businesses. It not only
 ### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
      
  ### <p align="center"> [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml)  [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml)   
+
+#
+
+## [Contribution]()
 
 
 #
