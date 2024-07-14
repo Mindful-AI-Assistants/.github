@@ -142,6 +142,17 @@ Any contributions are highly appreciated.  You can contribute in two ways:
 
 
 
+## [Spread the word!]() 🌎💙
+
+If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! 
+
+Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback
+
+Main Contributors 
+
+[Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+
+
 #
  
 ###### <p align="center">[Copyright 2024 Mindful-AI-Assistants. Code released under the  MIT license.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
