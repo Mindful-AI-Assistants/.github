@@ -136,6 +136,11 @@ Our open-source approach offers significant benefits for businesses. It not only
 
 Any contributions are highly appreciated.  You can contribute in two ways:
 
+1. create an issue and tell us your idea 💡. Make sure that you use the new idea label in this case;
+
+
+
+
 
 #
  
