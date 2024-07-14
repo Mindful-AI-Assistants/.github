@@ -136,7 +136,9 @@ Our open-source approach offers significant benefits for businesses. It not only
 
 Any contributions are highly appreciated.  You can contribute in two ways:
 
-1. create an issue and tell us your idea 💡. Make sure that you use the new idea label in this case;
+1. Create an issue and tell us your idea 💡. Make sure that you use the new idea label in this case;
+
+2. Fork the project and submit a full requesto with your new idea. Before doing that, please make sure that you read and follow the Contribution Guide;
 
 
 
