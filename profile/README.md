@@ -34,6 +34,8 @@ $${\color{Cyan} \Huge \boldsymbol{\mathbf{{ \lim \infty }}}}$$
 
 $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
+ ##### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$ 
+
 ### $${\color{cyan}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
 
 ### $${\color{Cyan} \Huge \boldsymbol{\mathbf{\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
@@ -139,7 +141,7 @@ Our open-source approach offers significant benefits for businesses. It not only
  
 ###### <p align="center">[Copyright 2024 Mindful-AI-Assistants. Code released under the  MIT license.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
 
-  <!-- ##### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$  --> 
+ 
 
 
 
