@@ -22,10 +22,6 @@
 · 　　 ⋆ ˚ ˚ 　　 ✦⋆ · 　 *⋆ ✧　 　 · 　 ✧　✵　　. 　★ ° . *　　　°　.　°☆° 　. ● . ★ ° . *★ ° . *　　　°　.　°☆★ ° . * *☆°. ☆. * ● ¸ . 　　　★ 　° :●. 
 
 
- 
-<br><br> 
-
-
 # <p align="center">   💭 [Mindful AI](https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/8e1bbca0-4d50-4963-8bee-88af5bd6db2d) Assistants
 ### <p align="center"> *Empowering Businesses with Copilots, Agents, Bots, Predctions and More!*
 
