@@ -1,23 +1,35 @@
- \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
- 
-  <!--  START HEADER  -->   
-  
+
  ° 　. ● . ★ ° . *　　　° * 　.　 :　　:●. 　 *° :●. 　 *
 .　 * 　.　 　 ˚ *.　　 *　　 * ⋆ 　 .
 · 　　 ⋆ ˚ ˚ 　　 ✦⋆ · 　 *⋆ ✧　 　 · 　 ✧　✵　　. 　★ ° . *　　　°　.　°☆° 　. ● . ★ ° . *★ ° . *　　　°　.　°☆★ ° . * *☆°. ☆. * ● ¸ . 　　　★ 　° :●. 　 *° :●. 　 *★ ° . *º :●: :
-• ○ ° ★　 .　 * 　.　 ○ ° ★　 .　 * 　. * ● ¸ . 　★ ° . *★　   　　  　　　
-
-° 　. ● . ★ ° . *　　　°　. * ● ¸ . 　　　★ 　° :      
-
-
+• ○ ° ★　 .　 * 　.　 ○ ° ★　 .　 * 　. * ● ¸ . 　★ ° . *★　 　　　　　
+° 　. ● . ★ ° . *　　　°　. * ● ¸ . 　　　★ 　° :
+　 ° 　. ● . ★ ° . *　　　°　.　 * ● ¸ . 　　　★ 　° :
+°☆ 　. * ● ¸. 　　　★ 　:●. 　 *° :●. 　 *☆
+° :. 　 * •★ ° . *　　　°　.　°☆.　 * 　.　
+　★　　　　. 　 ° 　. . 　 ★ 　　　　　　. * ● ¸ . 　　　★ 　° :●. 　 *:●. 　 *°:●. 　 *° :●. 　 *☆:●. 　 *° :●. 　 *☆
+• ○ ° ★　 .　 * 　.　 　　　　　.:●. 　 *° . 　 *☆
+　 ° 　. ● . ★ ° . *　　　°　　. * ● ¸ . ° :●. 　 *
+　ﾟ ＊ ·̩　　 ｡　☆　　　ﾟ ＊ 　 ｡*　　+　 　＊ 　･ ｡　ﾟ ＊ 　☆　　★ ° . *　　　°　.　°☆　*
+★　★ ° . *　　★ ° .★ ° . *　　　°　.　°☆ *　　　°　.　°☆　°　.　°☆°☆　. * ● ¸ . 　　　★ 　° :●. 　 *
+• ○ ° ★　 .　 *° :●. 　 *° :●. 　 *° :●. 　 *☆°☆　. * ● ¸ . 　　　
+　 ° 　. ● . ★ ° . *　　　° * 　.　 :　　:●. 　 *° :●. 　 *
+.　 * 　.　 　 ˚ *.　　 *　　 * ⋆ 　 .
+· 　　 ⋆ ˚ ˚ 　　 ✦⋆ · 　 *⋆ ✧　 　 · 　 ✧　✵　　. 　★ ° . *　　　°　.　°☆° 　. ● . ★ ° . *★ ° . *　　　°　.　°☆★ ° . * *☆°. ☆. * ● ¸ . 　　　★ 　° :●.
  
-<br><br> 
+ 
+ \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
 
 
-# <p align="center">   💭 [Mindful AI](https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/8e1bbca0-4d50-4963-8bee-88af5bd6db2d) Assistants
+<br>
+
+  <!--  START HEADER  -->   
+
+  # <p align="center">   💭 [Mindful AI](https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/8e1bbca0-4d50-4963-8bee-88af5bd6db2d) Assistants
 ### <p align="center"> *Empowering Businesses with Copilots, Agents, Bots, Predctions and More!*
 
-<br><br>
+<br>
+  
 
 <!--
 #### $${\color{Green} \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
@@ -34,6 +46,8 @@ $${\color{Cyan} \Huge \boldsymbol{\mathbf{{ \lim \infty }}}}$$
 
 $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
+ ##### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$ 
+
 ### $${\color{cyan}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
 
 ### $${\color{Cyan} \Huge \boldsymbol{\mathbf{\sum_{n=1}^{\infty} \frac{1}{n}}}}$$
@@ -41,17 +55,15 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
  
  <!-- ##### $${\color{green}  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}$$  --> 
 
-  <!-- ##### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$  -->
-  
+  <!-- ##### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$  --> 
 
 $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
 
-
-
+####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
 
 <br><br>
 
- ### <p align="center"> **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈]()** ✯
+ ### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈]()** ✯
 
 
 <br>
@@ -72,7 +84,7 @@ $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 
 ## [About Us]()
 
-**Mindful-AI-Assistants** is an open-source organization founded by [Fabiana Campanari](https://github.com/FabianaCampanari) a passionate artificial intelligence data scientist who loves AI, Design, and Code. The concept of the organization is "Empowering Businesses with Copilots, Agents, Bots and More!", and it focuses on creating copilots, bots, agents, and other AI solutions. Moreover, **Mindful-AI-Assistants** goes beyond technology, aiming to integrate spiritual development into its mission. We believe that technological advancement is truly meaningful only when accompanied by spiritual growth, as both are essential for human well-being. 
+**Mindful-AI-Assistants** is an open-source organization founded by [Fabiana Campanari](https://github.com/FabianaCampanari) isc a multifaceted professional, a passionate humanistic artificial intelligence data scientist who loves AI, Design, and Code and also have de\gree in psychologie. The concept of the organization is "Empowering Businesses with Copilots, Agents, Bots and More!", and it focuses on creating copilots, bots, agents, and other AI solutions. Moreover, **Mindful-AI-Assistants** goes beyond technology, aiming to integrate spiritual development into its mission. We believe that technological advancement is truly meaningful only when accompanied by spiritual growth, as both are essential for human well-being. 
 
 <!--
 ### <p align="center" style="font-size: 400px"> [*ੈ ✩‧₊˚༺ ☆ ༻ *ੈ✩‧₊˚](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
@@ -80,12 +92,12 @@ $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-474a-b2c9-d7a4c0afbb70 - sacred geomrtry
 -->
 
-<br><br>
+<br>
 
 ### <p align="center" style="font-size: 300px"> [*ੈ✩‧₊˚༺ ☆ ༻*ੈ✩‧₊](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)
 
 
-<br><br>
+<br>
 
 Our approach values collaborative work and fosters a sense of , inspiring us to contribute and implement our codes with the purpose of building something that benefits humanity as a whole. This elevated vision is the driving force behind our motivation, radiating **love**, **frequency**, **vibration**, and **joy** in every endeavor. 
 
@@ -138,9 +150,9 @@ Our open-source approach offers significant benefits for businesses. It not only
 
 Any contributions are highly appreciated.  You can contribute in two ways:
 
-1. Create an issue and tell us your idea 💡. Make sure that you use the new idea label in this case;
+   1. Create an issue and tell us your idea 💡. Make sure that you use the new idea label in this case;
 
-2. Fork the project and submit a full requesto with your new idea. Before doing that, please make sure that you read and follow the [Contribution](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹★🔭๋࣭
+   2. Fork the project and submit a full requesto with your new idea. Before doing that, please make sure that you read and follow the [Contribution](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹★🔭๋࣭
 
 
 
@@ -157,13 +169,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
 
+
 #
  
 ###### <p align="center">[Copyright 2024 Mindful-AI-Assistants. Code released under the  MIT license.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
-
-  <!-- ##### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$  --> 
-
-
-
-
-
