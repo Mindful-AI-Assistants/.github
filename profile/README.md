@@ -9,20 +9,10 @@
 　 ° 　. ● . ★ ° . *　　　°　.　 * ● ¸ . 　　　★ 　° :
 °☆ 　. * ● ¸. 　　　★ 　:●. 　 *° :●. 　 *☆
 ° :. 　 * •★ ° . *　　　°　.　°☆.　 * 　.　
-　★　　　　. 　 ° 　. . 　 ★ 　　　　　　. * ● ¸ . 　　　★ 　° :●. 　 *:●. 　 *°:●. 　 *° :●. 　 *☆:●. 　 *° :●. 　 *☆
-• ○ ° ★　 .　 * 　.　 　　　　　.:●. 　 *° . 　 *☆
-　 ° 　. ● . ★ ° . *　　　°　　. * ● ¸ . ° :●. 　 *
-　ﾟ ＊ ·̩　　 ｡　☆　　　ﾟ ＊ 　 ｡*　　+　 　＊ 　･ ｡　ﾟ ＊ 　☆　　★ ° . *　　　°　.　°☆　*
-★　★ ° . *　　★ ° .★ ° . *　　　°　.　°☆ *　　　°　.　°☆　°　.　°☆°☆　. * ● ¸ . 　　　★ 　° :●. 　 *
-• ○ ° ★　 .　 *° :●. 　 *° :●. 　 *° :●. 　 *☆°☆　. * ● ¸ . 　　　
-　 ° 　. ● . ★ ° . *　　　° * 　.　 :　　:●. 　 *° :●. 　 *
-.　 * 　.　 　 ˚ *.　　 *　　 * ⋆ 　 .
-· 　　 ⋆ ˚ ˚ 　　 ✦⋆ · 　 *⋆ ✧　 　 · 　 ✧　✵　　. 　★ ° . *　　　°　.　°☆° 　. ● . ★ ° . *★ ° . *　　　°　.　°☆★ ° . * *☆°. ☆. * ● ¸ . 　　　★ 　° :●.
- 
-
+ *
   <!--  START HEADER  -->   
 
-  # <p align="center">   💭 [Mindful AI](https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/8e1bbca0-4d50-4963-8bee-88af5bd6db2d) Assistants
+  # <p align="center">   💭 [Mindful AI](https://github.com/user-attachments/assets/f1bda9f9-aaf3-4f56-a2be-6ddf70595499) Assistants
 ### <p align="center"> *Empowering Businesses with Copilots, Agents, Bots, Predctions and More!*
 
 <br>
@@ -60,7 +50,7 @@ $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 
 <br>
 
- ### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈]()** ✯
+ ### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)** ✯
 
 
 <br>
@@ -71,7 +61,7 @@ $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 <br><br>
 
 #### <p align="center"> [𖤐]() *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* 
-#### <p align="center"> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/Mindful-AI-Assistants/.github/assets/113218619/dcb55bcf-ea80-4ab6-a14a-fcce1898d2b8) in the infinity field of possibilities... [⚝]()*
+#### <p align="center"> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2) in the infinity field of possibilities... [⚝]()*
 
  <br>
 
@@ -127,11 +117,10 @@ Our open-source approach offers significant benefits for businesses. It not only
 
 **Mindful AI Assistants Organization** encourages everyone to participate in the project and contribute to its success!
 
- <br>
 
-### <p align="center" style="font-size: 400px">  [ ─── ⋆⋅˗ˏˋॐˎˊ˗⋅⋆ ──]() </p> 
+### <p align="center" style="font-size: 400px">  [˗ˏˋॐˎˊ˗](https://github.com/user-attachments/assets/751b6903-e9b4-483d-860a-bdde627c6890) </p> 
 
- <br>
+<br>
 
 #### <p align="center"> TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2) 🌎💙
   
@@ -141,7 +130,6 @@ Our open-source approach offers significant benefits for businesses. It not only
      
  ### <p align="center"> [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml)  [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml)   
 
-#
 
 ## [Contribution]()
 
@@ -164,6 +152,8 @@ Do you have any suggestions on how we could improve this project overall? Let us
 ## Main Contributors 
 
 [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+
+[Pedro Vyctor](https://github.com/ppvyctor)
 
 
 
