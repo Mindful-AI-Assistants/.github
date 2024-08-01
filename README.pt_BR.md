@@ -58,18 +58,6 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 <br><br>
 
-#### <p align="center"> [𖤐]() *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* 
-#### <p align="center"> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2) in the infinity field of possibilities... [⚝]()*
-
- <br>
-
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
-
-
-
-
-
-
  <!-- <p align="center"><img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/7a520307-8c65-43f5-80ae-40bb86f09caf" width="250"/>  --> 
 
 
