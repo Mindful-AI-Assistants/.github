@@ -10,8 +10,7 @@
   
  <br><br> 
 
-# <p align="center">  💬 Mindful AI Assistants
-
+# <p align="center">   💭 [Mindful AI](https://github.com/user-attachments/assets/f1bda9f9-aaf3-4f56-a2be-6ddf70595499) Assistants
 ### <p align="center"> Capacitando Empresas com Co-pilotos, Agentes, Bots e Mais!
 
 <br>
