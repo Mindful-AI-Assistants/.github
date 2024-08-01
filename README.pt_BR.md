@@ -113,7 +113,7 @@ Nossa abordagem de código aberto oferece benefícios significativos para os neg
 
 
 
-
+ <!-- APAGAR ESSE BLOCO DE CODIGO APOAS FINALIUZAR LAYOUYT b
 
 ## Aviso Importante
 
@@ -137,9 +137,9 @@ A MindfulAI Copilots & Bots Organization incentiva todos a participarem do proje
  
 ###### <p align="center">[Copyright 2024 Mindful-AI-Assistants. Code released under the  MIT license.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
 
- 
+  --> 
 
- <!-- ##### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$  --> 
+
 
 
 
