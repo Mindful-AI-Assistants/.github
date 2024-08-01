@@ -112,6 +112,14 @@ A Organização de Código Aberto **Mindful AI Assistants** incentiva todos a pa
 <p align=“center”> !Auto Assign !Proof HTML
 
 
+  
+## Contribuição
+
+Qualquer contribuição é muito apreciada. Você pode contribuir de duas maneiras:
+
+
+
+
 
 
 
