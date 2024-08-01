@@ -94,10 +94,26 @@ Nossa abordagem de código aberto oferece benefícios significativos para os neg
 
 A Mindful AI Assistants incentiva todos a participarem dos projetos de código aberto e contribuírem para o seu sucesso!
 
-<p align=“center” style=“font-size: 400px”> ˗ˏˋॐˎˊ˗ </p>
+### <p align="center" style="font-size: 400px">  [˗ˏˋॐˎˊ˗](https://github.com/user-attachments/assets/751b6903-e9b4-483d-860a-bdde627c6890) </p> 
+
 <br>
 
+#### <p align="center"> JUNTOS SOMOS MAIS FORTES, UNIDOS [NÓS PODEMOS MUDAR O MUNDO PARA MELHOR!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2) 🌎💙
+  
 
+ <!--
+
+Crie um issue e nos conte sua ideia 💡. Certifique-se de usar o rótulo nova ideia nesse caso;
+Faça um fork do projeto e envie uma solicitação completa com sua nova ideia. Antes de fazer isso, por favor, certifique-se de ler e seguir o Guia de Contribuições. ⊹★🔭๋࣭
+Espalhe a palavra! 🌎💙
+Se as informações deste repositório foram úteis para você de alguma forma, certifique-se de dar uma estrela 🌟, assim outras pessoas podem encontrá-lo e se beneficiar também! Juntos podemos crescer e melhorar nossa comunidade!
+Você tem alguma sugestão de como poderíamos melhorar este projeto em geral? Nos avise! Adoraríamos ouvir seu feedback
+Principais Contribuidores
+Fabiana 🚀 Campanari
+Pedro Vyctor
+
+
+###### <p align="center">[Copyright 2024 Mindful-AI-Assistants. Code released under the  MIT license.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1
 
 
 
