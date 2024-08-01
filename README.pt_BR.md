@@ -106,6 +106,8 @@ A Organização de Código Aberto **Mindful AI Assistants** incentiva todos a pa
 
 <br>
 
+<p align=“center”> JUNTOS SOMOS MAIS FORTES, JUNTOS PODEMOS MUDAR O MUNDO! 🌎💙
+
 
 
 
