@@ -92,25 +92,16 @@ Nossa abordagem de código aberto oferece benefícios significativos para os neg
 
 ## Aviso Importante
 
- 
-A MindfulAI Copilots & Bots Organization incentiva todos a participarem do projeto e contribuírem para o seu sucesso! 
+A Mindful AI Assistants incentiva todos a participarem dos projetos de código aberto e contribuírem para o seu sucesso!
 
-
+<p align=“center” style=“font-size: 400px”> ˗ˏˋॐˎˊ˗ </p>
 <br>
 
- [Unidos SOMOS MAIS FORTES, 🌎💙 Unidos PODEMOS MUDAR O MUNDO!]()
-
- 
-#
-
-### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
 
 
-### <p align="center"> [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml)  [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml)   
 
-#
- 
-###### <p align="center">[Copyright 2024 Mindful-AI-Assistants. Code released under the  MIT license.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
+
+
 
  
 
