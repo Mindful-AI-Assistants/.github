@@ -52,7 +52,7 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 <br>
 -----=-= 
- ### <p align="center"> ✯ **[](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)** ✯
+ ### <p align="center"> ✯ **[Consciencia de Unidade](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)** ✯
 
 
 
