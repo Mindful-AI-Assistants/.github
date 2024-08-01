@@ -47,6 +47,14 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
  <br>
 
+ ####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
+
+<br>
+-----=-= 
+ ### <p align="center"> ✯ **[𝒞ℴ𝓃𝓈𝒸𝒾ensc(https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)** ✯
+
+
+
  <!-- <p align="center"><img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/7a520307-8c65-43f5-80ae-40bb86f09caf" width="250"/>  --> 
 
 
