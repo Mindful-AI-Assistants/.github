@@ -61,11 +61,6 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
  <!-- <p align="center"><img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/7a520307-8c65-43f5-80ae-40bb86f09caf" width="250"/>  --> 
 
 
-  <p align="center">
-<img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="250"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="250"/>
-
-<br><br>
-
 #### <p align="center"> [![Patrocinador Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
 #### <p align="center"> [𖤐]() *Respire profundamente*  [𖤐]() *Mergulhe dentro de si mesmo* [𖤐]() *Descubra sua essência*
