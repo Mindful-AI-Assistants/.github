@@ -16,6 +16,35 @@ scikit-learn==1.0.1
 tensorflow==2.11.1  
 keras==2.6  
 
+# Bibliotecas para análise de dados
+scipy==1.11.1
+scikit-learn==1.5.0
+
+# Bibliotecas para machine learning
+tensorflow==2.12.1
+keras==2.13.1
+
+# Bibliotecas para processamento de linguagem natural
+nltk==3.8.1
+spacy==3.1.0
+
+# Bibliotecas para web scraping
+beautifulsoup4==4.10.0
+requests==2.32.2
+
+# Bibliotecas para trabalhar com bancos de dados
+sqlalchemy==1.4.23
+psycopg2-binary==2.9.1
+
+# Bibliotecas para Jupyter Notebook
+jupyter==1.0.0
+notebook==6.4.12
+ipywidgets==7.6.5
+
+# Outras bibliotecas úteis
+joblib==1.2.0
+
+
 # Bibliotecas para processamento de linguagem natural  
 nltk==3.6.6  
 spacy==3.1.0  
