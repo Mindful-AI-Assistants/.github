@@ -1,4 +1,4 @@
-Install Dependencys
+# Install Dependencies
 
 # Bibliotecas para manipulação de dados
 numpy==1.22.0
