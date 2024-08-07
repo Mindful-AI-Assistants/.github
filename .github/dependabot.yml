@@ -1,4 +1,3 @@
-# Full Version Dependant
 version: 2
 updates:
   - package-ecosystem: "bundler"
@@ -17,7 +16,6 @@ updates:
           - "minor"
           - "patch"
           
-  # Watch the per-ecosystem native helpers
   - package-ecosystem: "composer"
     directory: "/composer/helpers/v1"
     schedule:
@@ -86,7 +84,7 @@ updates:
           - "npm"
           - "semver"
         exclude-patterns:
-          - "detect-indent"  # temp excluded due to https://github.com/dependabot/dependabot-core/pull/5683#issuecomment-1243468605
+          - "detect-indent"
       yarn-dependencies:
         patterns:
           - "@dependabot/yarn-lib"
@@ -103,6 +101,10 @@ updates:
       - dependency-name: "npm"
         update-types: ["version-update:semver-major"]
   - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "pip"
     directory: "/python/helpers"
     schedule:
       interval: "weekly"
@@ -114,20 +116,3 @@ updates:
       interval: "weekly"
       day: "sunday"
       time: "14:00"
-
-      
-
-
-
-      
-
-      
-      
-
-      
-
-
-      
-
-      
-      
