@@ -85,12 +85,12 @@ Nossas soluções são essenciais para negócios que desejam melhorar sua comuni
 A  **modelagem preditiva**, por sua vez, é uma técnica que utiliza dados, algoritmos estatísticos e técnicas de machine learning para identificar a probabilidade de resultados futuros com base em dados históricos. Ela pode ajudar seu negócio a antecipar tendências, otimizar recursos e tomar decisões informadas com base em análises futuras.
 
   
-## Abordagem de Código Aberto
+## [Abordagem de Código Aberto]()
 
 Nossa abordagem de código aberto oferece benefícios significativos para os negócios. Ela não apenas fornece acesso ao código-fonte, permitindo a personalização das ferramentas de acordo com as necessidades específicas , mas também promove a colaboração interempresarial. Essa interação pode impulsionar o desenvolvimento de soluções inovadoras, ampliando ainda mais as possibilidades de uso da Inteligência Artificial.
 
 
-## Aviso Importante
+## [Aviso Importante]()
 
 A Mindful AI Assistants incentiva todos a participarem dos projetos de código aberto e contribuírem para o seu sucesso!
 
