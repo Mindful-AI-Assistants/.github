@@ -3,7 +3,7 @@ numpy==1.22.0
 pandas==2.2.2
 
 # Bibliotecas para visualização de dados
-matplotlib==3.4.3
+matplotlib==3.9.2
 seaborn==0.13.2
 
 # Bibliotecas para análise de dados
