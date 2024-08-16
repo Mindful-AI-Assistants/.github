@@ -1,5 +1,5 @@
 # Bibliotecas para manipulação de dados
-numpy==1.22.0
+numpy==2.0.1
 pandas==2.2.2
 
 # Bibliotecas para visualização de dados
