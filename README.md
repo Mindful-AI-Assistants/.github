@@ -79,7 +79,7 @@ $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 **Mindful-AI-Assistants** is an open-source organization founded by [Fabiana Campanari](https://github.com/FabianaCampanari) isc a multifaceted professional, a passionate humanistic artificial intelligence data scientist who loves AI, Design, and Code and also have de\gree in psychologie. The concept of the organization is "Empowering Businesses with Copilots, Agents, Bots and More!", and it focuses on creating copilots, bots, agents, and other AI solutions. Moreover, **Mindful-AI-Assistants** goes beyond technology, aiming to integrate spiritual development into its mission. We believe that technological advancement is truly meaningful only when accompanied by spiritual growth, as both are essential for human well-being. 
 
 <!--
-### <p align="center" style="font-size: 400px"> [*ੈ ✩‧₊˚༺ ☆ ༻ *ੈ✩‧₊˚](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
+### <p align="center" style="font-size: 400px"> *ੈ ✩‧₊˚༺ [☆] ༻ *ੈ✩‧₊˚(https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
 
 https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-474a-b2c9-d7a4c0afbb70 - sacred geomrtry
 -->
