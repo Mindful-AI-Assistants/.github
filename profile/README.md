@@ -81,7 +81,7 @@ https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-
 
 <br>
 
-### <p align="center" style="font-size: 300px"> *ੈ✩‧₊˚༺ [☆](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)༻*ੈ✩‧₊
+### <p align="center" style="font-size: 1000px"> *ੈ✩‧₊˚༺ [☆](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)༻*ੈ✩‧₊
 
 
 <br>
