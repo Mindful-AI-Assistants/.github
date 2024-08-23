@@ -150,8 +150,7 @@ Any contributions are highly appreciated.  You can contribute in two ways:
 
 If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! 
 
-Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback
-
+Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback.
 
 
 ## Main Contributors 
@@ -159,8 +158,6 @@ Do you have any suggestions on how we could improve this project overall? Let us
 [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
 [Pedro Vyctor](https://github.com/ppvyctor)
-
-
 
 #
  
