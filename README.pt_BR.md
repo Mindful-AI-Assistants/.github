@@ -116,7 +116,14 @@ A Organização de Código Aberto **Mindful AI Assistants** incentiva todos a pa
 Qualquer contribuição é muito apreciada. Você pode contribuir de duas maneiras:
 
 
-  1. Crie uma issue e nos conte sua ideia 💡. 
+  1. Crie uma issue e nos conte sua ideia 💡. Certifique-se de usar o label de nova ideia neste caso;
+     
+  2.Faça um fork do projeto e envie um pull request com sua nova ideia. Antes de fazer isso, por favor, certifique-se de ler e seguir o [Guia de Contribuições](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹[★]()🔭๋࣭ 
+  
+  
+  ## [Espalhe a palavra!]() 🌎💙 
+  
+  Se as informações deste repositório foram úteis para você de alguma forma, certifique-se de dar uma estrela 🌟,
 
 
 
