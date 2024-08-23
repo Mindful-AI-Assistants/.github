@@ -132,8 +132,10 @@ Qualquer contribuição é muito apreciada. Você pode contribuir de duas maneir
 ## Principais Contribuidores 
 
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
- 
 
+- [Pedro Vyctor](https://github.com/ppvyctor)
+
+ 
 
 
    
