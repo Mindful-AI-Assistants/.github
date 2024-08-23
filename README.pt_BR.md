@@ -126,6 +126,17 @@ Qualquer contribuição é muito apreciada. Você pode contribuir de duas maneir
   Se as informações deste repositório foram úteis para você de alguma forma, certifique-se de dar uma estrela 🌟,  assim outras pessoas podem encontrá-lo e se beneficiar também! Juntos podemos crescer e tornar nossa comunidade melhor! 
 
    Você tem alguma sugestão sobre como poderíamos melhorar este projeto em geral? Nos avise! Adoraríamos ouvir seu feedback.
+
+
+
+## Principais Contribuidores 
+
+- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+ 
+
+
+
+   
   
 
   
