@@ -116,6 +116,9 @@ A Organização de Código Aberto **Mindful AI Assistants** incentiva todos a pa
 Qualquer contribuição é muito apreciada. Você pode contribuir de duas maneiras:
 
 
+  1. Crie uma issue e nos conte sua ideia 💡. 
+
+
 
 
 
