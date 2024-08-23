@@ -99,6 +99,8 @@ A Mindful AI Assistants incentiva todos a participarem dos projetos de código a
 <br>
 
 #### <p align="center"> JUNTOS SOMOS MAIS FORTES, UNIDOS [NÓS PODEMOS MUDAR O MUNDO PARA MELHOR!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2) 🌎💙
+
+1. Crie um issue e nos conte sua ideia 💡.
   
 
  <!--
