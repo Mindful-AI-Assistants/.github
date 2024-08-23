@@ -104,6 +104,9 @@ A Organização de Código Aberto **Mindful AI Assistants** incentiva todos a pa
 
 <p align=“center” style=“font-size: 400px”> ˗ˏˋ[ॐ]()ˎˊ˗ </p>
 
+https://github.com/user-attachments/assets/751b6903-e9b4-483d-860a-bdde627c6890ˎˊ˗) </p> 
+
+
 <br>
 
 <p align=“center”> JUNTOS SOMOS MAIS FORTES, JUNTOS PODEMOS MUDAR O MUNDO! 🌎💙
