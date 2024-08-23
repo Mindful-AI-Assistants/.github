@@ -102,7 +102,7 @@ Nossa abordagem de código aberto oferece benefícios significativos para os neg
 
 A Organização de Código Aberto **Mindful AI Assistants** incentiva todos a participarem do projeto e contribuírem para o seu sucesso!
 
-<p align=“center” style=“font-size: 400px”> ˗ˏˋॐˎˊ˗ </p>
+<p align=“center” style=“font-size: 400px”> ˗ˏˋ[ॐ]()ˎˊ˗ </p>
 
 <br>
 
