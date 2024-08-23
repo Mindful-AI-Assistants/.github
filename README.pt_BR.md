@@ -123,8 +123,9 @@ Qualquer contribuição é muito apreciada. Você pode contribuir de duas maneir
   
   ## [Espalhe a palavra!]() 🌎💙 
   
-  Se as informações deste repositório foram úteis para você de alguma forma, certifique-se de dar uma estrela 🌟,
-
+  Se as informações deste repositório foram úteis para você de alguma forma, certifique-se de dar uma estrela 🌟,  assim outras pessoas podem encontrá-lo e se beneficiar também! Juntos podemos crescer e tornar nossa comunidade melhor! 
+  
+ 
 
 
 
