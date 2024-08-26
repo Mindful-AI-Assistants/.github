@@ -12,8 +12,8 @@
  *
   <!--  START HEADER  -->   
 
-  ## <p align="center">   💭 [Mindful AI](https://github.com/user-attachments/assets/f1bda9f9-aaf3-4f56-a2be-6ddf70595499) Assistants
-#### <p align="center"> *Empowering businesses with AI-driven technologies like Copilots, Agents, Bots, and Predictions, alongside intelligent Decision-Making Support*
+  # <p align="center">   💭 [Mindful AI](https://github.com/user-attachments/assets/f1bda9f9-aaf3-4f56-a2be-6ddf70595499) Assistants
+### <p align="center"> *Empowering businesses with AI-driven technologies like Copilots, Agents, Bots, and Predictions, alongside intelligent Decision-Making Support*
 
 <br>
   
@@ -44,15 +44,10 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
   <!-- ##### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$  --> 
 
-
-
 $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
-
-
 
 ####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
 
- 
 <br>
 
  ### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)** ✯
@@ -61,7 +56,7 @@ $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 <br>
 
 <p align="center">
-<img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="230"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="230"/>
+<img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="250"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="250"/>
 
 <br><br>
 
@@ -79,14 +74,14 @@ $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 **Mindful-AI-Assistants** is an open-source organization founded by [Fabiana Campanari](https://github.com/FabianaCampanari) isc a multifaceted professional, a passionate humanistic artificial intelligence data scientist who loves AI, Design, and Code and also have de\gree in psychologie. The concept of the organization is "Empowering Businesses with Copilots, Agents, Bots and More!", and it focuses on creating copilots, bots, agents, and other AI solutions. Moreover, **Mindful-AI-Assistants** goes beyond technology, aiming to integrate spiritual development into its mission. We believe that technological advancement is truly meaningful only when accompanied by spiritual growth, as both are essential for human well-being. 
 
 <!--
-### <p align="center" style="font-size: 400px"> *ੈ ✩‧₊˚༺ [☆] ༻ *ੈ✩‧₊˚(https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
+### <p align="center" style="font-size: 400px"> [*ੈ ✩‧₊˚༺ ☆ ༻ *ੈ✩‧₊˚](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
 
 https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-474a-b2c9-d7a4c0afbb70 - sacred geomrtry
 -->
 
 <br>
 
-### <p align="center" style="font-size: 300px"> *ੈ✩‧₊˚༺ [☆](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)༻*ੈ✩‧₊
+### <p align="center" style="font-size: 1000px"> *ੈ✩‧₊˚༺ [☆](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)༻*ੈ✩‧₊
 
 
 <br>
@@ -123,7 +118,7 @@ Our open-source approach offers significant benefits for businesses. It not only
 **Mindful AI Assistants Organization** encourages everyone to participate in the project and contribute to its success!
 
 
-### <p align="center" style="font-size: 400px">  ˗ˏˋ[ॐ](https://github.com/user-attachments/assets/751b6903-e9b4-483d-860a-bdde627c6890)ˎˊ˗ </p> 
+### <p align="center" style="font-size: 400px">  ˗ˏˋ[ॐ](https://github.com/user-attachments/assets/751b6903-e9b4-483d-860a-bdde627c6890)ˎˊ˗ </p>  
 
 <br>
 
@@ -142,7 +137,7 @@ Any contributions are highly appreciated.  You can contribute in two ways:
 
    1. Create an issue and tell us your idea 💡. Make sure that you use the new idea label in this case;
 
-   2. Fork the project and submit a full requesto with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹[★]()🔭๋࣭
+   2. Fork the project and submit a full requesto with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹[★]()🔭๋
 
 
 
@@ -150,7 +145,8 @@ Any contributions are highly appreciated.  You can contribute in two ways:
 
 If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! 
 
-Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback.
+Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback
+
 
 
 ## Main Contributors 
@@ -159,6 +155,8 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 [Pedro Vyctor](https://github.com/ppvyctor)
 
+
+
 #
  
-###### <p align="center"> Copyright 2024 Mindful-AI-Assistants. Code released under the  [MIT license.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
+##### <p align="center">Copyright 2024 Mindful-AI-Assistants. Code released under the  [MIT license.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
