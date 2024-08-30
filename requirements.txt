@@ -26,7 +26,7 @@ sqlalchemy==2.0.32
 psycopg2-binary==2.9.9
 
 # Bibliotecas para Jupyter Notebook
-jupyter==1.0.0
+jupyter==1.1.0
 notebook==7.2.2
 ipywidgets==8.1.5
 
