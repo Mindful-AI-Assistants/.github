@@ -15,7 +15,7 @@ tensorflow==2.17.0
 keras==3.5.0
 
 # Bibliotecas para processamento de linguagem natural
-spacy==3.7.6
+spacy==3.8.0
 
 # Bibliotecas para web scraping
 beautifulsoup4==4.12.3
