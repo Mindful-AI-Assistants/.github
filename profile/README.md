@@ -12,7 +12,7 @@
 ° :. 　 * •★ ° . *　　　°　.　°☆.　 * 　.　
  *
 
-  
+<br>
   <!--  START HEADER  -->   
 
   # <p align="center">   💭 [Mindful AI](https://github.com/user-attachments/assets/f1bda9f9-aaf3-4f56-a2be-6ddf70595499) Assistants
