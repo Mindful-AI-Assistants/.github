@@ -150,6 +150,20 @@ If the information from this repo was useful to you in any way, make sure you gi
 Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback
 
 
+## 💌 Contact
+
+<br><br>
+
+### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
+
+<br>
+
+For any questions, suggestions, or collaborations, feel free to reach out:
+
+[Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+
+
+
 ## Main Contributors 
 
 [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
