@@ -98,7 +98,7 @@ Nossa abordagem de código aberto oferece benefícios significativos para os neg
 
 ## [Aviso Importante]()
 
-A **Organização de Assistentes de IA Consciente** incentiva todos a participar do projeto e contribuir para o seu sucesso!
+A **Mindful AI Assistants** incentiva todos a participar do projeto e contribuir para o seu sucesso!
 
 ### <p align="center" style="font-size: 400px"> ˗ˏˋ[ॐ](https://github.com/user-attachments/assets/751b6903-e9b4-483d-860a-bdde627c6890)ˎˊ˗ </p>
 
