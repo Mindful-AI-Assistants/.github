@@ -160,9 +160,9 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 For any questions, suggestions, or collaborations, feel free to reach out:
 
-[Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+[Fabiana Campanari Contacts Hub](https://linktr.ee/fabianacampanari)
 
-Contacts [Hub](https://linktr.ee/fabianacampanari)
+
 
 
 ## Main Contributors 
