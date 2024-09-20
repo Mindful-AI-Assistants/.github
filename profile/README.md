@@ -167,9 +167,10 @@ Fabiana Campanari 🛰️ [Contacts Hub](https://linktr.ee/fabianacampanari)
 
 ## [Main Contributors]() 
 
-[Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+<br>
 
-[Pedro Vyctor](https://github.com/ppvyctor)
+- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+- [Pedro Vyctor](https://github.com/ppvyctor)
 
 
 #
