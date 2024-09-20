@@ -11,7 +11,7 @@
  <br><br> 
 
 # <p align="center">   💭 [Mindful AI](https://github.com/user-attachments/assets/f1bda9f9-aaf3-4f56-a2be-6ddf70595499) Assistants
-#### <p align="center"> *Transformando empresas com tecnologias impulsionadas por IA, como Copilots, Agents, Bots e Previsões, junto com suporte inteligente na tomada de decisões.*
+### <p align="center"> *Transformando empresas com tecnologias impulsionadas por IA, como Copilots, Agents, Bots e Previsões, junto com suporte inteligente na tomada de decisões.*
 
 <br>
 
@@ -90,20 +90,10 @@ A  **modelagem preditiva**, por sua vez, é uma técnica que utiliza dados, algo
 Nossa abordagem de código aberto oferece benefícios significativos para os negócios. Ela não apenas fornece acesso ao código-fonte, permitindo a personalização das ferramentas de acordo com as necessidades específicas , mas também promove a colaboração interempresarial. Essa interação pode impulsionar o desenvolvimento de soluções inovadoras, ampliando ainda mais as possibilidades de uso da Inteligência Artificial.
 
 
-## [Aviso Importante]()
-
-A Mindful AI Assistants incentiva todos a participarem dos projetos de código aberto e contribuírem para o seu sucesso!
-
-### <p align="center" style="font-size: 400px">  [˗ˏˋॐˎˊ˗](https://github.com/user-attachments/assets/751b6903-e9b4-483d-860a-bdde627c6890) </p> 
-
-<br>
-
-#### <p align="center"> JUNTOS SOMOS MAIS FORTES, UNIDOS [NÓS PODEMOS MUDAR O MUNDO PARA MELHOR!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2) 🌎💙
-
-1. Crie um issue e nos conte sua ideia 💡.
+1. Crie um issue e nos conte sua ideia 💡
   
 
-## [Nota Importante]()
+## [Aviso Importante]()
 
 A **Organização de Assistentes de IA Consciente** incentiva todos a participar do projeto e contribuir para o seu sucesso!
 
@@ -153,7 +143,7 @@ Fabiana Campanari 🛰️ [Hub de Contatos](https://linktr.ee/fabianacampanari)
 
   #
 
-###### <p align="center">[Copyright 2024 Mindful-AI-Assistants. Code released under the  MIT license.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1
+###### <p align="center">Copyright 2024 Mindful-AI-Assistants. Code released under the  [MIT license.](https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1
 
 
 
