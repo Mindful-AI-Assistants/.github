@@ -104,7 +104,7 @@ A modelagem preditiva utiliza dados, algoritmos estatísticos e aprendizado de m
 
 Nossa abordagem de código aberto oferece vantagens significativas para empresas, garantindo acesso ao código-fonte para personalização de ferramentas sob medida e promovendo a colaboração entre empresas. Essa colaboração pode levar a soluções inovadoras, aprimorando ainda mais as aplicações de IA.
 
-## [Nota Importante]()
+## [Aviso Importante]()
 
 A **Organização de Assistentes de IA Consciente** incentiva todos a participar do projeto e contribuir para o seu sucesso!
 
