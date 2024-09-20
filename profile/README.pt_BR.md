@@ -103,17 +103,55 @@ A Mindful AI Assistants incentiva todos a participarem dos projetos de código a
 1. Crie um issue e nos conte sua ideia 💡.
   
 
- <!--
+## [Nota Importante]()
 
-Crie um issue e nos conte sua ideia 💡. Certifique-se de usar o rótulo nova ideia nesse caso;
-Faça um fork do projeto e envie uma solicitação completa com sua nova ideia. Antes de fazer isso, por favor, certifique-se de ler e seguir o Guia de Contribuições. ⊹★🔭๋࣭
-Espalhe a palavra! 🌎💙
-Se as informações deste repositório foram úteis para você de alguma forma, certifique-se de dar uma estrela 🌟, assim outras pessoas podem encontrá-lo e se beneficiar também! Juntos podemos crescer e melhorar nossa comunidade!
-Você tem alguma sugestão de como poderíamos melhorar este projeto em geral? Nos avise! Adoraríamos ouvir seu feedback
-Principais Contribuidores
-Fabiana 🚀 Campanari
-Pedro Vyctor
+A **Organização de Assistentes de IA Consciente** incentiva todos a participar do projeto e contribuir para o seu sucesso!
 
+### <p align="center" style="font-size: 400px"> ˗ˏˋ[ॐ](https://github.com/user-attachments/assets/751b6903-e9b4-483d-860a-bdde627c6890)ˎˊ˗ </p>
+
+<br>
+
+#### <p align="center"> JUNTOS SOMOS MAIS FORTES, JUNTOS [PODEMOS MUDAR O MUNDO!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2) 🌎💙
+
+#
+
+### <p align="center"> <img width="131" alt="Produzido-Por-Humanos-Não-Pela-IA-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
+     
+ ### <p align="center"> [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml)  [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml)   
+
+## [Contribuições]()
+
+Qualquer contribuição é muito apreciada. Você pode contribuir de duas maneiras:
+
+   1. Crie uma issue e nos diga sua ideia 💡. Certifique-se de usar o rótulo nova ideia nesse caso;
+
+   2. Faça um fork do projeto e envie um pull request com sua nova ideia. Antes de fazer isso, por favor, certifique-se de ler e seguir o [Guia de Contribuições](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹[★]()🔭๋
+
+## [Espalhe a Conhecimento!]() 🌎💙
+
+Se as informações deste repositório foram úteis para você de alguma forma, não se esqueça de dar uma estrela 🌟, assim outros podem encontrá-lo e se beneficiar também! Juntos podemos crescer e melhorar nossa comunidade!
+
+Você tem alguma sugestão sobre como poderíamos melhorar este projeto como um todo? Nos avise! Adoraríamos ouvir seu feedback.
+
+## 💌 [Entre em Contato]()
+
+<br><br>
+
+### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
+
+<br>
+
+Para quaisquer perguntas, sugestões ou colaborações, fique à vontade para entrar em contato:
+
+Fabiana Campanari 🛰️ [Hub de Contatos](https://linktr.ee/fabianacampanari)
+
+## [Principais Contribuidores]() 
+
+- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+- 
+- [Pedro Vyctor](https://github.com/ppvyctor)
+
+  #
 
 ###### <p align="center">[Copyright 2024 Mindful-AI-Assistants. Code released under the  MIT license.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1
 
