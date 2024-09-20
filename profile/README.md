@@ -102,7 +102,7 @@ Our approach values collaborative work and fosters a sense of , inspiring us to 
 - **Agents:** An Agent is a computer program that operates autonomously to perform specific tasks. They are designed to learn and adapt over time based on data input and feedback. They can be used in a variety of applications, from computer games to virtual personal assistants.
 
 
-## What We Offer
+## [What We Offer]()
 
 MindfulAI-Assistants specializes in AI-powered tools designed to automate repetitive tasks, enhance communication, boost productivity, and conduct future analyses using predictive models. We provide diverse solutions, including chatbot development, AI integration, automation, and predictive modeling.
 
@@ -110,7 +110,7 @@ Our offerings are vital for businesses seeking to enhance communication, product
 
 Predictive modeling employs data, statistical algorithms, and machine learning to forecast future outcomes based on historical data. This technique enables businesses to anticipate trends, optimize resources, and make informed decisions.
 
-## Open Source Approach
+## [Open Source Approach]()
 
 Our open-source approach provides significant advantages for businesses, granting access to source code for tailored tool customization and fostering inter-company collaboration. This collaboration can lead to innovative solutions, further enhancing AI applications.
 
@@ -150,7 +150,7 @@ If the information from this repo was useful to you in any way, make sure you gi
 Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback
 
 
-## 💌 Contact
+## 💌 [Contact]()
 
 <br><br>
 
@@ -165,7 +165,7 @@ For any questions, suggestions, or collaborations, feel free to reach out:
 
 
 
-## Main Contributors 
+## [Main Contributors]() 
 
 [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
