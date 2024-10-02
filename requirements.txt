@@ -14,9 +14,6 @@ scikit-learn==1.5.2
 tensorflow==2.17.0
 keras==3.5.0
 
-# Bibliotecas para processamento de linguagem natural
-spacy==3.8.2
-
 # Bibliotecas para web scraping
 beautifulsoup4==4.12.3
 requests==2.32.3
