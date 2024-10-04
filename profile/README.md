@@ -160,7 +160,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 For any questions, suggestions, or collaborations, feel free to reach out:
 
-Fabiana Campanari 🛰️ [Contacts Hub](https://linktr.ee/fabianacampanari)
+Fabiana Campanari 🚀 [Contacts Hub](https://linktr.ee/fabianacampanari)
 
 Fabiana Campanari 🛰️ [mail](https://linktr.ee/fabianacampanari)
 
