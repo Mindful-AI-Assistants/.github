@@ -1,0 +1,14 @@
+name: Executar Jupyter Notebook
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+
+    
