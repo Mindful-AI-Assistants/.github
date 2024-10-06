@@ -1,9 +1,9 @@
 
 cff-version: 1.2.0
-title:  MindfulAI ⚝ Copilots & Bots Repository
+title: Mindful AI Assistants
 message: If you really want to cite this repository, here's how you should cite it.
 type: software
 authors:
-  - given-names: MindfulAI-Copilots-Bots
-repository-code: https://github.com/MindfulAI-Copilots-Bots/.github
+  - given-names: Mindful-AI-Assistants
+repository-code: https://github.com/Mindful-AI-Assistants/.github
 license: MIT License
