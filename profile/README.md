@@ -163,10 +163,10 @@ For any questions, suggestions, or collaborations, feel free to reach out:
 
 Fabiana Campanari 🚀 [Contacts Hub](https://linktr.ee/fabianacampanari)
 
-Fabiana Campanari 🛰️ [mail](https://linktr.ee/fabianacampanari)
+Fabiana Campanari 🛰️ [email](mailto:fabicampanari@proton.me)
 
 
-
+ 
 
 ## [Main Contributors]() 
 
