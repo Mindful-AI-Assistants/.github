@@ -18,6 +18,11 @@
   # <p align="center">   💭 [Mindful AI](https://github.com/user-attachments/assets/f1bda9f9-aaf3-4f56-a2be-6ddf70595499) Assistants
 ### <p align="center"> *Empowering businesses with AI-driven technologies like Copilots, Agents, Bots and Predictions, alongside intelligent Decision-Making Support*
 
+
+https://github.com/user-attachments/assets/adab5b0c-2a78-4e64-8f96-1cf35baec766
+
+
+
 <br>
   
 
