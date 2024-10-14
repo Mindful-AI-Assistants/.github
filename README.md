@@ -15,11 +15,11 @@
 <br>
   <!--  START HEADER  -->   
 
-  # <p align="center">   💭 [Mindful AI]() Assistants
+  # <p align="center">   💭 [Mindful AI](https://github.com/user-attachments/assets/adab5b0c-2a78-4e64-8f96-1cf35baec766) Assistants
 ### <p align="center"> *Empowering businesses with AI-driven technologies like Copilots, Agents, Bots and Predictions, alongside intelligent Decision-Making Support*
 
 
-https://github.com/user-attachments/assets/adab5b0c-2a78-4e64-8f96-1cf35baec766
+
 
 
 
