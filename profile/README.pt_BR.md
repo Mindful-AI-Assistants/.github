@@ -143,8 +143,7 @@ Fabiana Campanari 🛰️ [Hub de Contatos](https://linktr.ee/fabianacampanari)
 
 ## [Principais Contribuidores]() 
 
-- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
-- 
+- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari) 
 - [Pedro Vyctor](https://github.com/ppvyctor)
 
   <br><br>
