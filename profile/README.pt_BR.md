@@ -138,11 +138,19 @@ Para quaisquer perguntas, sugestões ou colaborações, fique à vontade para en
 
 Fabiana Campanari 🛰️ [Hub de Contatos](https://linktr.ee/fabianacampanari)
 
+
+
+
 ## [Principais Contribuidores]() 
 
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 - 
 - [Pedro Vyctor](https://github.com/ppvyctor)
+
+  <br><br>
+
+<p align="center"> <a href="#top">Back to top</a>
+
 
   #
 
