@@ -20,7 +20,7 @@ requests==2.32.3
 
 # Bibliotecas para trabalhar com bancos de dados
 sqlalchemy==2.0.36
-psycopg2-binary==2.9.9
+psycopg2-binary==2.9.10
 
 # Bibliotecas para Jupyter Notebook
 jupyter==1.1.1
