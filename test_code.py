@@ -1,9 +1,8 @@
 # Test file for pytest. This example includes several test functions and uses pytest fixtures for setup and teardown.
 
-
 import pytest
 
-# Fixture para configuração e limpeza
+# "Fixture for setup and cleanup".
 @pytest.fixture
 def setup_data():
     print("\nSetup")
@@ -11,14 +10,14 @@ def setup_data():
     yield data
     print("\nCleanup")
 
-# Função de teste usando a fixture
+#  "Test function using the fixture."
 def test_key1(setup_data):
     assert setup_data["key1"] == "value1"
 
-# Outra função de teste usando a fixture
+# "Another test function using the fixture"
 def test_key2(setup_data):
     assert setup_data["key2"] == "value2"
 
-# Função de teste sem usar a fixture
+# "Test function without using the fixture"
 def test_addition():
     assert 1 + 1 == 2
