@@ -1,5 +1,4 @@
-# Arquivo de teste para o pytest. Este exemplo inclui várias funções de teste e usa fixtures 
-# do pytest para configuração e limpeza
+# Test file for pytest. This example includes several test functions and uses pytest fixtures for setup and teardown.
 
 
 import pytest
