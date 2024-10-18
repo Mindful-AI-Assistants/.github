@@ -1,5 +1,4 @@
 # Este workflow avisa e depois fecha issues e PRs que não tiveram atividade por um tempo especificado.
-
 name: 'Stale issue and PR closer'
 on:
   schedule:
