@@ -100,9 +100,17 @@ Nossa abordagem de código aberto oferece benefícios significativos para os neg
 
 A **Mindful AI Assistants** incentiva todos a participar do projeto e contribuir para o seu sucesso!
 
-### <p align="center" style="font-size: 400px"> ˗ˏˋ[ॐ](https://github.com/user-attachments/assets/751b6903-e9b4-483d-860a-bdde627c6890)ˎˊ˗ </p>
+<br>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/751b6903-e9b4-483d-860a-bdde627c6890">
+    <img src="https://github.com/user-attachments/assets/dc99bcbd-2599-4b12-8b6e-ba1fb6fda496" width="150" />
+  </a>
+</p>
+
 
 <br>
+
 
 #### <p align="center"> JUNTOS SOMOS MAIS FORTES, JUNTOS [PODEMOS MUDAR O MUNDO!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2) 🌎💙
 
