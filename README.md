@@ -125,6 +125,10 @@ Our open-source approach provides significant advantages for businesses, grantin
 **Mindful AI Assistants Organization** encourages everyone to participate in the project and contribute to its success!
 
 
+![Video](https://github.com/user-attachments/assets/dc99bcbd-2599-4b12-8b6e-ba1fb6fda496)
+
+
+
 ### <p align="center" style="font-size: 400px">  ˗ˏˋ[ॐ](https://github.com/user-attachments/assets/751b6903-e9b4-483d-860a-bdde627c6890)ˎˊ˗ </p>  
 
 <br>
