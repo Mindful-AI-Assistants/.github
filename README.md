@@ -129,13 +129,13 @@ Our open-source approach provides significant advantages for businesses, grantin
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/3fa75ed8-3261-4a5c-af55-17732bd39c44">
-    <img src="https://github.com/user-attachments/assets/7b37ec78-1fc3-4bce-a84a-945b46be71e9" width="75" />
+    <img src="
+https://github.com/user-attachments/assets/dc99bcbd-2599-4b12-8b6e-ba1fb6fda496" width="75" />
   </a>
 </p>
 
 
 
-![Video](https://github.com/user-attachments/assets/dc99bcbd-2599-4b12-8b6e-ba1fb6fda496)
 
 
 
