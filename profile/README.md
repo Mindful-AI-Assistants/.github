@@ -97,7 +97,7 @@ Our approach fosters collaborative work, driven by a purpose of building technol
 
 ## [What are Copilots, Bots, and Agents?]()
 
-- **Copilots:** A Copilot is an artificial intelligence that assists users in specific tasks, providing real-time suggestions and guidance. For example, a Copilot can be designed to help users write code, providing real-time suggestions and corrections.
+- **Copilots:** Copilots are AIs that assist users with specific tasks by providing real-time suggestions and insights. For instance, copilots can aid in coding by offering instant recommendations and corrections.
 
 - **Bots:** A Bot is a software programmed to perform automated tasks. Bots can be simple (like a customer service bot that answers frequently asked questions)  or complex (like a stock trading bot that analyzes real-time stock market data).
 
