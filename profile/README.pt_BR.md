@@ -66,9 +66,19 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 ## [Sobre Nós]()
 
-**Mindful AI Assistants** é uma organização de código aberto fundada por [Fabiana Campanari](https://github.com/FabianaCampanari), uma apaixonada cientista de dados de inteligência artificial que ama IA, Design e Código. O conceito da organização é "Capacitar Empresas com Co-pilotos, Agentes, Bots e Mais!",  e ela se concentra em criar co-pilotos, bots, agentes e outras soluções de IA. Além disso, a **Mindful AI Assistants** vai além da tecnologia, visando integrar o desenvolvimento espiritual em sua missão. Acreditamos que o avanço tecnológico é verdadeiramente significativo apenas quando acompanhado pelo crescimento espiritual, pois ambos são essenciais para o bem-estar e desenvolvimento humano. 
+**Mindful AI Assistants** é uma organização de código aberto fundada por [Fabiana Campanari](https://github.com/FabianaCampanari) com uma profunda paixão por IA humanística, design e programação, e uma formação em psicologia. Nossa missão é "Capacitando Empresas com Copilotos, Agentes, Bots e Muito Mais!"—criando soluções de IA que conectam tecnologia com potencial humano. Na Mindful-AI-Assistants, integramos não apenas soluções tecnológicas avançadas, mas também enfatizamos o crescimento holístico, acreditando que o verdadeiro progresso combina tanto o avanço tecnológico quanto o espiritual para um bem-estar equilibrado.
 
-Nossa abordagem valoriza o trabalho colaborativo e promove o senso de unidade, inspirando-nos a contribuir e implementar nossos códigos com o propósito de construir algo que beneficie a humanidade como um todo. Esta visão elevada é a força motriz por trás de nossa motivação, irradiando **amor**, **frequencia**, **vibração** e **alegria** em cada empreendimento. [ॐ]() 
+<br>
+
+### <p align="center" style="font-size: 1000px"> *ੈ✩‧₊˚༺ [☆](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)༻*ੈ✩‧₊
+
+
+<br>
+
+
+Nossa abordagem promove o trabalho colaborativo, impulsionado pelo propósito de construir tecnologia que impacta positivamente a humanidade. Essa missão inspira cada projeto e linha de código que criamos, ressoando com valores de amor, energia positiva e alegria em cada projeto.
+
+
 
  ## [O Que São Co-pilotos, Bots e Agentes?]()
 
