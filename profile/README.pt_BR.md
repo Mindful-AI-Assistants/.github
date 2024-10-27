@@ -82,11 +82,11 @@ Nossa abordagem promove o trabalho colaborativo, impulsionado pelo propósito de
 
  ## [O Que São Co-pilotos, Bots e Agentes?]()
 
-- **Co-pilotos:** Um Co-piloto é uma inteligência artificial que ajuda os usuários em tarefas específicas, fornecendo sugestões e orientações em tempo real. Por exemplo, um Co-piloto pode ser projetado para ajudar os usuários a escrever código, fornecendo sugestões e correções em tempo real.
+- [**Copilotos:**]() Copilotos são IAs que assistem os usuários em tarefas específicas, fornecendo sugestões e insights em tempo real. Por exemplo, copilotos podem ajudar na programação, oferecendo recomendações e correções instantâneas.
 
-- **Bots:** Um Bot é um software programado para realizar tarefas automatizadas.  Os Bots podem ser simples (como um bot de serviço ao cliente que responde a perguntas frequentes) ou complexos (como um bot de negociação de ações que analisa dados do mercado de ações em tempo real).
+- [**Bots:**]() Bots são programas para tarefas automatizadas, que vão desde bots de atendimento ao cliente que lidam com perguntas frequentes até bots avançados, como bots de negociação de ações que analisam dados em tempo real.
 
-- **Agentes:** Um Agente é um programa de computador que opera autonomamente para realizar tarefas específicas. Eles são projetados para aprender e se adaptar ao longo do tempo com base em entradas de dados e feedback. Eles podem ser usados em uma variedade de aplicações, de jogos de computador a assistentes pessoais virtuais.
+- [**Agentes:**]() Agentes são programas inteligentes e autônomos que se adaptam e aprendem ao longo do tempo. Sua capacidade de evoluir os torna particularmente valiosos em ambientes dinâmicos, apoiando tarefas como assistência pessoal virtual ou análise de negócios. Agentes desempenham um papel crucial na tomada de decisões, aprendendo continuamente com os dados e adaptando suas respostas, fornecendo assim insights e estratégias acionáveis adaptadas a necessidades específicas de negócios.
 
 ## [O que Oferecemos]()
 
