@@ -121,10 +121,9 @@ Our tools—ranging from chatbots and copilots to these adaptive agents—improv
 Our open-source commitment allows businesses to access, customize, and collaborate on our AI solutions, creating a space for innovation and shared progress in the AI field.
 
 
-## [Important Note]()
+## [Get Involved]()
 
-**Mindful AI Assistants Organization** encourages everyone to participate in the project and contribute to its success!
-
+**Mindful AI Assistants Organization** Mindful AI Assistants Organization encourages everyone to participate in the project and contribute to its success, building solutions that drive progress for a better future!
  <br>
 
 
