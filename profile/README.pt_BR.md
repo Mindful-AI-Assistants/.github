@@ -106,11 +106,12 @@ Nossas ferramentas—que vão de chatbots e copilotos a esses agentes adaptativo
 Nosso compromisso com o código aberto permite que empresas acessem, personalizem e colaborem em nossas soluções de IA, criando um espaço para inovação e progresso compartilhado no campo da inteligência artificial.
   
 
-## [Aviso Importante]()
+## [Participe]()
 
-A **Mindful AI Assistants** incentiva todos a participar do projeto e contribuir para o seu sucesso!
+**Organização de Assistentes de IA Consciente** A Organização de Assistentes de IA Consciente incentiva todos a participar do projeto e contribuir para seu sucesso, construindo soluções que impulsionam o progresso para um futuro melhor!
 
 <br>
+
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/751b6903-e9b4-483d-860a-bdde627c6890">
