@@ -103,10 +103,7 @@ Nossas ferramentas—que vão de chatbots e copilotos a esses agentes adaptativo
   
 ## [Abordagem de Código Aberto]()
 
-Nossa abordagem de código aberto oferece benefícios significativos para os negócios. Ela não apenas fornece acesso ao código-fonte, permitindo a personalização das ferramentas de acordo com as necessidades específicas , mas também promove a colaboração interempresarial. Essa interação pode impulsionar o desenvolvimento de soluções inovadoras, ampliando ainda mais as possibilidades de uso da Inteligência Artificial.
-
-
-1. Crie um issue e nos conte sua ideia 💡
+Nosso compromisso com o código aberto permite que empresas acessem, personalizem e colaborem em nossas soluções de IA, criando um espaço para inovação e progresso compartilhado no campo da inteligência artificial.
   
 
 ## [Aviso Importante]()
