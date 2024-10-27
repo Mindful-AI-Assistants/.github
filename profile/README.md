@@ -97,11 +97,11 @@ Our approach fosters collaborative work, driven by a purpose of building technol
 
 ## [What are Copilots, Bots, and Agents?]()
 
-- **Copilots:** Copilots are AIs that assist users with specific tasks by providing real-time suggestions and insights. For instance, copilots can aid in coding by offering instant recommendations and corrections.
+- [**Copilots:**]() Copilots are AIs that assist users with specific tasks by providing real-time suggestions and insights. For instance, copilots can aid in coding by offering instant recommendations and corrections.
 
-- **Bots:** Bots are programs for automated tasks, ranging from customer service bots that handle FAQs to advanced bots, such as stock trading bots analyzing live
+- [**Bots:**]() Bots are programs for automated tasks, ranging from customer service bots that handle FAQs to advanced bots, such as stock trading bots analyzing live
 
-- **Agents:**  Agents are intelligent, autonomous programs that adapt and learn over time. Their ability to evolve makes them particularly valuable in dynamic environments, supporting tasks such as virtual personal assistance or business analysis. Agents play a pivotal role in decision-making by continuously learning from data and adapting their responses, thus providing actionable insights and strategies tailored to specific business needs.
+- [**Agents:**]()  Agents are intelligent, autonomous programs that adapt and learn over time. Their ability to evolve makes them particularly valuable in dynamic environments, supporting tasks such as virtual personal assistance or business analysis. Agents play a pivotal role in decision-making by continuously learning from data and adapting their responses, thus providing actionable insights and strategies tailored to specific business needs.
 
 ## [What We Offer]()
 
