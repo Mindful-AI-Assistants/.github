@@ -99,7 +99,7 @@ Our approach fosters collaborative work, driven by a purpose of building technol
 
 - **Copilots:** Copilots are AIs that assist users with specific tasks by providing real-time suggestions and insights. For instance, copilots can aid in coding by offering instant recommendations and corrections.
 
-- **Bots:** A Bot is a software programmed to perform automated tasks. Bots can be simple (like a customer service bot that answers frequently asked questions)  or complex (like a stock trading bot that analyzes real-time stock market data).
+- **Bots:** Bots are programs for automated tasks, ranging from customer service bots that handle FAQs to advanced bots, such as stock trading bots analyzing live
 
 - **Agents:** An Agent is a computer program that operates autonomously to perform specific tasks. They are designed to learn and adapt over time based on data input and feedback. They can be used in a variety of applications, from computer games to virtual personal assistants.
 
