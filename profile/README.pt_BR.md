@@ -155,7 +155,7 @@ Você tem alguma sugestão sobre como poderíamos melhorar este projeto como um 
 
 Para quaisquer perguntas, sugestões ou colaborações, fique à vontade para entrar em contato:
 
-Fabiana Campanari 🛰️ [Hub de Contatos](https://linktr.ee/fabianacampanari)
+Fabiana Campanari 🚀 [Hub de Contatos](https://linktr.ee/fabianacampanari)
 
 Fabiana Campanari 🛰️ [email](mailto:fabicampanari@proton.me)
 
