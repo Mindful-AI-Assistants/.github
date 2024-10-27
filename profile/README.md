@@ -91,7 +91,7 @@ https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-
 
 <br>
 
-Our approach values collaborative work and fosters a sense of , inspiring us to contribute and implement our codes with the purpose of building something that benefits humanity as a whole. This elevated vision is the driving force behind our motivation, radiating **love**, **frequency**, **vibration**, and **joy** in every endeavor. 
+Our approach fosters collaborative work, driven by a purpose of building technology that positively impacts humanity. This mission inspires every project and line of code we create, resonating with values of love, positive energy, and joy in each endeavor.
 
 <br>
 
