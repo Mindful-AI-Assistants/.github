@@ -174,7 +174,7 @@ For any questions, suggestions, or collaborations, feel free to reach out:
 
 Fabiana Campanari 🚀 [Contacts Hub](https://linktr.ee/fabianacampanari)
 
-Fabiana Campanari 🛰️ [email](mailto:fabicampanari@proton.me)
+Fabiana Campanari 🛰️ [email me](mailto:fabicampanari@proton.me)
 
 
  
