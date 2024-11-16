@@ -184,7 +184,7 @@ Fabiana Campanari 🛰️ [email me](mailto:fabicampanari@proton.me)
 <br>
 
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
-- [Pedro Vyctor](https://github.com/ppvyctor)
+- [Pedro 🛰️ Vyctor](https://github.com/ppvyctor)
 
 
 <br><br>
