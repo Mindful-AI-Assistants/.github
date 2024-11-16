@@ -187,7 +187,7 @@ For any questions or suggestions, please feel free to reach out:
 <br>
 
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
-- [Pedro Vyctor](https://github.com/ppvyctor)
+- [Pedro 🛰️ Vyctor](https://github.com/ppvyctor)
 
 
 <br><br>
