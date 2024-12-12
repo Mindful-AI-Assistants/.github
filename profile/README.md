@@ -172,8 +172,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 For any questions or suggestions, please feel free to reach out:
 
-- **Fabiana 🚀 Campanari** - [email me](mailto:fabicampanari@proton.me)
-- **Fabiana 🚀 Campanari** -[LinkedIn](https://www.linkedin.com/in/fabiana-campanari/)
+
 - **Fabiana 🚀 Campanari** - [Contacts Hub](https://linktr.ee/fabianacampanari)
 
 <br>  
