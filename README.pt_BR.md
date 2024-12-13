@@ -66,7 +66,7 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 ## [Sobre Nós]()
 
-**Mindful AI Assistants** é uma organização de código aberto fundada por [Fabiana Campanari](https://github.com/FabianaCampanari) com uma profunda paixão por IA humanística, design e programação, e uma formação em psicologia. Nossa missão é "Capacitando Empresas com Copilotos, Agentes, Bots e Muito Mais!"—criando soluções de IA que conectam tecnologia com potencial humano. Na Mindful-AI-Assistants, integramos não apenas soluções tecnológicas avançadas, mas também enfatizamos o crescimento holístico, acreditando que o verdadeiro progresso combina tanto o avanço tecnológico quanto o espiritual para um bem-estar equilibrado.
+**Mindful AI Assistants** é uma organização de código aberto fundada por [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari) com uma profunda paixão por IA humanística, design e programação, e uma formação em psicologia. Nossa missão é "Capacitando Empresas com Copilotos, Agentes, Bots e Muito Mais!"—criando soluções de IA que conectam tecnologia com potencial humano. Na Mindful-AI-Assistants, integramos não apenas soluções tecnológicas avançadas, mas também enfatizamos o crescimento holístico, acreditando que o verdadeiro progresso combina tanto o avanço tecnológico quanto o espiritual para um bem-estar equilibrado.
 
 <br>
 
