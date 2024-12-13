@@ -192,7 +192,7 @@ For any questions or suggestions, please feel free to reach out:
 
 <br><br>
 
-<p align="center"> <a href="#Top">Back to top</a>
+<p align="center"> <a href="#Top">Back to top 👆</a>
 
 #
  
