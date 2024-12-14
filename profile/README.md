@@ -75,7 +75,7 @@ $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 
 ## [About Us]()
 
-**Mindful-AI-Assistants** is an open-source organization founded by [Fabiana Campanari](https://github.com/FabianaCampanari)  with a deep passion for humanistic AI, design, and coding, and a background in psychology. Our mission is "Empowering Businesses with Copilots, Agents, Bots, and More!"—creating AI solutions that bridge technology with human potential. At Mindful-AI-Assistants, we integrate not only advanced tech solutions but also emphasize holistic growth, believing that true progress combines both technological and spiritual advancement for balanced well-being.
+**Mindful-AI-Assistants** is an open-source organization founded by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)  with a deep passion for humanistic AI, design, and coding, and a background in psychology. Our mission is "Empowering Businesses with Copilots, Agents, Bots, and More!"—creating AI solutions that bridge technology with human potential. At Mindful-AI-Assistants, we integrate not only advanced tech solutions but also emphasize holistic growth, believing that true progress combines both technological and spiritual advancement for balanced well-being.
  
 
 <!--
