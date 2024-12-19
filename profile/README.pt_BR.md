@@ -113,12 +113,20 @@ Nosso compromisso com o código aberto permite que empresas acessem, personalize
 <br>
 
 
+ <p align="center">
+  <a href="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0">
+    <img src="https://github.com/user-attachments/assets/b22f1f19-441d-4e27-963c-88bbb5ab7891" width="250" />
+  </a>
+</p>
+
+
+<!--
 <p align="center">
   <a href="https://github.com/user-attachments/assets/751b6903-e9b4-483d-860a-bdde627c6890">
     <img src="https://github.com/user-attachments/assets/dc99bcbd-2599-4b12-8b6e-ba1fb6fda496" width="150" />
   </a>
 </p>
-
+-->
 
 <br>
 
