@@ -123,7 +123,7 @@ Our open-source commitment allows businesses to access, customize, and collabora
 
 ## [Get Involved]()
 
-**Mindful AI Assistants Organization** Mindful AI Assistants Organization encourages everyone to participate in the project and contribute to its success, building solutions that drive progress for a better future!
+**Mindful AI Assistants Organization** encourages everyone to participate in the project and contribute to its success, building solutions that drive progress for a better future!
  <br>
 
 
