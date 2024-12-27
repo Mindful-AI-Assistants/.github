@@ -70,7 +70,8 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
 <br>
 
-### <p align="center" style="font-size: 1000px"> *ੈ✩‧₊˚༺ [☆]()༻*ੈ✩‧₊
+### <p align="center" style="font-size: 1000px"> *ੈ✩‧₊˚༺ [☆](https://github.com/user-attachments/assets/4d29c964-8c36-456e-8a04-68fab9ac710c)༻*ੈ✩‧₊
+
 
 
 <br>
