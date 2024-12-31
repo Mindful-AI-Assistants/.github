@@ -200,9 +200,12 @@ For any questions or suggestions, please feel free to reach out:
 - [Pedro 🛰️ Vyctor](https://github.com/ppvyctor)
 
 
-<br><br>
+<br><br><br>
 
-<p align="center"> <a href="#Top">Back to top ☝︎</a>
+<p align="center">  ────────────── 👆 ──────────────
+
+
+<p align="center"> <a href="#top">Back to Top </a>
 
 #
  
