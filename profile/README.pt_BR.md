@@ -10,7 +10,7 @@
   
  <br><br> 
 
-# <p align="center">   💭 [Mindful AI](https://github.com/user-attachments/assets/7b1b8b02-4dea-4f90-83f7-d9f02b266074) Assistants
+# <p align="center">   ⚝ [Mindful AI](https://github.com/user-attachments/assets/7b1b8b02-4dea-4f90-83f7-d9f02b266074) Assistants ॐ
 ### <p align="center"> Capacitando negócios com tecnologias impulsionadas por IA, como Copilotos, Agentes, Bots e Análise Preditiva, juntamente com [Suporte à Tomada de Decisão Inteligente]().
 <br>
 
