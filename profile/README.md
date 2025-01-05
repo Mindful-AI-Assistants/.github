@@ -16,7 +16,7 @@
 <br>
   <!--  START HEADER  -->   
 
-  # <p align="center">    [Mindful AI](https://github.com/user-attachments/assets/7b1b8b02-4dea-4f90-83f7-d9f02b266074) Assistants [ॐ]()
+  # <p align="center">    𖤐 [Mindful AI](https://github.com/user-attachments/assets/7b1b8b02-4dea-4f90-83f7-d9f02b266074) Assistants [ॐ]()
 ### <p align="center"> Empowering businesses with AI-driven technologies such as Copilots, Agents, Bots, and Predictive Analytics, coupled with [Intelligent Decision-Making Support]()
 
 <br>
