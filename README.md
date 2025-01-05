@@ -16,7 +16,7 @@
 <br>
   <!--  START HEADER  -->   
 
-  # <p align="center">   ૐ [Mindful AI](https://github.com/user-attachments/assets/7b1b8b02-4dea-4f90-83f7-d9f02b266074) Assistants
+  # <p align="center">    𖤐 [Mindful AI](https://github.com/user-attachments/assets/7b1b8b02-4dea-4f90-83f7-d9f02b266074) Assistants [ॐ]()
 ### <p align="center"> Empowering businesses with AI-driven technologies such as Copilots, Agents, Bots, and Predictive Analytics, coupled with [Intelligent Decision-Making Support]()
 
 <br>
@@ -113,7 +113,7 @@ Our approach fosters collaborative work, driven by a purpose of building technol
 
 - [**Adaptive Agents**]() are autonomous systems that learn and evolve with continuous data input, adjusting to dynamic business needs and supporting complex decision-making.
 
-Our tools—ranging from chatbots and copilots to these adaptive agents—improve business efficiency and enable strategic, informed decisions. By automating tasks and streamlining workflows, our solutions free employees to focus on higher-priority goals. With predictive models, businesses gain the power not only to respond to current demands but to plan for the future with confidence.
+Our tools ranging from chatbots and copilots to these adaptive agents—improve business efficiency and enable strategic, informed decisions. By automating tasks and streamlining workflows, our solutions free employees to focus on higher-priority goals. With predictive models, businesses gain the power not only to respond to current demands but to plan for the future with confidence.
 
 
 ## [Our open-source approach]()
@@ -123,7 +123,7 @@ Our open-source commitment allows businesses to access, customize, and collabora
 
 ## [Get Involved]()
 
-**Mindful AI Assistants Organization** Mindful AI Assistants Organization encourages everyone to participate in the project and contribute to its success, building solutions that drive progress for a better future!
+**Mindful AI Assistants Organization** encourages everyone to participate in the project and contribute to its success, building solutions that drive progress for a better future!
  <br>
 
 
@@ -132,6 +132,8 @@ Our open-source commitment allows businesses to access, customize, and collabora
     <img src="https://github.com/user-attachments/assets/b22f1f19-441d-4e27-963c-88bbb5ab7891" width="450" />
   </a>
 </p>
+
+
 
 
 <!--
@@ -144,7 +146,7 @@ Our open-source commitment allows businesses to access, customize, and collabora
 
 <br>
 
-#### <p align="center"> TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2) 🌎💙
+#### <p align="center"> ***TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2)*** 🌎💙
   
 #
 
@@ -159,15 +161,15 @@ Any contributions are highly appreciated.  You can contribute in two ways:
 
    1. Create an issue and tell us your idea 💡. Make sure that you use the new idea label in this case;
 
-   2. Fork the project and submit a full requesto with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹[★]()🔭๋
+   2. Fork the project and submit a full request with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹[★]()🔭๋
 
 
 
-## [Spread the word!]() 🌎🤍
+## [Spread the word!]() 🌎💙
 
 If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! 
 
-Do you have any suggestions on how we could improve this project overall ? Let us know! We'd love to hear your feedback
+Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback
 
 
 ## 💌 [Contact Us]()
@@ -180,8 +182,7 @@ Do you have any suggestions on how we could improve this project overall ? Let u
 
 For any questions or suggestions, please feel free to reach out:
 
-- **Fabiana 🚀 Campanari** - [email me](mailto:fabicampanari@proton.me)
-- **Fabiana 🚀 Campanari** -[LinkedIn](https://www.linkedin.com/in/fabiana-campanari/)
+
 - **Fabiana 🚀 Campanari** - [Contacts Hub](https://linktr.ee/fabianacampanari)
 
 <br>  
@@ -189,6 +190,7 @@ For any questions or suggestions, please feel free to reach out:
 - **Pedro 🛰️  Vyctor** - [email me](mailto:pedro.vyctor00@gmail.com)
 - **Pedro 🛰️  Vyctor** -[LinkedIn](https://www.linkedin.com/in/pedro-vyctor-almeida-285b89273?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJmPKs0gjS4Sqzuw1d2%2FMjg%3D%3D)
 
+ 
 
 ## [Main Contributors]() 
 
@@ -198,9 +200,12 @@ For any questions or suggestions, please feel free to reach out:
 - [Pedro 🛰️ Vyctor](https://github.com/ppvyctor)
 
 
-<br><br>
+<br><br><br>
 
-<p align="center"> <a href="#Top">Back to top 👆</a>
+<p align="center">  ────────────── 👆 ──────────────
+
+
+<p align="center"> <a href="#top">Back to Top </a>
 
 #
  
