@@ -14,12 +14,12 @@
 
 
 <br>
-  <!--  START HEADER  -->   
+  <!--  START HEADER   -->
+ 
+<h1 align="center"> 𖤐 $$\Huge {\textbf{\color{cyan} Mindful AI} \space \textbf{\color{white} Assistants} \space \textbf{\color{cyan} ॐ}}$$ 
 
-  # <p align="center">    𖤐 [Mindful AI](https://github.com/user-attachments/assets/7b1b8b02-4dea-4f90-83f7-d9f02b266074) Assistants [ॐ]()
-### <p align="center"> Empowering businesses with AI-driven technologies such as Copilots, Agents, Bots, and Predictive Analytics, coupled with [Intelligent Decision-Making Support]()
+### <p align="center">  Empowering businesses with AI-driven technologies such as Copilots, Agents, Bots, and Predictive Analytics, coupled with [Intelligent Decision-Making Support]()
 
-<br>
 
   
 <!--
@@ -48,9 +48,15 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
   <!-- ##### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$  --> 
 
+  <br>
+  
+
 $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
 
+
+
 ####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
+
 
 <br>
 
@@ -61,6 +67,7 @@ $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 
 <p align="center">
 <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="250"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="250"/>
+
 
 <br><br>
 
@@ -146,7 +153,7 @@ Our open-source commitment allows businesses to access, customize, and collabora
 
 <br>
 
-#### <p align="center"> ***TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2)*** 🌎💙
+#### <p align="center"> ***TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2)*** 🌎💚
   
 #
 
@@ -165,32 +172,12 @@ Any contributions are highly appreciated.  You can contribute in two ways:
 
 
 
-## [Spread the word!]() 🌎💙
+## [Spread the word!]()🌎💚
 
 If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! 
 
 Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback
 
-
-## 💌 [Contact Us]()
-
-<br><br>
-
-### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
-
-<br><br>
-
-For any questions or suggestions, please feel free to reach out:
-
-
-- **Fabiana 🚀 Campanari** - [Contacts Hub](https://linktr.ee/fabianacampanari)
-
-<br>  
-
-- **Pedro 🛰️  Vyctor** - [email me](mailto:pedro.vyctor00@gmail.com)
-- **Pedro 🛰️  Vyctor** -[LinkedIn](https://www.linkedin.com/in/pedro-vyctor-almeida-285b89273?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJmPKs0gjS4Sqzuw1d2%2FMjg%3D%3D)
-
- 
 
 ## [Main Contributors]() 
 
@@ -198,6 +185,17 @@ For any questions or suggestions, please feel free to reach out:
 
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 - [Pedro 🛰️ Vyctor](https://github.com/ppvyctor)
+
+
+## 💌 [Get in Touch](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/d33a28d3-33c5-4f7a-80ca-20cd186da723)
+
+<br><br>
+
+### <p align="center"> [Fabi 🚀](https://linktr.ee/fabianacampanari)
+
+<br><br>
+
+### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
 
 
 <br><br><br>
