@@ -187,18 +187,15 @@ Do you have any suggestions on how we could improve this project overall? Let us
 - [Pedro 🛰️ Vyctor](https://github.com/ppvyctor)
 
 
-## 💌 [Contact Us]()
+## 💌 [Get in Touch](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/d33a28d3-33c5-4f7a-80ca-20cd186da723)
+
+<br><br>
+
+### <p align="center"> [Fabi 🚀](https://linktr.ee/fabianacampanari)
 
 <br><br>
 
 ### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
-
-<br><br>
-
-For any questions or suggestions, please feel free to reach out:
-
-
-- **Fabiana 🚀 Campanari** - [Contacts Hub](https://linktr.ee/fabianacampanari)
 
 
 <br><br><br>
