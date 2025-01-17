@@ -22,10 +22,9 @@
 <br><br><br><br><br><br><br><br><br><br><br>
 
 
+ <h1 align="center"> 𖤐 $$\Huge{\textbf{\color{cyan} Mindful AI} \space \textbf{\color{cyan} ॐ}}$$ 
 
- 𖤐 ${\color{cyan} Mindful AI$ Assistants [ॐ]
-
-
+ 
 
 <br><br><br><br><br><br><br><br><br><br><br>
   
