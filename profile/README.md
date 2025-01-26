@@ -66,7 +66,7 @@ $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 <br>
 
 <p align="center">
-<img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="350"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="350"/>
+<img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="300"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="300"/>
 
 
 <br><br>
