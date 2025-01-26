@@ -54,8 +54,9 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
 
 
+<br>
 
-####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
+####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md) 
 
 
 <br>
@@ -63,10 +64,10 @@ $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
  ### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)** ✯
 
 
-<br>
+  <br>
 
 <p align="center">
-<img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="250"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="250"/>
+<img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="325"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="325"/>
 
 
 <br><br>
@@ -74,11 +75,11 @@ $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 #### <p align="center"> [𖤐]() *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* 
 #### <p align="center"> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2) in the infinity field of possibilities... [⚝]()*
 
- <br>
+  <br><br>
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
- <br>
+  <br><br>
 
 ## [About Us]()
 
@@ -110,6 +111,8 @@ Our approach fosters collaborative work, driven by a purpose of building technol
 
 - [**Agents:**]()  Agents are intelligent, autonomous programs that adapt and learn over time. Their ability to evolve makes them particularly valuable in dynamic environments, supporting tasks such as virtual personal assistance or business analysis. Agents play a pivotal role in decision-making by continuously learning from data and adapting their responses, thus providing actionable insights and strategies tailored to specific business needs.
 
+<br>
+
 ## [What We Offer]()
 
 **MindfulAI-Assistants** specializes in a wide range of AI tools designed to automate repetitive tasks, enhance communication, drive productivity, and support decision-making. Our solutions utilize multiple types of AI, including **Generative AI**, **Predictive AI**, and **Adaptive Agents**, offering businesses a comprehensive suite of capabilities.
@@ -122,11 +125,13 @@ Our approach fosters collaborative work, driven by a purpose of building technol
 
 Our tools ranging from chatbots and copilots to these adaptive agents—improve business efficiency and enable strategic, informed decisions. By automating tasks and streamlining workflows, our solutions free employees to focus on higher-priority goals. With predictive models, businesses gain the power not only to respond to current demands but to plan for the future with confidence.
 
+<br>
 
 ## [Our open-source approach]()
 
 Our open-source commitment allows businesses to access, customize, and collaborate on our AI solutions, creating a space for innovation and shared progress in the AI field.
 
+<br>
 
 ## [Get Involved]()
 
@@ -158,9 +163,12 @@ Our open-source commitment allows businesses to access, customize, and collabora
 #
 
 ### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
+
+<br>
      
  ### <p align="center"> [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml)  [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml)   
 
+ <br>
 
 ## [Contribution]()
 
@@ -171,12 +179,17 @@ Any contributions are highly appreciated.  You can contribute in two ways:
    2. Fork the project and submit a full request with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹[★]()🔭๋
 
 
+<br>
+
 
 ## [Spread the word!]()🌎💚
 
 If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! 
 
 Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback
+
+
+<br>
 
 
 ## [Main Contributors]() 
@@ -187,7 +200,10 @@ Do you have any suggestions on how we could improve this project overall? Let us
 - [Pedro 🛰️ Vyctor](https://github.com/ppvyctor)
 
 
-## 💌 [Get in Touch](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/d33a28d3-33c5-4f7a-80ca-20cd186da723)
+<br>
+
+
+## 💌 [Contact Me](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/d33a28d3-33c5-4f7a-80ca-20cd186da723)
 
 <br><br>
 
