@@ -48,13 +48,11 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 
   <!-- ##### $${\color{Green} \Huge \mathbf{\mathbf{\boldsymbol{}\ lim \infty  }}}$$  --> 
 
-  <br>
+  <br><br>
   
 
 $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
 
-
-<br>
 
 ####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md) 
 
