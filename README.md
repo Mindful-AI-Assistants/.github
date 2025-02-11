@@ -227,7 +227,7 @@ Any contributions are highly appreciated.  You can contribute in two ways:
 <br>
 
 
-## [Spread the word!]()🌎💚
+## 🌎🤍  [Spread the word!]()   
 
 If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! 
 
@@ -237,7 +237,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 <br>
 
 
-## [Main Contributors]() 
+## 👨🏽‍🚀 [Main Contributors]() 
 
 <br>
 
@@ -261,7 +261,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 <br><br><br>
 
-<p align="center">  ────────────── ☝︎ ──────────────
+<p align="center">  ────────────── 🔭๋࣭ ⋆ ──────────────
 
 
 <p align="center"> <a href="#top">Back to Top </a>
