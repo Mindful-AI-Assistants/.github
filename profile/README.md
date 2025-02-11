@@ -254,7 +254,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 
 
-#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari) [Hub](https://linktr.ee/fabianacampanari)
+#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
 
 
 <br>
