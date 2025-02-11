@@ -253,7 +253,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 <br><br>
 
 ### <p align="center"> [Fabi 🚀](https://linktr.ee/fabianacampanari)
-
+☝︎
 <br><br>
 
 ### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
@@ -261,7 +261,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 <br><br><br>
 
-<p align="center">  ────────────── ☝︎ ──────────────
+<p align="center">  ────────────── 🔭๋࣭ ⋆ ──────────────
 
 
 <p align="center"> <a href="#top">Back to Top </a>
