@@ -261,7 +261,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 <br><br><br>
 
-<p align="center">  ────────────── 👆 ──────────────
+<p align="center">  ────────────── ☝︎ ──────────────
 
 
 <p align="center"> <a href="#top">Back to Top </a>
