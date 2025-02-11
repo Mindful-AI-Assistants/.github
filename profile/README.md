@@ -227,7 +227,7 @@ Any contributions are highly appreciated.  You can contribute in two ways:
 <br>
 
 
-## [Spread the word!]()🌎💚
+## 🌎🤍  [Spread the word!]()   
 
 If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! 
 
