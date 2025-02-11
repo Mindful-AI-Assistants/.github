@@ -201,7 +201,7 @@ Our open-source commitment allows businesses to access, customize, and collabora
 
 <br>
 
-#### <p align="center"> ***TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2)*** 🌎💚
+#### <p align="center"> ***TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2)*** 🌎🪷
   
 #
 
@@ -219,7 +219,7 @@ Our open-source commitment allows businesses to access, customize, and collabora
 
 Any contributions are highly appreciated.  You can contribute in two ways:
 
-   1. Create an issue and tell us your idea 💡. Make sure that you use the new idea label in this case;
+   1. Create an issue and tell us your idea ⚡️. Make sure that you use the new idea label in this case;
 
    2. Fork the project and submit a full request with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹[★]()🔭๋
 
