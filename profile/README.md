@@ -249,7 +249,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 ##  Feel Free to [Reach Out:](_)
 
-## 💌 [Email Me](mailto:fabicampanari@proton.me)
+### 💌 [Email Me](mailto:fabicampanari@proton.me)
 
 <br>
 
