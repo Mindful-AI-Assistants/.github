@@ -247,12 +247,12 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 <br>
 
+##  Feel Free to [Reach Out:](_)
+---
 
+## 💌 [Email Me](mailto:fabicampanari@proton.me)
 
-## 💌 [Contact Me](mailto:fabicampanari@proton.me)
-
-<br><br>
-
+<br>
 
 
 #### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
@@ -263,12 +263,15 @@ Do you have any suggestions on how we could improve this project overall? Let us
 ### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
 
 
-<br><br><br>
+<br>
 
 <p align="center">  ────────────── ⊹🔭๋ ──────────────
 
+<br>
 
 <p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
+  
+
   
 #
  
