@@ -248,7 +248,6 @@ Do you have any suggestions on how we could improve this project overall? Let us
 <br>
 
 ##  Feel Free to [Reach Out:](_)
----
 
 ## 💌 [Email Me](mailto:fabicampanari@proton.me)
 
@@ -267,7 +266,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 <p align="center">  ────────────── ⊹🔭๋ ──────────────
 
-<br>
+<br><br>
 
 <p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
   
