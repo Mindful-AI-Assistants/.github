@@ -221,7 +221,7 @@ Any contributions are highly appreciated.  You can contribute in two ways:
 
    1. Create an issue and tell us your idea ⚡️. Make sure that you use the new idea label in this case;
 
-   2. Fork the project and submit a full request with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹[★]()🔭๋
+   2. Fork the project and submit a full request with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹🔭๋
 
 
 <br>
@@ -247,7 +247,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 <br>
 
-##  Feel Free to [Reach Out:](_)
+##  Feel Free to [Reach Out:]()
 
 ### 💌 [Email Me](mailto:fabicampanari@proton.me)
 
@@ -262,7 +262,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 ### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
 
 
-<br>><br>
+<br><br>
 
 <p align="center">  ────────────── ⊹🔭๋ ──────────────
 
