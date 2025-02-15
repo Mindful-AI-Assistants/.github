@@ -201,7 +201,7 @@ Our open-source commitment allows businesses to access, customize, and collabora
 
 <br>
 
-#### <p align="center"> ***TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2)*** 🌎💚
+#### <p align="center"> 🪷 ***TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2)*** 🌎
   
 #
 
@@ -219,15 +219,15 @@ Our open-source commitment allows businesses to access, customize, and collabora
 
 Any contributions are highly appreciated.  You can contribute in two ways:
 
-   1. Create an issue and tell us your idea 💡. Make sure that you use the new idea label in this case;
+   1. Create an issue and tell us your idea ⚡️. Make sure that you use the new idea label in this case;
 
-   2. Fork the project and submit a full request with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹[★]()🔭๋
+   2. Fork the project and submit a full request with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹🔭๋
 
 
 <br>
 
 
-## 🌎🤍  [Spread the word!]()   
+## 𖤐  [Spread the word!]()   🌎
 
 If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! 
 
@@ -247,11 +247,11 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 <br>
 
+##  Feel Free to [Reach Out:]()
 
-## 💌 [Contact Me](mailto:fabicampanari@proton.me)
+### 💌 [Email Me](mailto:fabicampanari@proton.me)
 
-<br><br>
-
+<br>
 
 
 #### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
@@ -262,15 +262,16 @@ Do you have any suggestions on how we could improve this project overall? Let us
 ### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
 
 
+<br><br>
 
+<p align="center">  ────────────── ⊹🔭๋ ──────────────
 
-<br><br><br>
+<br>
 
-<p align="center">  ────────────── 🔭๋࣭ ⋆ ──────────────
+<p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
+  
 
-
-<p align="center"> <a href="#top">Back to Top </a>
-
+  
 #
  
 ##### <p align="center">Copyright 2025 Mindful-AI-Assistants. Code released under the  [MIT license.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
