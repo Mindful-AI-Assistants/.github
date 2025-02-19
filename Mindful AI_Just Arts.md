@@ -25,15 +25,13 @@
 .⠀ 　　　　　　　　　　.　　　　　　　　.
 　　　　　✦⠀　   　　　,　　    　　　　　　　　.
 
-
- <br><br>
   <!--  START HEADER   -->
  
 <h1 align="center"> 𖤐 $$\Huge {\textbf{\color{cyan} Mindful AI} \space \textbf{\color{white} Assistants} \space \textbf{\color{cyan} ॐ}}$$ 
 
+<!--
 #### <p align="center">  Empowering businesses with AI-driven technologies such as Copilots, Agents, Bots, and Predictive Analytics, coupled with [Intelligent Decision-Making Support]()
-
-
+-->
 
 
 
@@ -46,15 +44,12 @@
  　　˚　　　⠀　⠀  　　,　　　　　　.
 　　　　　　　　　　　　　.
 　　　　　　*⠀　　⠀  　　　　　⠀✦⠀　
-
-
-  <br>
   
 
 $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
 
 
-<br><br><br>
+<br><br><br><br><br><br>
 
 
 ####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md) 
