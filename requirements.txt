@@ -15,7 +15,7 @@ tensorflow==2.17.0
 keras==3.6.0
 
 # Bibliotecas para web scraping
-beautifulsoup4==4.12.3
+beautifulsoup4==4.13.3
 requests==2.32.3
 
 # Bibliotecas para trabalhar com bancos de dados
