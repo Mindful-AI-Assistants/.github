@@ -6,13 +6,16 @@ pandas==2.2.3
 matplotlib==3.10.1
 seaborn==0.13.2
 
-# Bibliotecas para análise de dados
+# Bibliotecas p
 scipy==1.14.1
 scikit-learn==1.6.1
+scipy==1.15.2
+scikit-learn==1.5.2
+
 
 # Bibliotecas para machine learning
 tensorflow==2.17.1
-keras==3.8.0
+keras==3.9.0
 
 # Bibliotecas para web scraping
 beautifulsoup4==4.13.3
@@ -24,7 +27,7 @@ psycopg2-binary==2.9.10
 
 # Bibliotecas para Jupyter Notebook
 jupyter==1.1.1
-notebook==7.2.2
+notebook==7.3.2
 ipywidgets==8.1.5
 
 # Outras bibliotecas úteis
