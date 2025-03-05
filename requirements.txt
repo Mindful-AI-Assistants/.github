@@ -8,7 +8,7 @@ seaborn==0.13.2
 
 # Bibliotecas para análise de dados
 scipy==1.14.1
-scikit-learn==1.5.2
+scikit-learn==1.6.1
 
 # Bibliotecas para machine learning
 tensorflow==2.17.1
