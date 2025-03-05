@@ -6,9 +6,12 @@ pandas==2.2.3
 matplotlib==3.10.1
 seaborn==0.13.2
 
-# Bibliotecas para análise de dados
+# Bibliotecas p
+scipy==1.14.1
+scikit-learn==1.6.1
 scipy==1.15.2
 scikit-learn==1.5.2
+
 
 # Bibliotecas para machine learning
 tensorflow==2.17.1
