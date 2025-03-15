@@ -7,7 +7,7 @@ matplotlib==3.10.1
 seaborn==0.13.2
 
 # Bibliotecas p
-scipy==1.14.1
+scipy==1.15.2
 scikit-learn==1.6.1
 scipy==1.15.2
 scikit-learn==1.6.1
