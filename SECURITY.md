@@ -1,5 +1,4 @@
 
-
 # Security Policy
 
 ## Supported Versions
