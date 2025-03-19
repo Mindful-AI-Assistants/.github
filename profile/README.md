@@ -110,7 +110,7 @@ $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
   <br>
 
 <p align="center">
-<img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="325"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="325"/>
+<img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="425"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="425"/>
 
 
 <br><br>
@@ -150,11 +150,15 @@ Our approach fosters collaborative work, driven by a purpose of building technol
 
 - [**Copilots:**]() Copilots are AIs that assist users with specific tasks by providing real-time suggestions and insights. For instance, copilots can aid in coding by offering instant recommendations and corrections.
 
+  <br><br>
+
 - [**Bots:**]() Bots are programs for automated tasks, ranging from customer service bots that handle FAQs to advanced bots, such as stock trading bots analyzing live
+
+  <br><br>
 
 - [**Agents:**]()  Agents are intelligent, autonomous programs that adapt and learn over time. Their ability to evolve makes them particularly valuable in dynamic environments, supporting tasks such as virtual personal assistance or business analysis. Agents play a pivotal role in decision-making by continuously learning from data and adapting their responses, thus providing actionable insights and strategies tailored to specific business needs.
 
-<br>
+<br><br>
 
 ## [What We Offer]()
 
