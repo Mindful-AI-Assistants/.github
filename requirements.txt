@@ -15,7 +15,7 @@ scikit-learn==1.6.1
 
 # Bibliotecas para machine learning
 tensorflow==2.18.1
-keras==3.9.0
+keras==3.9.1
 
 # Bibliotecas para web scraping
 beautifulsoup4==4.13.3
