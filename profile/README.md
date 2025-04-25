@@ -149,9 +149,13 @@ https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-
 
 ### <p align="center" style="font-size: 1000px"> *ੈ✩‧₊˚༺ [☆](https://github.com/user-attachments/assets/4d29c964-8c36-456e-8a04-68fab9ac710c)༻*ੈ✩‧₊
 
+### <p align="center" style="font-size: 1000px">🛸๋*ੈ✩* 🔭*ੈ₊[ZΞΝ](https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add)⋆🇶
+
+
+
 
 <br>
-
+  
 Our approach fosters collaborative work, driven by a purpose of building technology that positively impacts humanity. This mission inspires every project and line of code we create, resonating with values of love, positive energy, and joy in each endeavor.
 
 <br>
