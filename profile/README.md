@@ -195,7 +195,7 @@ https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-
 Our approach fosters collaborative work, driven by a purpose of building technology that positively impacts humanity. This mission inspires every project and line of code we create, resonating with values of love, positive energy, and joy in each endeavor.
 
 
-<br>
+<br><br>
 
 
 ## [What are Copilots, Bots, and Agents?]()
@@ -213,7 +213,7 @@ Our approach fosters collaborative work, driven by a purpose of building technol
   
 
 - [**Agents:**]()  Agents are intelligent, autonomous programs that adapt and learn over time. Their ability to evolve makes them particularly valuable in dynamic environments, supporting tasks such as virtual personal assistance or business analysis. Agents play a pivotal role in decision-making by continuously learning from data and adapting their responses, thus providing actionable insights and strategies tailored to specific business needs.
-- 
+  
 
 <br>
 
