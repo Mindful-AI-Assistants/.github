@@ -146,8 +146,6 @@ Empowering businesses with Copilots, Agents, Bots, and more, crafting solutions 
 
 We believe that true progress is not only technological, but also spiritual.
 
-We foster the [expansion of consciousness](), nurture the cultivation of [oneness awareness](), and infuse every creation with the energy of growth, love, connection, and joy.
-
 Every [project]();  
 Every [idea]();  
 Every [line of code]();
@@ -192,9 +190,10 @@ https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-
 
 <br><br>
 
-  
-Our approach fosters collaborative work, driven by a purpose of building technology that positively impacts humanity. This mission inspires every project and line of code we create, resonating with values of love, positive energy, and joy in each endeavor.
+We honor the expansion of consciousness, tending to the awakening of oneness within all that we create.
 
+Each line of code, each spark of innovation, carries the living breath of growth, ethics, and unity —
+weaving a future where technology remembers its sacred purpose: to serve and uplift the human spirit.
 
 <br><br>
 
