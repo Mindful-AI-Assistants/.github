@@ -153,7 +153,7 @@ Every [idea]().
 Every [line of code](),  
 is a thread in the fabric of a new future — a future where technology amplifies the best of what it means to be [***Human***]().
 
-At ***Mindful-AI-Assistants***, we are not just building systems; [we are awakening]() possibilities.
+At ***Mindful-AI-Assistants***, we are not just building systems; [we are awakening possibilities]().
 
 
 
@@ -199,15 +199,15 @@ Our approach fosters collaborative work, driven by a purpose of building technol
 
 - [**Copilots:**]() Copilots are AIs that assist users with specific tasks by providing real-time suggestions and insights. For instance, copilots can aid in coding by offering instant recommendations and corrections.
 
-  <br><br>
+  <br>
 
 - [**Bots:**]() Bots are programs for automated tasks, ranging from customer service bots that handle FAQs to advanced bots, such as stock trading bots analyzing live
 
-  <br><br>
+  <br>
 
 - [**Agents:**]()  Agents are intelligent, autonomous programs that adapt and learn over time. Their ability to evolve makes them particularly valuable in dynamic environments, supporting tasks such as virtual personal assistance or business analysis. Agents play a pivotal role in decision-making by continuously learning from data and adapting their responses, thus providing actionable insights and strategies tailored to specific business needs.
 
-<br><br>
+<br>
 
 ## [What We Offer]()
 
