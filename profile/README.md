@@ -256,7 +256,7 @@ Our open-source commitment allows businesses to access, customize, and collabora
 
 
  <p align="center">
-  <a href="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0">
+  <a href="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2">
     <img src="https://github.com/user-attachments/assets/b22f1f19-441d-4e27-963c-88bbb5ab7891" width="450" />
   </a>
 </p>
@@ -274,9 +274,10 @@ Our open-source commitment allows businesses to access, customize, and collabora
 
 <br>
 
-#### <p align="center"> 🪷 ***TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2)*** 🌎
+#### <p align="center"> 🪷 ***TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎
   
 #
+
 
 <br><br>
 
