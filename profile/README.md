@@ -141,16 +141,16 @@ $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 
 Founded by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari),  designer, software developer, psychologist, and deeply engaged in Humanistic AI at PUC-São Paulo — we stand at the intersection where [code meets consciousness]().
 
-Our mission is clear:  
+[Our mission is clear]():  
 Empowering businesses with Copilots, Agents, Bots, and more, crafting solutions that honor both intelligence and soul.
 
 We believe that true progress is not only technological, but also spiritual.
 
 We foster the expansion of consciousness, nurture the cultivation of oneness awareness, and infuse every creation with the energy of growth, love, connection, and joy.
 
-Every project.  
-Every idea.  
-Every line of code  
+Every [project]().  
+Every [idea]().  
+Every [line of code](),  
 is a thread in the fabric of a new future — a future where technology amplifies the best of what it means to be [***Human***]().
 
 At ***Mindful-AI-Assistants***, we are not just building systems; [we are awakening]() possibilities.
