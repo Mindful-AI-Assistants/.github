@@ -146,7 +146,7 @@ Empowering businesses with Copilots, Agents, Bots, and more, crafting solutions 
 
 We believe that true progress is not only technological, but also spiritual.
 
-We foster the expansion of consciousness, nurture the cultivation of oneness awareness, and infuse every creation with the energy of growth, love, connection, and joy.
+We foster the [expansion of consciousness](), nurture the cultivation of [oneness awareness](), and infuse every creation with the energy of growth, love, connection, and joy.
 
 Every [project]();  
 Every [idea]();  
