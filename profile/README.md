@@ -136,8 +136,25 @@ $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 
 ## [About Us]()
 
-**Mindful-AI-Assistants** is an open-source organization founded by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)  with a deep passion for humanistic AI, design, and coding, and a background in psychology. Our mission is "Empowering Businesses with Copilots, Agents, Bots, and More!"—creating AI solutions that bridge technology with human potential. At Mindful-AI-Assistants, we integrate not only advanced tech solutions but also emphasize holistic growth, believing that true progress combines both technological and spiritual advancement for balanced well-being.
- 
+**Mindful-AI-Assistants** is an open-source organization and  was born from a simple, powerful dream: [to weave technology with the infinite potential of the human spirit]().
+
+Founded by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari), designer, software developer, psychologist, and passionate student of Humanistic AI at PUC-São Paulo, we stand at the intersection where code meets consciousness.
+
+Our mission is clear:
+Empowering businesses with Copilots, Agents, Bots, and more, crafting solutions that honor both intelligence and soul.
+
+We believe that true progress is not only technological, but also spiritual.
+
+We foster the expansion of consciousness, nurture the cultivation of oneness awareness, and infuse every creation with the energy of growth, love, connection and joy.
+
+Every project.
+Every idea.
+Every line of code
+is a thread in the fabric of a new future; a future where technology amplifies the best of what it means to be [***Human***]().
+
+At ***Mindful-AI-Assistants***, we are not just building systems; [we are awakening]() possibilities.
+
+
 
 <!--
 ### <p align="center" style="font-size: 400px"> [*ੈ ✩‧₊˚༺ ☆ ༻ *ੈ✩‧₊˚](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
