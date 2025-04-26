@@ -164,7 +164,7 @@ At ***Mindful-AI-Assistants***, we are not just building systems; [we are awaken
 https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-474a-b2c9-d7a4c0afbb70 - sacred geomrtry
 -->
 
-<br><br>
+<br><br><br>
 
 
 
@@ -189,7 +189,8 @@ https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-
 -->
 
 
-<br><br>
+<br><br><br>
+
   
 Our approach fosters collaborative work, driven by a purpose of building technology that positively impacts humanity. This mission inspires every project and line of code we create, resonating with values of love, positive energy, and joy in each endeavor.
 
