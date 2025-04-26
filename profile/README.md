@@ -190,10 +190,13 @@ https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-
 
 <br><br>
 
-We honor the expansion of consciousness, tending to the awakening of oneness within all that we create.
+**We honor the expansion of consciousness,
+nurturing the awakening of oneness through every act of collaboration,
+weaving each line of code with the living breath of growth, ethics, and unity.
 
-Each line of code, each spark of innovation, carries the living breath of growth, ethics, and unity —
-weaving a future where technology remembers its sacred purpose: to serve and uplift the human spirit.
+In every creation, we remember:
+technology is not merely built — it is dreamed, it is lived,
+and it exists to uplift, to connect, and to awaken the human spirit.**
 
 <br><br>
 
