@@ -129,7 +129,10 @@ $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 <br><br>
 
 ### <p align="center"> [𖤐](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7) ***Don't turn around, if the goal is the Stars*** [𖤐](https://github.com/user-attachments/assets/bc8fa49e-701e-438b-a88a-77a3914bfbb6)
-#### <p align="center">  [Leonardo Da Vinci](https://github.com/user-attachments/assets/bd0be361-3b23-4786-9345-9676982b20a4)
+#### <p align="center">  [Leonardo Da Vinci](https://github.com/user-attachments/assets/bd0be361-3b23-4786-9345-9676982b20a4) 𓋹
+
+
+
 
 <br><br>
 
@@ -139,10 +142,10 @@ $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 
 𖤐 ***Mindful AI*** is an open-source organization, born from a simple, powerful dream: [to weave technology with the infinite potential of the human spirit]().
 
-Founded by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari),  designer, software developer, psychologist and deeply engaged in Humanistic AI – Data Science at PUC-São Paulo,  we stand at the intersection where [code meets consciousness]().
+Founded by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari),  designer, software developer, psychologist and deeply engaged in [Humanistic AI]() – Data Science at PUC-São Paulo,  we stand at the intersection where [code meets consciousness]().
 
 [Our mission is clear]():  
-Empowering businesses with Copilots, Agents, Bots, and more, crafting solutions that honor both [intelligence]() and [soul]().
+Empowering businesses with Copilots, Agents, Bots, and more, crafting solutions that weave both [intelligence]() and [soul]().
 
 We believe that true progress is not only technological, but also spiritual.
 
@@ -152,7 +155,7 @@ Every [line of code]();
 
 is a thread in the fabric of a new future... a future where technology amplifies the best of what it means [***To Be a Human***]().
 
-At ***Mindful AI*** ॐ, we are not just building systems; [we are awakening possibilities]().
+At [ॐ]() ***Mindful AI*** , we are not just building systems; [we are awakening possibilities]().
 
 
 
@@ -193,7 +196,7 @@ https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-
 
 We honor the [expansion of consciousness](), nurturing the [awakening of oneness]() through every act of [collaboration](), weaving each line of code with the living breath of [growth](), [ethics](), and [unity]().
 
-In every creation, we remember: technology is not merely built;  it is [dreamed](), it is [live]()d and it exists to [uplift](), to [connect](), and to [awaken the human spirit]().
+In every creation, we remember: technology is not merely built;  it is [dreamed](), it is [lived]() and it exists to [uplift](), to [connect](), and to [awaken the human collective unconscious]().
 
 <br><br>
 
@@ -244,13 +247,13 @@ Our tools ranging from chatbots and copilots to these adaptive agents—improve 
 
 ## [Our open-source approach]()
 
-Our open-source commitment allows businesses to access, customize, and collaborate on our AI solutions, creating a space for innovation and shared progress in the AI field.
+Our open-source commitment allows businesses to access, customize, and [collaborate]() on our AI solutions, creating a space for [innovation]() and [shared]() progress in the AI field.
 
 <br>
 
 ## [Get Involved]()
 
-**Mindful AI Assistants Organization** encourages everyone to participate in the project and contribute to its success, building solutions that drive progress for a better future!
+**Mindful AI Assistants Organization** [encourages everyone]() to participate in the project and contribute to its success, building solutions that drive progress for a better future!
 
  <br>
 
@@ -274,7 +277,7 @@ Our open-source commitment allows businesses to access, customize, and collabora
 
 <br>
 
-#### <p align="center"> 🪷 ***TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎
+#### <p align="center"> 🪷 ***TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
   
 #
 
