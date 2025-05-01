@@ -152,7 +152,7 @@ Every [line of code]();
 
 is a thread in the fabric of a new future... a future where technology amplifies the best of what it means [***To Be a Human***]().
 
-At ***Mindful AI*** ॐ, we are not just building systems; [we are awakening possibilities]().
+At ***Mindful AI*** [ॐ](), we are not just building systems; [we are awakening possibilities]().
 
 
 
