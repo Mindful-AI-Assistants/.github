@@ -129,7 +129,7 @@ $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 <br><br>
 
 ### <p align="center"> ✠  [𖤐](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7) ***Don't turn around, if the goal is the Stars*** [𖤐](https://github.com/user-attachments/assets/bc8fa49e-701e-438b-a88a-77a3914bfbb6) ✠ 
-#### <p align="center">  [Leonardo Da Vinci](https://github.com/user-attachments/assets/bd0be361-3b23-4786-9345-9676982b20a4) 𓋹
+#### <p align="center">  [Leonardo Da Vinci](https://github.com/user-attachments/assets/bd0be361-3b23-4786-9345-9676982b20a4) 
 #### <p align="center">   ⋆⋅ 𝛂 ♂️ ⋅⋆ ─ 𓋹 ─ ⋆⋅♀️ Ω ⋅⋆ 
 
 <!-- #### <p align="center">  ✠ ─ ⋆⋅ 𝛂 ♂️ ⋅⋆ ─ 𓋹 ─ ⋆⋅♀️ Ω ⋅⋆ ─ ✠ -->
