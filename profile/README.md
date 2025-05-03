@@ -161,11 +161,9 @@ is a thread in the fabric of a new future... a future where technology amplifies
 At [ॐ]() ***Mindful AI*** , we are not just building systems; [we are awakening possibilities]().
 
 
-Lets built a  community where difference is not judged, but celebrate as sacred gifts
-
 <br>
 
-### <p align="center"> ***Lets built a  community where [difference]() is [not judged](), but celebrate as [sacred gifts]()*** !
+### <p align="center"> ***Lets built a  community where [difference]() is not [judged](), but celebrate as [sacred gifts]()*** !
 
 <br>
 
