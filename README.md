@@ -10,7 +10,7 @@
 .　　　　　　　　　　　　　. 　　✦⠀　   　　　,　　　　　　　　　*
 　　　　　⠀　　　　⠀　　,
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　 　　⠀　　　⠀.　
- 　　˚　　　⠀　⠀  　　,　　　　　
+ 　　˚　　　⠀　⠀  　　,　  <p align="center"> ੈ✩*  𝑬𝒗𝒆𝒓𝒚 𝒐𝒏𝒆 𝒊𝒔 𝒖𝒏𝒊𝒒𝒖𝒆 𝒊𝒏 𝒕𝒉𝒆𝒊𝒓 𝒐𝒘𝒏 𝒘𝒂𝒚  ~ 🪐•°　　　　
 　　　　　　　　　　　　　.
 　　　　　　*⠀　　⠀  　　　　　　　　　　　　.
 　　　　.　　　　.　　　⠀
@@ -161,16 +161,23 @@ is a thread in the fabric of a new future... a future where technology amplifies
 At [ॐ]() ***Mindful AI*** , we are not just building systems; [we are awakening possibilities]().
 
 
+<br><br><br>
 
+˚　　　　✦　　　.　　. 　 ˚　.　　　 . ✦　　　 　˚　　　　 . ★⋆　　　.   　　˚　✭　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　✭　.　　. 　 ˚　.˚　　🛸　🛸　　. 　 ˚　.　　　　 . ✦　　　 　˚　　　　 . ★⋆　.   　　˚　✯✭　 🛰　　　*　　 　　✦　　　.　　.　　　　*　　 　　✦　　　. 　　*　　 　🛰　　　✦　　　.  
+
+<br>
+
+ 
+### <p align="center"> ***Lets built a  community where [difference]() is not [judged](), but celebrate as [sacred gifts]()*** !
+
+
+<br><br><br>
 
 <!--
 ### <p align="center" style="font-size: 400px"> [*ੈ ✩‧₊˚༺ ☆ ༻ *ੈ✩‧₊˚](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
 
 https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-474a-b2c9-d7a4c0afbb70 - sacred geomrtry
 -->
-
-<br><br><br><br>
-
 
 
 ### <p align="center" style="font-size: 1000px"> .𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ [ZΞΝ](https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add) ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚
@@ -194,7 +201,7 @@ https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-
 -->
 
 
-<br><br><br><br>
+<br><br><br>
 
 
 We honor the [expansion of consciousness](), nurturing the [awakening of oneness]() through every act of [collaboration](), weaving each line of code with the living breath of [growth](), [ethics](), and [unity]().
