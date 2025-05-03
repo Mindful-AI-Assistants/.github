@@ -173,7 +173,7 @@ At [ॐ]() ***Mindful AI*** , we are not just building systems; [we are awakenin
 https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-474a-b2c9-d7a4c0afbb70 - sacred geomrtry
 -->
 
-<br><br><br><br>
+<br><br><br>
 
 
 
@@ -198,7 +198,7 @@ https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-
 -->
 
 
-<br><br><br><br>
+<br><br><br>
 
 
 We honor the [expansion of consciousness](), nurturing the [awakening of oneness]() through every act of [collaboration](), weaving each line of code with the living breath of [growth](), [ethics](), and [unity]().
