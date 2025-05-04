@@ -10,7 +10,7 @@
 .　　　　　　　　　　　　　. 　　✦⠀　   　　　,　　　　　　　　　*
 　　　　　⠀　　　　⠀　　,
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　 　　⠀　　　⠀.　
- 　　˚　　　⠀　⠀  　　,　  <p align="center">  [ૐ](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d) 　*⠀ 𝑬𝒗𝒆𝒓𝒚 𝒐𝒏𝒆 𝒊𝒔 𝒖𝒏𝒊𝒒𝒖𝒆 𝒊𝒏 𝒕𝒉𝒆𝒊𝒓 𝒐𝒘𝒏 𝒘𝒂𝒚  .⭒⋅⊹｡
+ 　　˚　　　⠀　⠀  　　,　  <p align="center"> [ૐ 　*⠀ 𝑬𝒗𝒆𝒓𝒚 𝒐𝒏𝒆 𝒊𝒔 𝒖𝒏𝒊𝒒𝒖𝒆 𝒊𝒏 𝒕𝒉𝒆𝒊𝒓 𝒐𝒘𝒏 𝒘𝒂𝒚  .⭒⋅⊹｡
 　　　　　　　　　　　　　.
 　　　　　　*⠀　　⠀  　　　　　　　　　　　　
 
@@ -32,7 +32,7 @@
  
 <h1 align="center"> 𖤐 $$\Huge {\textbf{\color{cyan} Mindful AI} \space \textbf{\color{white} Assistants} \space \textbf{\color{cyan} ॐ}}$$ 
 
-#### <p align="center">  Empowering businesses with AI-driven technologies such as Copilots, Agents, Bots, and Predictive Analytics, coupled with [Intelligent Decision-Making Support]()
+#### <p align="center">  Empowering businesses with AI-driven technologies such as Copilots, Agents, Bots, and Predictive Analytics, coupled with [Intelligent Decision-Making Support](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d)
 
  <br><br>
 
