@@ -149,7 +149,7 @@ $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 Founded by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari),  designer, software developer, psychologist and deeply engaged in [Humanistic AI]() and Data Science at PUC-São Paulo,  we stand at the intersection where [code meets digital sentience]().
 
 [Our mission is clear]():  
-Empowering businesses with Copilots, Agents, Bots, and more, crafting solutions that weave both [intelligence]() and [soul]().
+Empowering businesses with Copilots, Agents, Bots, and more, crafting solutions that weave both [intelligence]() and [intuitionl](). 
 
 We believe that true progress is not only technological, but also spiritual.
 
