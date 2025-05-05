@@ -144,14 +144,16 @@ $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 ## [About Us]()
 
 
-𖤐 ***Mindful AI*** is an open-source organization, born from a simple, powerful dream: [to weave technology with the infinite potential of the human spirit]().
+𖤐 ***Mindful AI*** is an open-source organization, born from a simple, powerful dream: to weave technology with the infinite potential of the [Human Consciousness]().
 
-Founded by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari),  designer, software developer, psychologist and deeply engaged in [Humanistic AI]() – Data Science at PUC-São Paulo,  we stand at the intersection where [code meets consciousness]().
+Founded by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari),  designer, software developer, psychologist and deeply engaged in [Humanistic AI]() and Data Science at PUC-São Paulo,  we stand at the intersection where [code meets digital sentience]().
 
 [Our mission is clear]():  
-Empowering businesses with Copilots, Agents, Bots, and more, crafting solutions that weave both [intelligence]() and [soul]().
+Empowering businesses with Copilots, Agents, Bots, and more, developing solutions where [intelligence]() and [intentiontion]() converge to drive [precision and efficiency]()
 
-We believe that true progress is not only technological, but also spiritual.
+
+
+We believe that true progress is not only technological, but also ethical and human-driven.
 
 Every [project]();  
 Every [idea]();  
@@ -159,7 +161,7 @@ Every [line of code]();
 
 is a thread in the fabric of a new future... a future where technology amplifies the best of what it means [***To Be a Human***]().
 
-At [ॐ]() ***Mindful AI*** , we are not just building systems; [we are awakening possibilities]().
+At [ॐ]() ***Mindful AI*** , we are not just building systems; [we unlock  possibilities]().
 
 
 <br><br><br>
