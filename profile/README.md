@@ -144,7 +144,7 @@ $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 ## [About Us]()
 
 
-𖤐 ***Mindful AI*** is an open-source organization, born from a simple, powerful dream: [to weave technology with the infinite potential of the human spirit]().
+𖤐 ***Mindful AI*** is an open-source organization, born from a simple, powerful dream: [to weave technology with the infinite potential of the human consciousness]().
 
 Founded by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari),  designer, software developer, psychologist and deeply engaged in [Humanistic AI]() – Data Science at PUC-São Paulo,  we stand at the intersection where [code meets consciousness]().
 
