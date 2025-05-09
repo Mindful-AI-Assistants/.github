@@ -103,7 +103,15 @@ $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{
 $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
 
 
+<!--
 #### <p align="center">  [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
+-->
+
+
+<a href="https://user-badge.committers.top/brazil/FabianaCampanari">
+  <img src="https://user-badge.committers.top/brazil/FabianaCampanari.svg" alt="committers.top badge" style="height: 20px; width: 220px;">
+</a>
+
 
 
 <!--
