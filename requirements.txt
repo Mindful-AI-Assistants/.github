@@ -27,9 +27,9 @@ psycopg2-binary==2.9.10
 
 # Bibliotecas para Jupyter Notebook
 jupyter==1.1.1
-notebook==7.4.2
+notebook==7.4.3
 ipywidgets==8.1.7
-notebook==7.4.2
+notebook==7.4.3
 ipywidgets==8.1.7
 
 
