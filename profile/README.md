@@ -33,7 +33,7 @@
 
 
 
-# <p align="center"> 𖤐  Mindful [Humanistic]() AI  [ॐ](0 </p>
+# <p align="center"> 𖤐  Mindful [Humanistic]() AI  [ॐ]() </p>
  
 
 
