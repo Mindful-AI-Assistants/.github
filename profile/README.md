@@ -172,7 +172,7 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 𖤐 ***Mindful AI*** is an open-source organization, born from a simple, powerful dream: to weave technology with the infinite potential of the [Human Consciousness]().
 
 
-Founded by  [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari);  designer, software developer, psychologist, and dedicated researcher in [Humanistic AI]() and Data Science at PUC - São Paulo — **Mindful AI** positions itself at the converging frontier of technology, consciousness, and ethics, where code begins to mirror the structures of sentient thought.
+Founded by  [Fabiana 🧬 Campanari](https://github.com/FabianaCampanari);  designer, software developer, psychologist, and dedicated researcher in [Humanistic AI]() and Data Science at PUC - São Paulo — **Mindful AI** positions itself at the converging frontier of technology, consciousness, and ethics, where code begins to mirror the structures of sentient thought.
 
 
 
