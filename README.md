@@ -29,8 +29,29 @@
 
  <br><br>
   <!--  START HEADER   -->
+
+
+
+
+# <p align="center"> 𖤐  Mindful [Humanistic]() AI  [ॐ]() </p>
+ 
+
+
+
+  
+ <!--
  
 <h1 align="center"> 𖤐 $$\Huge {\textbf{\color{cyan} Mindful AI} \space \textbf{\color{white} Assistants} \space \textbf{\color{cyan} ॐ}}$$ 
+
+ 𖤐 $$\Huge {\textbf{\color{cyan} Mindful AI} \space \textbf{\color{white} Assistants} \space \textbf{\color{cyan} ॐ}}$$ 
+ 
+ <p align="center">
+  𖤐 $$\Huge \textbf{Mindful AI Assistants}$$ ॐ
+</p>
+
+𖤐 $$\Huge \textbf{Mindful AI Assistants}$$ ॐ</p>
+
+-->
 
 #### <p align="center">  Empowering businesses with AI-driven technologies such as Copilots, Agents, Bots, and Predictive Analytics, coupled with [Intelligent Decision-Making Support](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d)
 
@@ -100,8 +121,11 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
 -->
 
-$$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
+$$\huge \huge  {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
 
+<!--
+$$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
+-->
 
 <!--
 #### <p align="center">  [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
