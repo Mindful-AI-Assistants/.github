@@ -385,8 +385,9 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 <br>
 
-- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
-- [Pedro 🛰️ Vyctor](https://github.com/ppvyctor)
+- [Fabiana 🧬 Campanari](https://github.com/FabianaCampanari)
+- [Pedro  Vyctor](https://github.com/ppvyctor)
+- [Andson Ribeiro]()
 
 
 <br>
