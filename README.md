@@ -32,17 +32,21 @@
 
 
 
-
+ <!--
 # <p align="center"> 𖤐  Mindful [Humanistic]() AI  [ॐ]() </p>
  
+-->
 
 
-
+<h1 align="center"> 𖤐 $$\Huge {\textbf{\color{white} Mindful} \space \textbf{\color{cyan} Humanistic} \space \textbf{\color{white} AI} \space \textbf{\color{cyan} ॐ}}$$ 
   
- <!--
- 
-<h1 align="center"> 𖤐 $$\Huge {\textbf{\color{cyan} Mindful AI} \space \textbf{\color{white} Assistants} \space \textbf{\color{cyan} ॐ}}$$ 
 
+ <!-- 
+<h1 align="center"> 𖤐 $$\Huge {\textbf{\color{cyan} Mindful AI} \space \textbf{\color{white} Assistants} \space \textbf{\color{cyan} ॐ}}$$ 
+-->
+
+
+ <!--
  𖤐 $$\Huge {\textbf{\color{cyan} Mindful AI} \space \textbf{\color{white} Assistants} \space \textbf{\color{cyan} ॐ}}$$ 
  
  <p align="center">
@@ -50,8 +54,8 @@
 </p>
 
 𖤐 $$\Huge \textbf{Mindful AI Assistants}$$ ॐ</p>
-
 -->
+
 
 #### <p align="center">  Empowering businesses with AI-driven technologies such as Copilots, Agents, Bots, and Predictive Analytics, coupled with [Intelligent Decision-Making Support](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d)
 
@@ -121,11 +125,15 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
 $${\color{cyan} {  \Huge \mathbf{\mathbf{\boldsymbol{}\sum_{n=1}^{\infty} \frac{1}{n}}}}}$$
 -->
 
-$$\huge \huge  {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
 
 <!--
-$$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
+$$\huge \huge  {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
 -->
+
+ <br>
+
+$$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
+
 
 <!--
 #### <p align="center">  [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari)
@@ -135,12 +143,12 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 ####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md) 
 -->
 
-<br>
+<br><br>
 
  ### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)** ✯
 
 
-  <br><br>
+<br>
 
 <p align="center">
 <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="325"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="325"/>
@@ -377,8 +385,9 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 <br>
 
-- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
-- [Pedro 🛰️ Vyctor](https://github.com/ppvyctor)
+- [Fabiana 🧬 Campanari](https://github.com/FabianaCampanari)
+- [Pedro  Vyctor](https://github.com/ppvyctor)
+- [Andson Ribeiro](https://github.com/andsonandreribeiro09)
 
 
 <br>
