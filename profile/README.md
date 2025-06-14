@@ -17,7 +17,7 @@
 　　　　.　　　　.　　　⠀
 　　　　　　　　　　　.   
 　　　　　　　
-　　　˚　　　　　　　　　　　　　.      (https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b)
+　　　˚　　　　　　　　　　　　　.     
 
  .⠀　　⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀,    
 　　　*　　⠀.
