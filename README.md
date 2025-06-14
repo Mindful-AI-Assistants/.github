@@ -10,16 +10,16 @@
 .　　　　　　　　　　　　　. 　　✦⠀　   　　　,　　　　　　　　　*
 　　　　　⠀　　　　⠀　　,
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　 　　⠀　　　⠀.　
- 　　˚　　　⠀　⠀  　　,　  <p align="center">  [ૐ](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) 　*⠀ 𝑬𝒗𝒆𝒓𝒚 𝒐𝒏𝒆 𝒊𝒔 𝒖𝒏𝒊𝒒𝒖𝒆 𝒊𝒏 𝒕𝒉𝒆𝒊𝒓 𝒐𝒘𝒏 𝒘𝒂𝒚  .⭒⋅⊹｡
+ 　　˚　　　⠀　⠀  　　,　  <p align="center">  [ૐ](https://github.com/user-attachments/assets/4d29c964-8c36-456e-8a04-68fab9ac710c) 　*⠀ 𝑬𝒗𝒆𝒓𝒚 𝒐𝒏𝒆 𝒊𝒔 𝒖𝒏𝒊𝒒𝒖𝒆 𝒊𝒏 𝒕𝒉𝒆𝒊𝒓 𝒐𝒘𝒏 𝒘𝒂𝒚  .⭒⋅⊹｡
 　　　　　　　　　　　　　.
 　　　　　　*⠀　　⠀  　　　　　　　　　　　　
 
 　　　　.　　　　.　　　⠀
-　　　　　　　　　　　.
+　　　　　　　　　　　.   
 　　　　　　　
-　　　˚　　　　　　　　　　　　　.
+　　　˚　　　　　　　　　　　　　.     
 
- .⠀　　⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀,
+ .⠀　　⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀,    
 　　　*　　⠀.
 　　　　　.　　　　　　　　　　⠀✦
 　˚　　　　　　　　　　　　　　*
@@ -71,7 +71,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　 　　⠀　　　⠀.　
  　　˚　　　⠀　⠀  　　,　　　　　　.
 　　　　　　　　　　　　　.
-　　　　　　*⠀　　⠀  　　　　　⠀✦⠀　      <img align="right" width="400" height="400" src="https://github.com/user-attachments/assets/49b7835f-f5db-4837-aabe-f18545baada6">
+　　　　　　*⠀　　⠀  　　　　　⠀✦⠀　
 　　　
 
 
@@ -156,7 +156,7 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
 <br><br>
 
-#### <p align="center"> [𖤐]() *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* 
+#### <p align="center"> [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* 
 #### <p align="center"> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2) in the infinity field of possibilities... [⚝]()*
 
   <br><br>
@@ -166,9 +166,11 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 <br><br>
 
 
-### <p align="center">  [𖤐](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7) ***Don't turn around, if the goal is the Stars*** [𖤐](https://github.com/user-attachments/assets/bc8fa49e-701e-438b-a88a-77a3914bfbb6)
-#### <p align="center">   ✠ [Leonardo Da Vinci](https://github.com/user-attachments/assets/bd0be361-3b23-4786-9345-9676982b20a4)  ✠ 
-#### <p align="center">    𝛂 ♂️ ⋅⋆ - [𓋹](https://github.com/user-attachments/assets/4d29c964-8c36-456e-8a04-68fab9ac710c) - ⋆⋅♀️ Ω 
+
+
+### <p align="center">  [𖤐](https://github.com/user-attachments/assets/bd0be361-3b23-4786-9345-9676982b20a4) ***Don't turn around, if the goal is the Stars*** [𖤐](https://github.com/user-attachments/assets/27dcc8c4-04cf-4dcd-bd30-4d0aa7dce4da)
+#### <p align="center">   ✠ [Leonardo Da Vinci](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7)  ✠ 
+#### <p align="center">    𝛂 ♂️ ⋅⋆ - [𓋹](https://github.com/user-attachments/assets/bc8fa49e-701e-438b-a88a-77a3914bfbb6)  - ⋆⋅♀️ Ω 
 
 
 <!-- #### <p align="center">  ✠ ─ ⋆⋅ 𝛂 ♂️ ⋅⋆ ─ 𓋹 ─ ⋆⋅♀️ Ω ⋅⋆ ─ ✠  -->
