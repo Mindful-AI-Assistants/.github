@@ -156,7 +156,7 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
 <br><br>
 
-#### <p align="center"> [𖤐]() *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* 
+#### <p align="center"> [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* 
 #### <p align="center"> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2) in the infinity field of possibilities... [⚝]()*
 
   <br><br>
