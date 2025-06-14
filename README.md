@@ -71,7 +71,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　 　　⠀　　　⠀.　
  　　˚　　　⠀　⠀  　　,　　　　　　.
 　　　　　　　　　　　　　.
-　　　　　　*⠀　　⠀  　　　　　⠀✦⠀　
+　　　　　　*⠀　　⠀  　　　　　⠀✦⠀　      <img align="right" width="400" height="400" src="https://github.com/user-attachments/assets/49b7835f-f5db-4837-aabe-f18545baada6">
 　　　
 
 
