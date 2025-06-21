@@ -170,10 +170,15 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
 ### <p align="center">  [𖤐](https://github.com/user-attachments/assets/bd0be361-3b23-4786-9345-9676982b20a4) ***Don't turn around, if the goal is the Stars*** [𖤐](https://github.com/user-attachments/assets/27dcc8c4-04cf-4dcd-bd30-4d0aa7dce4da)
 #### <p align="center">   ✠ [Leonardo Da Vinci](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7)  ✠ 
-#### <p align="center">    𝛂 ♂️ ⋅⋆ - [𓋹](https://github.com/user-attachments/assets/bc8fa49e-701e-438b-a88a-77a3914bfbb6)  - ⋆⋅♀️ Ω 
+#### <p align="center">     [𝛂]() ———⋅⋆ ♂️⋅⋆  —— [𓋹](https://github.com/user-attachments/assets/bc8fa49e-701e-438b-a88a-77a3914bfbb6) —— ⋅⋆♀️⋅⋆  ——— [Ω]()
 
 
-<!-- #### <p align="center">  ✠ ─ ⋆⋅ 𝛂 ♂️ ⋅⋆ ─ 𓋹 ─ ⋆⋅♀️ Ω ⋅⋆ ─ ✠  -->
+
+<!--
+The Themplairs  Codex
+
+#### <p align="center">  𝛂  ———⋅⋆ ♂️⋅⋆  ——  [𓋹]()  —— ⋅⋆♀️⋅⋆  ———  Ω 
+-->
 
 
 <br><br>
