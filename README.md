@@ -169,10 +169,15 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 ### <p align="center">  [𖤐](https://github.com/user-attachments/assets/bd0be361-3b23-4786-9345-9676982b20a4) ***Don't turn around, if the goal is the Stars*** [𖤐](https://github.com/user-attachments/assets/27dcc8c4-04cf-4dcd-bd30-4d0aa7dce4da)
 
 
+ <br>
+
+
 #### <p align="center">     [𝛂]() ———⋅⋆ [♂️]()⋅⋆  —— [𓋹](https://github.com/user-attachments/assets/bc8fa49e-701e-438b-a88a-77a3914bfbb6) —— ⋅⋆[♀️]()⋅⋆  ——— [Ω](https://github.com/user-attachments/assets/15d99c3e-a1fa-4bbf-afc7-420398fdca4c)
 
-
+ 
 #### <p align="center">   ✠ [Lo Ringraziamo Da Vinci !](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7)  ✠ 
+
+
 
 
 <!--
@@ -197,7 +202,7 @@ Founded by  [Fabiana 🧬 Campanari](https://github.com/FabianaCampanari);  desi
 
 [Our mission is clear]():  
 
-Empowering businesses with Copilots, Agents, Bots, and more, developing solutions where [intelligence]() and [intentiontion]() converge to drive [precision and efficiency]()
+Empowering businesses with Copilots, Agents, Bots, and more, developing solutions where [intelligence]() and [intention]() converge to drive [precision and efficiency]()
 
 
 
@@ -400,9 +405,8 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 <br>
 
-##  Feel Free to [Reach Out:]()
 
-### 💌 [Email Me](mailto:fabicampanari@proton.me)
+## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
 
 <br>
 
