@@ -202,7 +202,7 @@ Founded by  [Fabiana 🧬 Campanari](https://github.com/FabianaCampanari);  desi
 
 [Our mission is clear]():  
 
-Empowering businesses with Copilots, Agents, Bots, and more, developing solutions where [intelligence]() and [intentiontion]() converge to drive [precision and efficiency]()
+Empowering businesses with Copilots, Agents, Bots, and more, developing solutions where [intelligence]() and [intention]() converge to drive [precision and efficiency]()
 
 
 
