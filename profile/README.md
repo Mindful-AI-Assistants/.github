@@ -171,13 +171,11 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
  <br>
 
+
 #### <p align="center">     [𝛂]() ———⋅⋆ [♂️]()⋅⋆  —— [𓋹](https://github.com/user-attachments/assets/bc8fa49e-701e-438b-a88a-77a3914bfbb6) —— ⋅⋆[♀️]()⋅⋆  ——— [Ω](https://github.com/user-attachments/assets/15d99c3e-a1fa-4bbf-afc7-420398fdca4c)
 
  
 #### <p align="center">   ✠ [Lo Ringraziamo Da Vinci !](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7)  ✠ 
-
-
- 
 
 
 
@@ -407,9 +405,8 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 <br>
 
-##  Feel Free to [Reach Out:]()
 
-### 💌 [Email Me](mailto:fabicampanari@proton.me)
+## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
 
 <br>
 
