@@ -150,9 +150,13 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
 <br>
 
+https://github.com/user-attachments/assets/cbd77584-a782-4130-bca5-930882d2ea64
+
+
+<!--
 <p align="center">
 <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="325"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="325"/>
-
+-->
 
 <br><br>
 
