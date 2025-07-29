@@ -150,9 +150,14 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
 <br>
 
+https://github.com/user-attachments/assets/b4b815fd-cfb5-434e-8446-24799941cbf1
+
+
+
+<!--
 <p align="center">
 <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="325"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="325"/>
-
+-->
 
 <br><br>
 
@@ -398,7 +403,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 <br>
 
-- [Fabiana 🧬 Campanari](https://github.com/FabianaCampanari)
+- [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari)
 - [Pedro  Vyctor](https://github.com/ppvyctor)
 - [Andson Ribeiro](https://github.com/andsonandreribeiro09)
 
