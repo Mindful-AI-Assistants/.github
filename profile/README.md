@@ -150,7 +150,8 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
 <br>
 
-https://github.com/user-attachments/assets/cbd77584-a782-4130-bca5-930882d2ea64
+https://github.com/user-attachments/assets/b4b815fd-cfb5-434e-8446-24799941cbf1
+
 
 
 <!--
