@@ -51,8 +51,15 @@ $$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle|$$
  <!-- <p align="center"><img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/7a520307-8c65-43f5-80ae-40bb86f09caf" width="250"/>  --> 
 
 
+https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
+
+
+ <!-- 
+  
   <p align="center">
 <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="250"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="250"/>
+
+-->
 
 <br><br>
 
