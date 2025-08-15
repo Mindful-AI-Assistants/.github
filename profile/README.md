@@ -151,7 +151,7 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 <br>
 
 
-https://g(https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
+https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
 
 
