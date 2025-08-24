@@ -180,7 +180,7 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
  <br>
 
 
-#### <p align="center">     [𝛂]() ———⋅⋆ [♂️]()⋅⋆  —— [𓋹](https://github.com/user-attachments/assets/bc8fa49e-701e-438b-a88a-77a3914bfbb6) —— ⋅⋆[♀️]()⋅⋆  ——— [Ω](https://github.com/user-attachments/assets/15d99c3e-a1fa-4bbf-afc7-420398fdca4c)
+#### <p align="center">     [𝛂](https://github.com/user-attachments/assets/16c7b9ad-5cab-46aa-b096-2c0cbd7b7d7b) ———⋅⋆ [♂️]()⋅⋆  —— [𓋹](https://github.com/user-attachments/assets/bc8fa49e-701e-438b-a88a-77a3914bfbb6) —— ⋅⋆[♀️]()⋅⋆  ——— [Ω](https://github.com/user-attachments/assets/15d99c3e-a1fa-4bbf-afc7-420398fdca4c)
 
  
 #### <p align="center">   ✠ [Lo Ringraziamo Da Vinci !](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7)  ✠ 
