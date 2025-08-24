@@ -21,7 +21,7 @@
 
  .⠀　　⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀,    
 　　　*　　⠀.
-　　　　　.　　　　　　　　　　⠀✦
+　　　　　.　　　　　　　　　　⠀[𖤐](https://github.com/user-attachments/assets/f239865a-de13-4975-a3fd-54d2bb456e01)
 　˚　　　　　　　　　　　　　　*
 .⠀ 　　　　　　　　　　.　　　　　　　　.
 　　　　　✦⠀　   　　　,　　    　　　　　　　　.
@@ -150,6 +150,8 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
 <br>
 
+
+
 https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
 ##### 🎶  ***Creation  by Fabi***  🖤
@@ -180,7 +182,7 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
  <br>
 
 
-#### <p align="center">     [𝛂](https://github.com/user-attachments/assets/16c7b9ad-5cab-46aa-b096-2c0cbd7b7d7b) ———⋅⋆ [♂️]()⋅⋆  —— [𓋹](https://github.com/user-attachments/assets/bc8fa49e-701e-438b-a88a-77a3914bfbb6) —— ⋅⋆[♀️]()⋅⋆  ——— [Ω](https://github.com/user-attachments/assets/15d99c3e-a1fa-4bbf-afc7-420398fdca4c)
+#### <p align="center">     [𝛂](https://github.com/user-attachments/assets/16c7b9ad-5cab-46aa-b096-2c0cbd7b7d7b) ———⋅⋆ [♂️](https://github.com/user-attachments/assets/1dc90875-ea1a-47e3-a24d-550738723bda)⋅⋆  —— [𓋹](https://github.com/user-attachments/assets/bc8fa49e-701e-438b-a88a-77a3914bfbb6) —— ⋅⋆[♀️](https://github.com/user-attachments/assets/ac2bbc8b-72ab-44b3-9979-0e5a0cf559e9)⋅⋆  ——— [Ω](https://github.com/user-attachments/assets/15d99c3e-a1fa-4bbf-afc7-420398fdca4c)
 
  
 #### <p align="center">   ✠ [Lo Ringraziamo Da Vinci !](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7)  ✠ 
@@ -445,4 +447,4 @@ Do you have any suggestions on how we could improve this project overall? Let us
   
 #
  
-##### <p align="center">Copyright 2025 Mindful-AI-Assistants. Code released under the  [MIT license.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
+##### <p align="center">Copyright 2025 Mindful-AI-Assistants. Code released under the  [MIT license.](https://github.com/Mindful-AI-Assistants/CDIA-Entrepreneurship-Soft-Skills-PUC-SP/blob/21961c2693169d461c6e05900e3d25e28a292297/LICENSE)
