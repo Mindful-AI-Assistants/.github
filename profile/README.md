@@ -21,8 +21,8 @@
 
  .⠀　　⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀,    
 　　　*　　⠀.
-　　　　　.　　　　　　　　　　⠀✦
-　˚　　　　　　　　　　　　　　[*](https://github.com/user-attachments/assets/f239865a-de13-4975-a3fd-54d2bb456e01)
+　　　　　.　　　　　　　　　　⠀[✦](](https://github.com/user-attachments/assets/f239865a-de13-4975-a3fd-54d2bb456e01))
+　˚　　　　　　　　　　　　　　*
 .⠀ 　　　　　　　　　　.　　　　　　　　.
 　　　　　✦⠀　   　　　,　　    　　　　　　　　.
 
