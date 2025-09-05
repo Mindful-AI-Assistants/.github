@@ -5,7 +5,7 @@
 
 ⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　✦ 　　　　　,　　　　　　　.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-　　　　　　*　　　　　　　　　　　.　✦
+　　　　　　*　　　　　　　　　　　.　✦  a
 　　　　　　*　　　　　　　　. 　　
 .　　　　　　　　　　　　　. 　　✦⠀　   　　　,　　　　　　　　　*
 　　　　　⠀　　　　⠀　　,
@@ -405,15 +405,21 @@ Do you have any suggestions on how we could improve this project overall? Let us
 <br>
 
 
-## 🛸 [Main Contributors]() 
+## 👨🏽‍🚀 [Main Contributors]()
 
-<br>
+> [!TIP]
+>
+>  * [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari) – PUC São Paulo
+>
+> * [Professor Dr. Daniel Gatti](https://www.linkedin.com/in/dgatti/) – PUC São Paulo
+>
+> * [Andson Ribeiro](https://github.com/andsonandreribeiro09) - PUC São Paulo
+>
+> * [Pedro  Vyctor](https://github.com/ppvyctor) - PUC São Paulo
+>
+>
 
-- 👩🏻‍🚀 [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari)
 
-- 👨🏽‍🚀 [Pedro  Vyctor](https://github.com/ppvyctor)
-
-- 👨🏽‍🚀 [Andson Ribeiro](https://github.com/andsonandreribeiro09)
 
 
 <br>
