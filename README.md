@@ -228,11 +228,14 @@ Empowering businesses with Copilots, Agents, Bots, and more, developing solution
 
 We believe that true progress is not only technological, but also ethical and human-driven.
 
-Every [project]();  
-Every [idea]();  
-Every [line of code]();
+- Every [project]();  
 
-is a thread in the fabric of a new future... a future where technology amplifies the best of what it means [***To Be a Human***]().
+- Every [idea]();  
+
+- Every [line of code]();
+
+
+is a thread in the fabric of a [***new future***]()... a future where technology amplifies the best of what it means [***To Be a Human***]().
 
 At [ॐ]() ***Mindful AI*** , we are not just building systems; [we unlock  possibilities]().
 
@@ -260,6 +263,10 @@ https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-
 
 
 ### <p align="center" style="font-size: 1000px"> .𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ [ZΞΝ](https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add) ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚
+
+
+### <p align="center" style="font-size: 1000px"> .𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ $$\Huge {\textbf{\color{cyan} Mindfull}
+
 
 
 <br><br>
