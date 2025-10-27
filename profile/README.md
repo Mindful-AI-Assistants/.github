@@ -296,7 +296,29 @@ We honor the [expansion of consciousness](), nurturing the [awakening of oneness
 
 In every creation, we remember: technology is not merely built;  it is [dreamed](), it is [lived]() and it exists to [uplift](), to [connect](), and to [awaken the human collective unconscious]().
 
+
 <br><br>
+
+
+
+### <p align="center"> 🪷 ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
+
+
+ <br><br>
+  
+
+ <p align="center">
+  <a href="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2">
+    <img src="https://github.com/user-attachments/assets/b22f1f19-441d-4e27-963c-88bbb5ab7891" width="450" />
+  </a>
+</p>
+
+
+
+
+ <br><br>
+
+
 
 
 ## [What are Copilots, Bots, and Agents?]()
@@ -363,22 +385,6 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
      
  ### <p align="center"> [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml)  [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml)   
-
-
- <br><br>
-
-
-### <p align="center"> 🪷 ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
-
-
- <br><br>
-  
-
- <p align="center">
-  <a href="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2">
-    <img src="https://github.com/user-attachments/assets/b22f1f19-441d-4e27-963c-88bbb5ab7891" width="450" />
-  </a>
-</p>
 
 
 
