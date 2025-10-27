@@ -154,10 +154,10 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
 <br><br>
 
- ### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)** ✯
+ ## <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)** ✯
 
 
-<br>
+<br><br>
 
 
 
@@ -173,14 +173,15 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="325"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="325"/>
 -->
 
-<br><br>
+<br><br><br>
 
-#### <p align="center"> [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* 
-#### <p align="center"> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2) in the infinity field of possibilities... [⚝]()*
+### <p align="center"> [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* 
+
+### <p align="center"> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2) in the infinity field of possibilities... [⚝]()*
 
   <br><br>
 
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
 <br><br>
 
@@ -224,18 +225,21 @@ Founded by  [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari);  de
 
 Empowering businesses with Copilots, Agents, Bots, and more, developing solutions where [intelligence]() and [intention]() converge to drive [precision and efficiency]()
 
+We believe that [true]() progress is [not only]() technological, but also [ethical]() and [human-driven]().
+
+<br><br>
+
+### [-]() Every [project]();  
+
+### [-]() Every [idea]();  
+
+### [-]() Every [line of code]():
 
 
-We believe that true progress is not only technological, but also ethical and human-driven.
-
-- Every [project]();  
-
-- Every [idea]();  
-
-- Every [line of code]();
+<br><br>
 
 
-is a thread in the fabric of a [***new future***]()... a future where technology amplifies the best of what it means [***To Be a Human***]().
+Is a thread in the fabric of a [***new future***]()... a future where technology amplifies the best of what it means [***To Be a Human***]().
 
 At [ॐ]() ***Mindful AI*** , we are not just building systems; [we unlock  possibilities]().
 
