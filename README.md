@@ -227,16 +227,24 @@ Empowering businesses with Copilots, Agents, Bots, and more, developing solution
 
 We believe that [true]() progress is [not only]() technological, but also [ethical]() and [human-driven]().
 
-<br><br>
+<br>
 
-### [-]() Every [project]();  
-
-### [-]() Every [idea]();  
-
-### [-]() Every [line of code]():
+#### [-]() Every [project]() ;  
 
 
-<br><br>
+<br>
+
+
+#### [-]() Every [idea]() ;  
+
+
+<br>
+
+
+#### [-]() Every [line of code]() :
+
+
+<br>
 
 
 Is a thread in the fabric of a [***new future***]()... a future where technology amplifies the best of what it means [***To Be a Human***]().
