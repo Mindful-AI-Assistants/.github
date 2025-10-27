@@ -342,6 +342,8 @@ In every creation, we remember: technology is not merely built;  it is [dreamed]
 
 ## [What We Offer]()
 
+<br>
+
 **MindfulAI-Assistants** specializes in a wide range of AI tools designed to automate repetitive tasks, enhance communication, drive productivity, and support decision-making. Our solutions utilize multiple types of AI, including **Generative AI**, **Predictive AI**, and **Adaptive Agents**, offering businesses a comprehensive suite of capabilities.
 
 <br>
