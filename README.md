@@ -273,11 +273,12 @@ At [ॐ]() ***Mindful AI*** , we are not just building systems; [we unlock  poss
 https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-474a-b2c9-d7a4c0afbb70 - sacred geomrtry
 -->
 
+<!--
 
 ### <p align="center" style="font-size: 1000px"> .𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ [ZΞΝ](https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add) ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚
+-->
 
-
-### <p align="center" style="font-size: 1000px"> .𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ $$\Huge {\textbf{\color{cyan} Mindfull}
+### <p align="center" style="font-size: 1000px"> .𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ $$\Huge {\textbf{\color{cyan} ZΞΝ}}$$⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚
 
 
 
