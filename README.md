@@ -154,10 +154,10 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
 <br><br>
 
- ## <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)** ✯
+ ### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)** ✯
 
 
-<br><br>
+<br>
 
 
 
@@ -173,15 +173,14 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/958d7a7f-134c-479f-885f-8324412b9648" width="325"/> <img src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/15adb3ae-d325-4db2-a876-9103a7a7a3aa" width="325"/>
 -->
 
-<br><br><br>
+<br><br>
 
-### <p align="center"> [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* 
-
-### <p align="center"> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2) in the infinity field of possibilities... [⚝]()*
+#### <p align="center"> [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* 
+#### <p align="center"> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2) in the infinity field of possibilities... [⚝]()*
 
   <br><br>
 
-### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
 <br><br>
 
@@ -195,6 +194,7 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 #### <p align="center">     [𝛂](https://github.com/user-attachments/assets/16c7b9ad-5cab-46aa-b096-2c0cbd7b7d7b) ———⋅⋆ [♂️](https://github.com/user-attachments/assets/1dc90875-ea1a-47e3-a24d-550738723bda)⋅⋆  —— [𓋹](https://github.com/user-attachments/assets/bc8fa49e-701e-438b-a88a-77a3914bfbb6) —— ⋅⋆[♀️](https://github.com/user-attachments/assets/ac2bbc8b-72ab-44b3-9979-0e5a0cf559e9)⋅⋆  ——— [Ω](https://github.com/user-attachments/assets/aaa05f34-97ae-4dc2-bd68-a1179a29bc7b)
 
 
+ <br>
  
 #### <p align="center">   ✠ [Lo Ringraziamo Da Vinci ](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7) ! [✠](https://github.com/user-attachments/assets/15d99c3e-a1fa-4bbf-afc7-420398fdca4c)
 
@@ -225,29 +225,15 @@ Founded by  [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari);  de
 
 Empowering businesses with Copilots, Agents, Bots, and more, developing solutions where [intelligence]() and [intention]() converge to drive [precision and efficiency]()
 
-We believe that [true]() progress is [not only]() technological, but also [ethical]() and [human-driven]().
-
-<br>
-
-#### [-]() Every [project]() ;  
 
 
-<br>
+We believe that true progress is not only technological, but also ethical and human-driven.
 
+Every [project]();  
+Every [idea]();  
+Every [line of code]();
 
-#### [-]() Every [idea]() ;  
-
-
-<br>
-
-
-#### [-]() Every [line of code]() :
-
-
-<br>
-
-
-Is a thread in the fabric of a [***new future***]()... a future where technology amplifies the best of what it means [***To Be a Human***]().
+is a thread in the fabric of a new future... a future where technology amplifies the best of what it means [***To Be a Human***]().
 
 At [ॐ]() ***Mindful AI*** , we are not just building systems; [we unlock  possibilities]().
 
@@ -273,13 +259,8 @@ At [ॐ]() ***Mindful AI*** , we are not just building systems; [we unlock  poss
 https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-474a-b2c9-d7a4c0afbb70 - sacred geomrtry
 -->
 
-<!--
 
 ### <p align="center" style="font-size: 1000px"> .𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ [ZΞΝ](https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add) ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚
--->
-
-### <p align="center" style="font-size: 1000px"> .𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ $$\Huge {\textbf{\color{cyan} ZΞΝ}}$$⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚
-
 
 
 <br><br>
@@ -316,7 +297,29 @@ We honor the [expansion of consciousness](), nurturing the [awakening of oneness
 
 In every creation, we remember: technology is not merely built;  it is [dreamed](), it is [lived]() and it exists to [uplift](), to [connect](), and to [awaken the human collective unconscious]().
 
+
 <br><br>
+
+
+
+### <p align="center"> 🪷 ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
+
+
+ <br><br>
+  
+
+ <p align="center">
+  <a href="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2">
+    <img src="https://github.com/user-attachments/assets/b22f1f19-441d-4e27-963c-88bbb5ab7891" width="450" />
+  </a>
+</p>
+
+
+
+
+ <br><br>
+
+
 
 
 ## [What are Copilots, Bots, and Agents?]()
@@ -339,6 +342,8 @@ In every creation, we remember: technology is not merely built;  it is [dreamed]
 
 
 ## [What We Offer]()
+
+<br>
 
 **MindfulAI-Assistants** specializes in a wide range of AI tools designed to automate repetitive tasks, enhance communication, drive productivity, and support decision-making. Our solutions utilize multiple types of AI, including **Generative AI**, **Predictive AI**, and **Adaptive Agents**, offering businesses a comprehensive suite of capabilities.
 
@@ -376,11 +381,13 @@ Our open-source commitment allows businesses to access, customize, and [collabor
  <br><br>
 
 
- <p align="center">
-  <a href="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2">
-    <img src="https://github.com/user-attachments/assets/b22f1f19-441d-4e27-963c-88bbb5ab7891" width="450" />
-  </a>
-</p>
+ ### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
+
+
+<br><br>
+
+     
+ ### <p align="center"> [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml)  [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml)   
 
 
 
@@ -393,25 +400,13 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 </p>
 -->
 
-<br>
 
-#### <p align="center"> 🪷 ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
-  
 #
 
 
 <br><br>
 
 
-### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
-
-<br><br>
-
-     
- ### <p align="center"> [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml)  [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml)   
-
-
-<br><br>
  
  ## [Comparison of Common Machine Learning Algorithms]() (Part 1)
 
@@ -432,6 +427,15 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
 
 <br><br>
+
+
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/a9cc1ae1-a351-4e85-a997-ba94b5104c7f0" />
+
+
+<br><br>
+
+
 
 ## [Comparison of Common Machine Learning Algorithms]() (Part 2)
 
