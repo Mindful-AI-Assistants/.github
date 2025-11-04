@@ -428,6 +428,15 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
 <br><br>
 
+
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/a9cc1ae1-a351-4e85-a997-ba94b5104c7f0" />
+
+
+<br><br>
+
+
+
 ## [Comparison of Common Machine Learning Algorithms]() (Part 2)
 
 <br>
