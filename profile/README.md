@@ -426,14 +426,22 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 | [Typical Application]() | Simple interpretable models | Large-scale classification/regression | High performance competitions | Complex data, NLP, bioinformatics |
 
 
+
+
 <br><br>
 
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/a9cc1ae1-a351-4e85-a997-ba94b5104c7f0" />
+  <img src="https://github.com/user-attachments/assets/0ef82854-830a-4016-92d3-3d1bdb97edeb" />
+</p>
 
 
-<br><br>
+<p align="center">  🦋˖𓂃🌸˖ ִֶָ🦩˖·🎀˳⋆ ִֶָ🌺 ִֶ˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖🎀˳⋆ ִֶָ🌺 ִֶ  ZΞΝ  🌷𓍢 ִֶָ🍄⋆˳·🌸˖ ִֶָ🌷𓍢˖·🌹˖˳·🦩˳ ִֶ˖⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖·🌸˖🍄⋆˳·🌸˖ ִֶָ 🌷
+
+
+
+
+<br><br><br><br>
 
 
 
