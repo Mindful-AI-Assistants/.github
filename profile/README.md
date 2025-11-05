@@ -408,7 +408,7 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
 
  
- ## [Comparison of Common Machine Learning Algorithms]() (Part 1)
+ ## [Overview and Comparison of Common Supervised Machine Learning Algorithms]() (Part 1)
 
 <br>
 
@@ -445,7 +445,7 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
 
 
-## [Comparison of Common Machine Learning Algorithms]() (Part 2)
+## [Overview and Comparison of Common Supervised Machine Learning Algorithms]() (Part 2)
 
 <br>
 
