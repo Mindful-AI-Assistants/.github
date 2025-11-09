@@ -467,6 +467,41 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
 
 
+## Overview and Comparison of Common Unsupervised Machine Learning Algorithms (Part 1: Clustering)
+
+| Criterion | K-Means | DBSCAN | Hierarchical Clustering | Gaussian Mixture (GMM) | Fuzzy K-Means |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Model Type | Centroid-based | Density-based | Tree-based | Probabilistic (Mixture) | Centroid, fuzzy membership |
+| Overfitting Tendency | Moderate | Low | Variable | Moderate | Moderate |
+| Interpretability | High | Moderate | Moderate | Moderate | Moderate |
+| Training Speed | Fast | Fast (small data) | Slow (large data) | Moderate | Fast |
+| Prediction Speed | Very fast | Moderate | Slow | Moderate | Fast |
+| Scalability | Good | Moderate | Poor (large data) | Moderate | Moderate |
+| Needs Normalization | Yes | Usually not | Usually not | Yes | Yes |
+| Cluster Shape Handling | Spheres | Arbitrary, any shape | Trees (any structure) | Elliptical | Spheres (soft bound) |
+| Number of Clusters Input | Yes | No (auto detects) | No (decides itself) | Yes | Yes |
+| Outlier Detection | Weak | Good | Weak | Weak | Weak |
+| Typical Application | Customer segmentation | Image and spatial clusters | Gene expression, nested data | Density estimation, soft clustering | Market segmentation |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  <br><br>
 
 ## 𖤐 [Contribution]()
