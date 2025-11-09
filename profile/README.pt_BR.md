@@ -364,6 +364,7 @@ A **Mindful AI Assistants Organization** [encoraja todos]() a participar do proj
 ## [Visão Geral e Comparação dos Principais]() ***Algoritmos Supervisionados*** [de Machine Learning]() (Parte 1)
 
 <br>
+
 | [Critério]() | [Árvore de Decisão]() | [Random Forest]() | [Gradient Boosting (GBM)]() | [Máquina de Vetores de Suporte (SVM)]() |
 | :-- | :-- | :-- | :-- | :-- |
 | [Tipo de modelo]() | Árvore única | Conjunto de árvores (bagging) | Conjunto de árvores (boosting) | Classificador de hiperplano |
@@ -382,6 +383,8 @@ A **Mindful AI Assistants Organization** [encoraja todos]() a participar do proj
 ## [Visão Geral e Comparação dos Principais]() ***Algoritmos Supervisionados*** [de Machine Learning]() (Parte 2)
 
 <br>
+
+
 | [Critério]() | [k-Vizinhos Mais Próximos (kNN)]() | [Naive Bayes]() | [Redes Neurais Artificiais (ANN)]() | [XGBoost]() |
 | :-- | :-- | :-- | :-- | :-- |
 | [Tipo de modelo]() | Baseado em instâncias (preguiçoso) | Probabilístico | Deep learning | Conjunto de boosting por gradiente |
@@ -395,7 +398,11 @@ A **Mindful AI Assistants Organization** [encoraja todos]() a participar do proj
 | [Importância das Variáveis]() | Não | Não | Não (opaco) | Sim |
 | [Aplicação Típica]() | Dados pequenos, recomendação | Classif. de texto, spam | Imagem, fala, NLP | Competições com dados tabulares |
 
+
+
 <br><br><br><br>
+
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0ef82854-830a-4016-92d3-3d1bdb97edeb" />
@@ -403,11 +410,16 @@ A **Mindful AI Assistants Organization** [encoraja todos]() a participar do proj
 
 ### <p align="center">  🦋˖𓂃🌸˖ ִֶָ🦩˖·🎀˳⋆ ִֶָ🌺 ִֶ˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖🎀˳⋆ ִֶָ🌺 ִֶ  ZΞΝ  🌷𓍢 ִֶָ🍄⋆˳·🌸˖ ִֶָ🌷𓍢˖·🌹˖˳·🦩˳ ִֶ˖⋆˳·🌸˖ ִֶָ 🌷
 
+
+
 <br><br><br><br><br><br>
+
+
 
 ## [Visão Geral e Comparação dos Principais]() ***Algoritmos Não Supervisionados*** [de Machine Learning]() (Parte 1: Agrupamento)
 
 <br>
+
 | [Critério]() | [K-Means]() | [DBSCAN]() | [Agrupamento Hierárquico]() | [Mistura Gaussiana (GMM)]() | [K-Means Fuzzy]() |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Tipo de modelo]() | Centróide | Baseado em densidade | Baseado em árvore | Probabilístico (Misturas) | Centróide, associação difusa |
@@ -427,6 +439,7 @@ A **Mindful AI Assistants Organization** [encoraja todos]() a participar do proj
 ## [Visão Geral e Comparação dos Principais]() ***Algoritmos Não Supervisionados*** [de Machine Learning]() (Parte 2: Redução Dimensional e Detecção de Anomalias)
 
 <br>
+
 | [Critério]() | [PCA]() | [t-SNE]() | [Isolation Forest]() | [Local Outlier Factor (LOF)]() |
 | :-- | :-- | :-- | :-- | :-- |
 | [Tipo de modelo]() | Transformação linear | Mapeamento probabilístico | Árvore-anomalia | Anomalia baseada em densidade |
