@@ -495,16 +495,16 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
 | [Criterion]() | [PCA]() | [t-SNE]() | [Isolation Forest]() | [Local Outlier Factor (LOF)]() |
 | :-- | :-- | :-- | :-- | :-- |
-| Model Type | Linear transform | Probabilistic mapping | Tree-based anomaly | Density-based anomaly |
-| Overfitting Tendency | Low | Moderate | Low | Low |
-| Interpretability | Moderate | Low | Moderate | Moderate |
-| Training Speed | Very fast | Slow (large data) | Fast | Moderate |
-| Prediction Speed | Very fast | Slow | Very fast | Moderate |
-| Scalability | Good | Poor | Good | Moderate |
-| Needs Normalization | Yes | Yes | Usually not | Usually not |
-| Non-linear Capability | No | Yes | No | Yes |
-| Useful For | Feature reduction, visualization | Visualization high-dim data | Outlier detection | Outlier detection |
-| Typical Application | Preprocessing, compression | Data exploration, plots | Fraud, novelty detection | Data cleaning, anomaly hunt |
+| [Model Type]() | Linear transform | Probabilistic mapping | Tree-based anomaly | Density-based anomaly |
+| [Overfitting Tendency]() | Low | Moderate | Low | Low |
+| [Interpretability]() | Moderate | Low | Moderate | Moderate |
+| [Training Speed]() | Very fast | Slow (large data) | Fast | Moderate |
+| [Prediction Speed]() | Very fast | Slow | Very fast | Moderate |
+| [Scalability]() | Good | Poor | Good | Moderate |
+| [Needs Normalization]() | Yes | Yes | Usually not | Usually not |
+| [Non-linear Capability]() | No | Yes | No | Yes |
+| [Useful For]() | Feature reduction, visualization | Visualization high-dim data | Outlier detection | Outlier detection |
+| [Typical Application]() | Preprocessing, compression | Data exploration, plots | Fraud, novelty detection | Data cleaning, anomaly hunt |
 
 
 
