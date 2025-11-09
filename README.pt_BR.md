@@ -212,3 +212,119 @@ The Themplairs  Codex
 <br><br>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+
+## 👨🏽‍🚀 [Main Contributors]()
+
+<br>
+
+> [!TIP]
+>
+>  * [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari) – PUC São Paulo
+>
+> * [Professor Dr. Daniel Gatti](https://www.linkedin.com/in/dgatti/) – PUC São Paulo
+>
+> * [Andson Ribeiro](https://github.com/andsonandreribeiro09) - PUC São Paulo
+>
+> * [Pedro  Vyctor](https://github.com/ppvyctor) - PUC São Paulo
+>
+>
+
+
+
+
+<br>
+
+
+## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
+
+<br>
+
+
+#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
+
+
+<br>
+
+### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
+
+
+<br><br>
+
+<p align="center">  ────────────── ⊹🔭๋ ──────────────
+
+<!--
+<p align="center">  ────────────── 🛸๋*ੈ✩* 🔭*ੈ₊ ──────────────
+-->
+
+<br>
+
+<p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
+  
+
+  
+#
+ 
+##### <p align="center">Copyright 2026 Mindful-AI-Assistants. Code released under the  [MIT license.](https://github.com/Mindful-AI-Assistants/CDIA-Entrepreneurship-Soft-Skills-PUC-SP/blob/21961c2693169d461c6e05900e3d25e28a292297/LICENSE)
+
+
