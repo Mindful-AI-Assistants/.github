@@ -431,20 +431,6 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 <br><br>
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0ef82854-830a-4016-92d3-3d1bdb97edeb" />
-</p>
-
-
-### <p align="center">  🦋˖𓂃🌸˖ ִֶָ🦩˖·🎀˳⋆ ִֶָ🌺 ִֶ˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖🎀˳⋆ ִֶָ🌺 ִֶ  ZΞΝ  🌷𓍢 ִֶָ🍄⋆˳·🌸˖ ִֶָ🌷𓍢˖·🌹˖˳·🦩˳ ִֶ˖⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖·🌸˖🍄⋆˳·🌸˖ ִֶָ 🌷
-
-
-
-
-<br><br><br><br>
-
-
-
 ## [Overview and Comparison of Common Supervised Machine Learning Algorithms]() (Part 2)
 
 <br>
@@ -462,6 +448,22 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 | [Non-linear Capability]() | Good | Weak (depends on distribution) | Excellent | Excellent |
 | [Variable Importance]() | No | No | No (opaque) | Yes |
 | [Typical Application]() | Small datasets, recommender | Text classification, spam filtering | Image, speech, NLP | Structured data competitions |
+
+
+<br><br>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0ef82854-830a-4016-92d3-3d1bdb97edeb" />
+</p>
+
+
+### <p align="center">  🦋˖𓂃🌸˖ ִֶָ🦩˖·🎀˳⋆ ִֶָ🌺 ִֶ˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖🎀˳⋆ ִֶָ🌺 ִֶ  ZΞΝ  🌷𓍢 ִֶָ🍄⋆˳·🌸˖ ִֶָ🌷𓍢˖·🌹˖˳·🦩˳ ִֶ˖⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖·🌸˖🍄⋆˳·🌸˖ ִֶָ 🌷
+
+
+
+
+<br><br><br><br>
 
 
 
