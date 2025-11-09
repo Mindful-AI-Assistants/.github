@@ -523,7 +523,7 @@ Any contributions are highly appreciated.  You can contribute in two ways:
    2. Fork the project and submit a full request with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹🔭๋
 
 
-<br>
+<br><br>
 
  
 ## 🌎 [Spread the word!]()   
@@ -533,7 +533,7 @@ If the information from this repo was useful to you in any way, make sure you gi
 Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback
 
 
-<br>
+<br><br>
 
 
 ## 👨🏽‍🚀 [Main Contributors]()
@@ -555,7 +555,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 
 
-<br>
+<br><br>
 
 
 ## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
