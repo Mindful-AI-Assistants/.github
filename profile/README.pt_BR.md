@@ -227,11 +227,15 @@ Capacitar negócios com Copilots, Agentes, Bots, e mais, desenvolvendo soluçõe
 
 Acreditamos que o verdadeiro progresso não é apenas tecnológico, mas também ético e centrado no humano.
 
-
+<br>
 
 Todo [projeto]();
+
 Toda [ideia]();
+
 Toda [linha de código]();
+
+<br>
 
 
 É um fio no tecido de um novo futuro... um futuro onde a tecnologia amplia o melhor do que significa [***Ser Humano***]().
