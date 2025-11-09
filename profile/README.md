@@ -471,7 +471,7 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
 <br>
 
-| Criterion | K-Means | DBSCAN | Hierarchical Clustering | Gaussian Mixture (GMM) | Fuzzy K-Means |
+| [Criterion]()  | [K-Means]()  | [DBSCAN]()  | [Hierarchical Clustering]()  | [Gaussian Mixture (GMM)]()  | [Fuzzy K-Means]()  |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | Model Type | Centroid-based | Density-based | Tree-based | Probabilistic (Mixture) | Centroid, fuzzy membership |
 | Overfitting Tendency | Moderate | Low | Variable | Moderate | Moderate |
