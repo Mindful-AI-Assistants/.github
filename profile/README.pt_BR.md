@@ -212,7 +212,6 @@ The Themplairs  Codex
 
 <br><br>
 
-
 <
 
 ## [Sobre Nós]()
@@ -227,7 +226,7 @@ Capacitar negócios com Copilots, Agentes, Bots, e mais, desenvolvendo soluçõe
 
 Acreditamos que o verdadeiro progresso não é apenas tecnológico, mas também ético e centrado no humano.
 
-<br>
+
 
 Todo [projeto]();
 
@@ -235,18 +234,20 @@ Toda [ideia]();
 
 Toda [linha de código]();
 
-<br>
 
 
-É um fio no tecido de um novo futuro... um futuro onde a tecnologia amplia o melhor do que significa [***Ser Humano***]().
+é um fio no tecido de um novo futuro... um futuro onde a tecnologia amplia o melhor do que significa [***Ser Humano***]().
 
 Na [ॐ]() ***Mindful AI*** , não estamos apenas construindo sistemas; [desbloqueamos possibilidades]().
 
+
 <br><br><br>
+
 
 ˚　　　　✦　　　.　　. 　 ˚　.　　　 . ✦　　　 　˚　　　　 . ★⋆　　　.   　　˚　✭　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　✭　.　　. 　 ˚　.˚　　🛸　🛸　　. 　 ˚　.　　 . ✦　　　 　˚　　　　 . ★⋆　.   　　˚　✯✭　 🛰　　　*　　 　　✦　　　.　　.　　　　*　　 　　✦　　　. 　　*　　 　🛰　　　✦　　　.
 
 ✭　.　　. 　 ˚　.˚　　🛸　🛸　　. 　 ˚　.　　　　 . ✦　　　 　˚　　　　 . ★⋆　.   　　˚　✯✭　 🛰　　　*　　 　　✦　　　.　　.　　　　*　　 　　✦　　　. 　　*　　 　🛰　　　✦　　　.
+
 
 <br>
 
@@ -352,7 +353,7 @@ A **Mindful AI Assistants Organization** [encoraja todos]() a participar do proj
 
 <br><br>
 
-### <p align="center"> [  [
+### <p align="center"> [
 
 <!--
 <p align="center">
@@ -383,16 +384,11 @@ A **Mindful AI Assistants Organization** [encoraja todos]() a participar do proj
 | [Importância das Variáveis]() | Fácil de extrair | Fácil de extrair | Fácil de extrair | Não nativo (requer permutação) |
 | [Aplicação Típica]() | Modelos simples e interpretáveis | Classificações/regressões em larga escala | Competições de alta performance | Dados complexos, NLP, bioinfo |
 
-
-
 <br><br><br>
-
-
 
 ## [Visão Geral e Comparação dos Principais]() ***Algoritmos Supervisionados*** [de Machine Learning]() (Parte 2)
 
 <br>
-
 
 | [Critério]() | [k-Vizinhos Mais Próximos (kNN)]() | [Naive Bayes]() | [Redes Neurais Artificiais (ANN)]() | [XGBoost]() |
 | :-- | :-- | :-- | :-- | :-- |
@@ -407,11 +403,7 @@ A **Mindful AI Assistants Organization** [encoraja todos]() a participar do proj
 | [Importância das Variáveis]() | Não | Não | Não (opaco) | Sim |
 | [Aplicação Típica]() | Dados pequenos, recomendação | Classif. de texto, spam | Imagem, fala, NLP | Competições com dados tabulares |
 
-
-
 <br><br><br><br>
-
-
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0ef82854-830a-4016-92d3-3d1bdb97edeb" />
@@ -419,11 +411,7 @@ A **Mindful AI Assistants Organization** [encoraja todos]() a participar do proj
 
 ### <p align="center">  🦋˖𓂃🌸˖ ִֶָ🦩˖·🎀˳⋆ ִֶָ🌺 ִֶ˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖🎀˳⋆ ִֶָ🌺 ִֶ  ZΞΝ  🌷𓍢 ִֶָ🍄⋆˳·🌸˖ ִֶָ🌷𓍢˖·🌹˖˳·🦩˳ ִֶ˖⋆˳·🌸˖ ִֶָ 🌷
 
-
-
 <br><br><br><br><br><br>
-
-
 
 ## [Visão Geral e Comparação dos Principais]() ***Algoritmos Não Supervisionados*** [de Machine Learning]() (Parte 1: Agrupamento)
 
@@ -443,11 +431,7 @@ A **Mindful AI Assistants Organization** [encoraja todos]() a participar do proj
 | [Outlier Detection]() | Fraca | Boa | Fraca | Fraca | Fraca |
 | [Aplicação Típica]() | Segmentação de clientes | Clusters espaciais | Expressão gênica | Estimativa densidade, cluster soft | Segmentação de mercado |
 
-
-
 <br><br><br>
-
-
 
 ## [Visão Geral e Comparação dos Principais]() ***Algoritmos Não Supervisionados*** [de Machine Learning]() (Parte 2: Redução Dimensional e Detecção de Anomalias)
 
@@ -477,11 +461,13 @@ Qualquer contribuição é muito bem-vinda. Você pode contribuir de duas formas
 
 <br><br>
 
-## 🌎 [Ajude a espalhar Conhecimento!]()
+## 🌎 [Ajude a espalhar a palavra!]()
 
 Se esta informação te ajudou de alguma forma, deixe uma estrela 🌟 neste repositório — assim outras pessoas podem encontrar e aproveitar também! Juntos podemos crescer e melhorar a nossa comunidade!
 
 Tem sugestões de melhorias para este projeto? Fale com a gente! Vamos adorar ouvir seu feedback.
+
+<br><br>
 
 
 
