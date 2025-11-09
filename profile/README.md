@@ -536,6 +536,8 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 ## 👨🏽‍🚀 [Main Contributors]()
 
+<br>
+
 > [!TIP]
 >
 >  * [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari) – PUC São Paulo
