@@ -475,7 +475,7 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Model Type]() | Centroid-based | Density-based | Tree-based | Probabilistic (Mixture) | Centroid, fuzzy membership |
 | [Overfitting Tendency]() | Moderate | Low | Variable | Moderate | Moderate |
-| Interpretability]() | High | Moderate | Moderate | Moderate | Moderate |
+| [Interpretability]() | High | Moderate | Moderate | Moderate | Moderate |
 | [Training Speed]() | Fast | Fast (small data) | Slow (large data) | Moderate | Fast |
 | [Prediction Speed]() | Very fast | Moderate | Slow | Moderate | Fast |
 | [Scalability]() | Good | Moderate | Poor (large data) | Moderate | Moderate |
@@ -493,7 +493,7 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
 <br>
 
-| Criterion | PCA | t-SNE | Isolation Forest | Local Outlier Factor (LOF) |
+| [Criterion]() | [PCA]() | [t-SNE]() | [Isolation Forest]() | [Local Outlier Factor (LOF)]() |
 | :-- | :-- | :-- | :-- | :-- |
 | Model Type | Linear transform | Probabilistic mapping | Tree-based anomaly | Density-based anomaly |
 | Overfitting Tendency | Low | Moderate | Low | Low |
