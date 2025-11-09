@@ -227,13 +227,14 @@ Capacitar negócios com Copilots, Agentes, Bots, e mais, desenvolvendo soluçõe
 
 Acreditamos que o verdadeiro progresso não é apenas tecnológico, mas também ético e centrado no humano.
 
+
+
 Todo [projeto]();
-
 Toda [ideia]();
-
 Toda [linha de código]();
 
-é um fio no tecido de um novo futuro... um futuro onde a tecnologia amplia o melhor do que significa [***Ser Humano***]().
+
+É um fio no tecido de um novo futuro... um futuro onde a tecnologia amplia o melhor do que significa [***Ser Humano***]().
 
 Na [ॐ]() ***Mindful AI*** , não estamos apenas construindo sistemas; [desbloqueamos possibilidades]().
 
@@ -378,7 +379,11 @@ A **Mindful AI Assistants Organization** [encoraja todos]() a participar do proj
 | [Importância das Variáveis]() | Fácil de extrair | Fácil de extrair | Fácil de extrair | Não nativo (requer permutação) |
 | [Aplicação Típica]() | Modelos simples e interpretáveis | Classificações/regressões em larga escala | Competições de alta performance | Dados complexos, NLP, bioinfo |
 
+
+
 <br><br><br>
+
+
 
 ## [Visão Geral e Comparação dos Principais]() ***Algoritmos Supervisionados*** [de Machine Learning]() (Parte 2)
 
@@ -434,7 +439,11 @@ A **Mindful AI Assistants Organization** [encoraja todos]() a participar do proj
 | [Outlier Detection]() | Fraca | Boa | Fraca | Fraca | Fraca |
 | [Aplicação Típica]() | Segmentação de clientes | Clusters espaciais | Expressão gênica | Estimativa densidade, cluster soft | Segmentação de mercado |
 
+
+
 <br><br><br>
+
+
 
 ## [Visão Geral e Comparação dos Principais]() ***Algoritmos Não Supervisionados*** [de Machine Learning]() (Parte 2: Redução Dimensional e Detecção de Anomalias)
 
@@ -464,60 +473,12 @@ Qualquer contribuição é muito bem-vinda. Você pode contribuir de duas formas
 
 <br><br>
 
-## 🌎 [Ajude a espalhar a palavra!]()
+## 🌎 [Ajude a espalhar Conhecimento!]()
 
 Se esta informação te ajudou de alguma forma, deixe uma estrela 🌟 neste repositório — assim outras pessoas podem encontrar e aproveitar também! Juntos podemos crescer e melhorar a nossa comunidade!
 
 Tem sugestões de melhorias para este projeto? Fale com a gente! Vamos adorar ouvir seu feedback.
 
-<br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br><br>
-
-<br><br>
-
-<br><br>
-
-<br><br>
-
-<br><br>
 
 
 <br><br>
