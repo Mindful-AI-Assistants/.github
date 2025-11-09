@@ -450,7 +450,7 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 | [Typical Application]() | Small datasets, recommender | Text classification, spam filtering | Image, speech, NLP | Structured data competitions |
 
 
-<br><br>
+<br><br><br>
 
 
 <p align="center">
@@ -463,7 +463,7 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
 
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 
 
@@ -508,7 +508,7 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
 
 
- <br><br><br>
+ <br><br><br><br>
 
 
 
