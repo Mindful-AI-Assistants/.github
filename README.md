@@ -408,7 +408,7 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
 
  
- ## [Comparison of Common Machine Learning Algorithms]() (Part 1)
+ ## [Overview and Comparison of Common]() ***Supervised*** [Machine Learning Algorithms]() (Part 1)
 
 <br>
 
@@ -428,24 +428,10 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
 
 
-<br><br>
+<br><br><br>
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0ef82854-830a-4016-92d3-3d1bdb97edeb" />
-</p>
-
-
-<p align="center">  🦋˖𓂃🌸˖ ִֶָ🦩˖·🎀˳⋆ ִֶָ🌺 ִֶ˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖🎀˳⋆ ִֶָ🌺 ִֶ  ZΞΝ  🌷𓍢 ִֶָ🍄⋆˳·🌸˖ ִֶָ🌷𓍢˖·🌹˖˳·🦩˳ ִֶ˖⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖·🌸˖🍄⋆˳·🌸˖ ִֶָ 🌷
-
-
-
-
-<br><br><br><br>
-
-
-
-## [Comparison of Common Machine Learning Algorithms]() (Part 2)
+## [Overview and Comparison of Common]() ***Supervised*** [Machine Learning Algorithms]() (Part 2)
 
 <br>
 
@@ -464,8 +450,67 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 | [Typical Application]() | Small datasets, recommender | Text classification, spam filtering | Image, speech, NLP | Structured data competitions |
 
 
+<br><br><br><br>
 
- <br><br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0ef82854-830a-4016-92d3-3d1bdb97edeb" />
+</p>
+
+
+### <p align="center">  🦋˖𓂃🌸˖ ִֶָ🦩˖·🎀˳⋆ ִֶָ🌺 ִֶ˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖🎀˳⋆ ִֶָ🌺 ִֶ  ZΞΝ  🌷𓍢 ִֶָ🍄⋆˳·🌸˖ ִֶָ🌷𓍢˖·🌹˖˳·🦩˳ ִֶ˖⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖·🌸˖🍄⋆˳·🌸˖ ִֶָ 🌷
+
+
+
+
+<br><br><br><br><br><br>
+
+
+
+## [Overview and Comparison of Common]() ***Unsupervised*** [Machine Learning Algorithms]()  (Part 1: Clustering)
+
+<br>
+
+| [Criterion]()  | [K-Means]()  | [DBSCAN]()  | [Hierarchical Clustering]()  | [Gaussian Mixture (GMM)]()  | [Fuzzy K-Means]()  |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Model Type]() | Centroid-based | Density-based | Tree-based | Probabilistic (Mixture) | Centroid, fuzzy membership |
+| [Overfitting Tendency]() | Moderate | Low | Variable | Moderate | Moderate |
+| [Interpretability]() | High | Moderate | Moderate | Moderate | Moderate |
+| [Training Speed]() | Fast | Fast (small data) | Slow (large data) | Moderate | Fast |
+| [Prediction Speed]() | Very fast | Moderate | Slow | Moderate | Fast |
+| [Scalability]() | Good | Moderate | Poor (large data) | Moderate | Moderate |
+| [Needs Normalization]() | Yes | Usually not | Usually not | Yes | Yes |
+| [Cluster Shape Handling]() | Spheres | Arbitrary, any shape | Trees (any structure) | Elliptical | Spheres (soft bound) |
+| [Number of Clusters Input]() | Yes | No (auto detects) | No (decides itself) | Yes | Yes |
+| [Outlier Detection]() | Weak | Good | Weak | Weak | Weak |
+| [Typical Application]() | Customer segmentation | Image and spatial clusters | Gene expression, nested data | Density estimation, soft clustering | Market segmentation |
+
+
+<br><br><br>
+
+
+## [Overview and Comparison of Common]() ***Unsupervised*** [Machine Learning Algorithms]()  (Part 2: Dimensionality Reduction \& Anomaly Detection)
+
+<br>
+
+| [Criterion]() | [PCA]() | [t-SNE]() | [Isolation Forest]() | [Local Outlier Factor (LOF)]() |
+| :-- | :-- | :-- | :-- | :-- |
+| [Model Type]() | Linear transform | Probabilistic mapping | Tree-based anomaly | Density-based anomaly |
+| [Overfitting Tendency]() | Low | Moderate | Low | Low |
+| [Interpretability]() | Moderate | Low | Moderate | Moderate |
+| [Training Speed]() | Very fast | Slow (large data) | Fast | Moderate |
+| [Prediction Speed]() | Very fast | Slow | Very fast | Moderate |
+| [Scalability]() | Good | Poor | Good | Moderate |
+| [Needs Normalization]() | Yes | Yes | Usually not | Usually not |
+| [Non-linear Capability]() | No | Yes | No | Yes |
+| [Useful For]() | Feature reduction, visualization | Visualization high-dim data | Outlier detection | Outlier detection |
+| [Typical Application]() | Preprocessing, compression | Data exploration, plots | Fraud, novelty detection | Data cleaning, anomaly hunt |
+
+
+
+ <br><br><br><br>
+
+
 
 ## 𖤐 [Contribution]()
 
