@@ -489,8 +489,9 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 <br><br>
 
 
-
 ## Overview and Comparison of Common Unsupervised Machine Learning Algorithms (Part 2: Dimensionality Reduction \& Anomaly Detection)
+
+<br>
 
 | Criterion | PCA | t-SNE | Isolation Forest | Local Outlier Factor (LOF) |
 | :-- | :-- | :-- | :-- | :-- |
@@ -507,9 +508,8 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
 
 
+ <br><br><br>
 
-
- <br><br>
 
 
 ## 𖤐 [Contribution]()
