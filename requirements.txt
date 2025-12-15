@@ -8,9 +8,9 @@ seaborn==0.13.2
 
 # Bibliotecas p
 scipy==1.16.3
-scikit-learn==1.7.2
+scikit-learn==1.8.0
 scipy==1.16.3
-scikit-learn==1.7.2
+scikit-learn==1.8.0
 
 
 # Bibliotecas para machine learning
