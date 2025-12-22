@@ -34,4 +34,4 @@ ipywidgets==8.1.8
 
 
 # Outras bibliotecas úteis
-joblib==1.5.2
+joblib==1.5.3
