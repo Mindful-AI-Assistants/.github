@@ -184,6 +184,12 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
+
+<br><br>
+
+##### <p align="center"> [Goolge_Prompt Engineering - _Dec / 2025](https://github.com/Mindful-AI-Assistants/.github/blob/c30d147ff00d195a5427c49747aee2555a318b1a/Goolge_Prompt-Engineering_Dec-%3A2025.pdf)
+
+
 <br><br>
 
 
