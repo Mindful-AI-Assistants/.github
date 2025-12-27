@@ -77,7 +77,7 @@
  <br>
 
 
-##### <p align="center"> 𖤐 [Al for the Good of All -Brazilian Artificial Intelligence Plan]()
+##### <p align="center"> 𖤐 [Al for the Good of All - Brazilian Artificial Intelligence Plan - Dec / 2025]()
 
 ##### <p align="center"> 𖤐 [Goolge Prompt Engineering Whitepaper - Dec / 2025](https://github.com/Mindful-AI-Assistants/.github/blob/c30d147ff00d195a5427c49747aee2555a318b1a/Goolge_Prompt-Engineering_Dec-%3A2025.pdf) 𖤐
 
