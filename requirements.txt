@@ -22,7 +22,7 @@ beautifulsoup4==4.14.3
 requests==2.32.5
 
 # Bibliotecas para trabalhar com bancos de dados
-sqlalchemy==2.0.45
+sqlalchemy==2.0.46
 psycopg2-binary==2.9.11
 
 # Bibliotecas para Jupyter Notebook
