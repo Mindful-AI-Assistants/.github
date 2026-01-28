@@ -1,6 +1,6 @@
 # Bibliotecas para manipulação de dados
 numpy==2.4.1
-pandas==2.3.3
+pandas==3.0.0
 
 # Bibliotecas para visualização de dados
 matplotlib==3.10.8
