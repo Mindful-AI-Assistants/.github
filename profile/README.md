@@ -40,7 +40,7 @@
 -->
 
 
-<h1 align="center"> 𖤐 $$\Huge {\textbf{\color{cyan} Mindfull} \space \textbf{\color{white} AI} \space \textbf{\color{cyan} ॐ}}$$ 
+<h1 align="center"> 𖤐 $$\Huge {\textbf{\color{cyan} Mindful} \space \textbf{\color{white} AI} \space \textbf{\color{cyan} ॐ}}$$ 
 
 <!--
 <h1 align="center"> 𖤐 $$\Huge {\textbf{\color{white} Mindful} \space \textbf{\color{cyan} Emotional} \space \textbf{\color{white} AI} \space \textbf{\color{cyan} ॐ}}$$ 
