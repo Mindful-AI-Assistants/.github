@@ -239,10 +239,11 @@ Founded by [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari)**; de
 
 Her multidisciplinary journey bridges technology, human behavior, cognition, and consciousness, shaping the foundation of Mindful AI as a convergence of:
 
-[-]() Intelligence <br>
-[-]() Ethics & Governance <br>
-[-]() Cognitive Science <br>
-[-]() Collective Intelligence 
+[𖤐]()  Intelligence <br>
+[𖤐]()  Ethics & Governance <br>
+[𖤐]()  Cognitive Science <br>
+[𖤐]() Collective Intelligence <br>
+[𖤐]() Human-Centered Design
 
 <br><br>
 
@@ -283,7 +284,7 @@ To design and develop intelligent systems that amplify human potential, while en
 > [!NOTE]
 >
 > Every project, every model, every line of code is part of a larger purpose: <br>
-> Building a future where AI serves humanity — not the opposite.
+> Building a future where [**AI Serves Humanity**]() — [**Not the Opposite**]().
 > <br>
 >
 
@@ -324,9 +325,9 @@ We embed **AI Governance by Design** into every solution — ensuring that intel
 
 ##  [Governance, Risk & Compliance (GRC)]()
 
-At Mindful AI, compliance is a core pillar — not an afterthought.
+At Mindful AI, compliance is a Core Pillar,  Not an Afterthought.
 
-[]()**We operationalize governance through structured **risk management, regulatory alignment, and continuous oversight**.
+[***We operationalize governance through structured **risk management, regulatory alignment, and continuous oversight.***]()
 
 <br><br>
 
@@ -405,9 +406,7 @@ https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-
 
 <br><br><br>
 
- #### <p align="center"> ***LET’S BUILD A COMMUNITY WHERE [DIFFERENCE]() IS NOT [JUDGED]() , bBUT RECOGNIZED AS A [SOURCE OF INTELLIGENCE AND INNOVATION]()*** !
-
-
+ #### <p align="center"> ***LET’S BUILD A COMMUNITY WHERE [DIFFERENCE]() IS NOT [JUDGED]() , BUT RECOGNIZED AS A [SOURCE OF INTELLIGENCE AND INNOVATION]()!
 
  <br><br>
   
@@ -429,17 +428,16 @@ https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-
 
  <br><br>
 
-
-
-
 ## [Core Technologies]()
 
-Generative AI <br>
-Content generation, summarization, ideation, and creative intelligence <br>
-Predictive AI <br>
-Data-driven forecasting, pattern recognition, and strategic insights <br>
-Adaptive AI Agents <br>
-Autonomous systems that learn, evolve, and act in dynamic environments
+<br>
+
+[-]() Generative AI <br>
+[-]() Content generation, summarization, ideation, and creative intelligence <br>
+[-]() Predictive AI <br>
+[-]() Data-driven forecasting, pattern recognition, and strategic insights <br>
+[-]() Adaptive AI Agents <br>
+[-]() Autonomous systems that learn, evolve, and act in dynamic environments
 
 <br><br>
 
@@ -458,10 +456,10 @@ Autonomous systems that learn, evolve, and act in dynamic environments
 
 Our solutions enable organizations to:
 
-[-]() optimize performance <br>
-[-]() enhance productivity <br>
-[-]() unlock data-driven strategies <br>
-[-]() focus on high-impact human work
+[-]() Optimize performance <br>
+[-]() Enhance productivity <br>
+[-]() Unlock data-driven strategies <br>
+[-]() Focus on high-impact human work
 
 <br><br>
 
@@ -470,20 +468,20 @@ Our solutions enable organizations to:
 
 We believe in collective intelligence.
 
-Our open-source model promotes:
+[***Our open-source model promotes:***]()
 
 <br>
 
-𖤐 Collaboration <br>
-𖤐 Transparency <br>
-𖤐 Shared innovation
+[𖤐]() Collaboration <br>
+[𖤐]() Transparency <br>
+[𖤐]() Shared innovation
 
 <br>
 
 
 >[!IMPORTANT]
 >
-> 🖤 Everyone is invited to build, contribute, and evolve with us.
+> Everyone is invited to build, contribute, and evolve with us. 🖤 
 > <br>
 >
 
@@ -513,9 +511,9 @@ Technology [***Is Not Only***]() Engineered ;  It is [***Imagined***](), [***Exp
 
 <br>
 
-𖤐 Code is intention <br>
-𖤐 Systems are extensions of thought <br>
-𖤐 Innovation is a collective awakening <br>
+[𖤐]() Code is intention <br>
+[𖤐]() Systems are extensions of thought <br>
+[𖤐]() Innovation is a collective awakening <br>
 
 <br><br>
 
