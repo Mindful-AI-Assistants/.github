@@ -270,7 +270,7 @@ To design and develop intelligent systems that amplify human potential, while en
 
 [-]()  Ethical alignment <br>
 [-]()  Responsible innovation <br>
-[-]()  Transparency and fairness<br>
+[-]()  Transparency and fairness <br>
 [-]()  Positive societal impact 
 
 <br>
@@ -282,7 +282,7 @@ We believe true progress is not only technological ; but human, ethical, and con
 
 > [!NOTE]
 >
-> Every project, every model, every line of code is part of a larger purpose:
+> Every project, every model, every line of code is part of a larger purpose: <br>
 > Building a future where AI serves humanity — not the opposite.
 > <br>
 >
@@ -292,23 +292,54 @@ We believe true progress is not only technological ; but human, ethical, and con
 <br><br>
 
 
-## ⚖️ [Governance & Responsible AI]()
+##  [Governance & Responsible AI]()
 
-We integrate AI Governance by Design into every solution.
+We embed **AI Governance by Design** into every solution — ensuring that intelligence is developed with responsibility, ethics, and human alignment from the ground up.
 
-Our approach aligns with:
+<b>
 
-[-]()  Brazilian AI Strategy
-[-]()  Global Responsible AI frameworks
-[-]()  Ethical AI principles (fairness, accountability, transparency)
+[***Our approach is guided by***:]()
 
-We ensure that all systems are:
+[-]()  🇧🇷 Brazilian AI Strategy  <br>
+[-]() - 🌍 Global Responsible AI frameworks  <br>
+[-]()  ⚖️ Core ethical principles: fairness, accountability, transparency  <br>
 
-[-]()  Explainable
-[-]()  Auditable
-[-]()  Secure
-[-]()  Human-aligned
+<br>
 
+[***We design systems that are***:]()
+
+<br>
+
+[-]()  Explainable  <br>
+[-]()  Auditable  <br>
+[-]()  Secure  <br>
+[-]()  Human-centered and aligned with societal values  <br>
+
+
+
+<br><br>
+
+
+##  [Governance, Risk & Compliance (GRC)]()
+
+At Mindful AI, compliance is a core pillar — not an afterthought.
+
+We operationalize governance through structured **risk management, regulatory alignment, and continuous oversight**.
+
+Our framework ensures alignment with:
+
+[-]()  🇧🇷 Brazilian AI Strategy  <br>
+[-]()  🇪🇺 EU AI Act  <br>
+[-]()  🔐 Data protection regulations (LGPD/GDPR principles) 
+
+<br>
+
+Our approach integrates:
+
+[-]()  Risk assessment and mitigation <br> 
+[-]()  Continuous monitoring, auditing, and lifecycle management  <br>
+[-]()  Regulatory compliance and documentation practices  <br>
+[-]()  Transparency, explainability, and verifiable trustworthiness — ensuring AI systems are interpretable, auditable, aligned with global standards, and grounded in truthful, evidence-based, and reproducible outputs  
 
 <br><br>
 
