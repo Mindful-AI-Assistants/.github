@@ -235,9 +235,11 @@ The Themplairs  Codex
 
 𖤐 **Mindful AI**  is an open-source organization born from a vision: to integrate technology, human consciousness, and ethical intelligence into a new paradigm of innovation.
 
-Founded by [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari)**; designer, software developer, psychologist, and researcher in Data Science and Humanistic AI, currently pursuing her fourth undergraduate degree at PUC–SP (Pontifícia Universidade Católica de São Paulo).
+Founded by [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari); designer, software developer, psychologist, and researcher in Data Science and Humanistic AI, currently pursuing her fourth undergraduate degree at PUC–SP (Pontifícia Universidade Católica de São Paulo).
 
 Her multidisciplinary journey bridges technology, human behavior, cognition, and consciousness, shaping the foundation of Mindful AI as a convergence of:
+
+<br>
 
 [𖤐]()  Intelligence <br>
 [𖤐]()  Ethics & Governance <br>
