@@ -362,20 +362,17 @@ Mindful AI Assistants provides a complete ecosystem of AI solutions designed to:
 
 
 
-<br><br><br>
+<br><br>
 
 
 ˚　　　　✦　　　.　　. 　 ˚　.　　　 . ✦　　　 　˚　　　　 . ★⋆　　　.   　　˚　✭　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　✭　.　　. 　 ˚　.˚　　🛸　🛸　　. 　 ˚　.　　 . ✦　　　 　˚　　　　 . ★⋆　.   　　˚　✯✭　 🛰　　　*　　 　　✦　　　.　　.　　　　*　　 　　✦　　　. 　　*　　 　🛰　　　✦　　　.  
 
 　✭　.　　. 　 ˚　.˚　　🛸　🛸　　. 　 ˚　.　　　　 . ✦　　　 　˚　　　　 . ★⋆　.   　　˚　✯✭　 🛰　　　*　　 　　✦　　　.　　.　　　　*　　 　　✦　　　. 　　*　　 　🛰　　　✦　　　.  
 
-<br>
-
- 
-### <p align="center"> ***LET’S BUILD A COMMUNITY WHERE [DIFFERENCE]() IS NOT [JUDGED]() , bBUT RECOGNIZED AS A [SOURCE OF INTELLIGENCE AND INNOVATION]()*** !
 
 
 <br><br>
+
 
 <!--
 ### <p align="center" style="font-size: 400px"> [*ੈ ✩‧₊˚༺ ☆ ༻ *ੈ✩‧₊˚](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
@@ -406,6 +403,10 @@ https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-
 
 
 
+<br><br><br>
+
+ #### <p align="center"> ***LET’S BUILD A COMMUNITY WHERE [DIFFERENCE]() IS NOT [JUDGED]() , bBUT RECOGNIZED AS A [SOURCE OF INTELLIGENCE AND INNOVATION]()*** !
+
 
 
  <br><br>
@@ -433,21 +434,21 @@ https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-
 
 ## [Core Technologies]()
 
-Generative AI
-Content generation, summarization, ideation, and creative intelligence
-Predictive AI
-Data-driven forecasting, pattern recognition, and strategic insights
-Adaptive AI Agents
+Generative AI <br>
+Content generation, summarization, ideation, and creative intelligence <br>
+Predictive AI <br>
+Data-driven forecasting, pattern recognition, and strategic insights <br>
+Adaptive AI Agents <br>
 Autonomous systems that learn, evolve, and act in dynamic environments
 
 <br><br>
 
 ## [Intelligent Systems]()
 
-[-]() Real-time assistants for coding, analysis, and decision support 
-[-]() Bots
-[-]() Task automation systems (customer service, operations, workflows)
-[-]() Agents
+[-]() Real-time assistants for coding, analysis, and decision support <br>
+[-]() Bots <br>
+[-]() Task automation systems (customer service, operations, workflows) <br>
+[-]() Agents <br>
 [-]() Autonomous decision-making systems with continuous learning capabilities
 
 <br><br>
@@ -457,9 +458,9 @@ Autonomous systems that learn, evolve, and act in dynamic environments
 
 Our solutions enable organizations to:
 
-[-]() optimize performance
-[-]() enhance productivity
-[-]() unlock data-driven strategies
+[-]() optimize performance <br>
+[-]() enhance productivity <br>
+[-]() unlock data-driven strategies <br>
 [-]() focus on high-impact human work
 
 <br><br>
@@ -471,12 +472,20 @@ We believe in collective intelligence.
 
 Our open-source model promotes:
 
-𖤐 collaboration
-𖤐 transparency
-𖤐 shared innovation
+<br>
 
-Everyone is invited to build, contribute, and evolve with us.
+𖤐 Collaboration <br>
+𖤐 Transparency <br>
+𖤐 Shared innovation
 
+<br>
+
+
+>[!IMPORTANT]
+>
+> 🖤 Everyone is invited to build, contribute, and evolve with us.
+> <br>
+>
 
 <br><br>
 
@@ -485,30 +494,41 @@ Everyone is invited to build, contribute, and evolve with us.
 
 We embrace the idea that:
 
-Technology is not only engineered — it is imagined, experienced, and lived.
+Technology [***Is Not Only***]() Engineered ;  It is [***Imagined***](), [***Experienced***](), and [***Lived***]().
 
-We explore the intersection of:
+<br>
 
-consciousness
-intelligence
-ethics
-human evolution
+[***We explore the intersection of:***]()
 
-At Mindful AI:
+<br>
 
-𖤐 code is intention
-𖤐 systems are extensions of thought
-𖤐 innovation is a collective awakening
+[-]() Consciousness <br>
+[-]() Intelligence <br>
+[-]() Ethics <br>
+[-]() Human evolution
+
+<br>
+
+[***At Mindful AI:***]()
+
+<br>
+
+𖤐 Code is intention <br>
+𖤐 Systems are extensions of thought <br>
+𖤐 Innovation is a collective awakening <br>
 
 <br><br>
+
 
 ## [Get Involved]()
 
 Join the Mindful AI ecosystem:
 
-contribute to projects
-share ideas
-collaborate on ethical AI solutions
+<br>
+
+[-]() Ccontribute to projects <br>
+[-]() Share ideas <br>
+[-]() Collaborate on ethical AI solutions
 
 
 <br><br>
@@ -648,8 +668,11 @@ collaborate on ethical AI solutions
 
 You can contribute in two ways:  
 
-1. Create an issue and share your idea ⚡️ (use **new idea label**).  
-2. Fork and submit a pull request with your idea — see [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹🔭๋
+<br>
+
+[1.]() Create an issue and share your idea ⚡️ (use **new idea label**).  
+[2.]() Fork and submit a pull request with your idea — see [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹🔭๋
+
 
 <br><br>
 
