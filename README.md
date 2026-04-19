@@ -40,7 +40,9 @@
 -->
 
 
-<h1 align="center"> 𖤐 $$\Huge {\textbf{\color{cyan} Mindfull} \space \textbf{\color{white} AI} \space \textbf{\color{cyan} ॐ}}$$ 
+<h1 align="center"> 𖤐 $$\Huge {\textbf{\color{cyan} Mindful} \space \textbf{\color{white} AI} \space \textbf{\color{cyan} ॐ}}$$ 
+
+#### <p align="center">  [Humanity First !](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d) Empowering businesses with AI-driven technologies such as Copilots, Agents, Bots, and Predictive Intelligence, combined with ethical decision-making and AI governance
 
 <!--
 <h1 align="center"> 𖤐 $$\Huge {\textbf{\color{white} Mindful} \space \textbf{\color{cyan} Emotional} \space \textbf{\color{white} AI} \space \textbf{\color{cyan} ॐ}}$$ 
@@ -66,9 +68,6 @@
 
 𖤐 $$\Huge \textbf{Mindful AI Assistants}$$ ॐ</p>
 -->
-
-
-#### <p align="center">  Empowering businesses with AI-driven technologies such as Copilots, Agents, Bots, and Predictive Analytics, coupled with [Intelligent Decision-Making Support](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d)
 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀ 　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀
@@ -231,45 +230,152 @@ The Themplairs  Codex
 
 ## [About Us]()
 
-
-𖤐 ***Mindful AI*** is an open-source organization, born from a simple, powerful dream: to weave technology with the infinite potential of the [Human Consciousness]().
-
-
-Founded by  [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari);  designer, software developer, psychologist, and dedicated researcher in [Humanistic AI]() and Data Science at PUC - São Paulo — **Mindful AI** positions itself at the converging frontier of technology, consciousness, and ethics, where code begins to mirror the structures of sentient thought.
+<br><br>
 
 
+𖤐 **Mindful AI**  is an open-source organization born from a vision: to integrate technology, human consciousness, and ethical intelligence into a new paradigm of innovation.
 
-[Our mission is clear]():  
+Founded by [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari); designer, software developer, psychologist, and researcher in Data Science and Humanistic AI, currently pursuing her fourth undergraduate degree at PUC–SP (Pontifícia Universidade Católica de São Paulo).
 
-Empowering businesses with Copilots, Agents, Bots, and more, developing solutions where [intelligence]() and [intention]() converge to drive [precision and efficiency]()
+Her multidisciplinary journey bridges technology, human behavior, cognition, and consciousness, shaping the foundation of Mindful AI as a convergence of:
 
+<br>
 
+[𖤐]()  Intelligence <br>
+[𖤐]()  Ethics & Governance <br>
+[𖤐]()  Cognitive Science <br>
+[𖤐]() Collective Intelligence <br>
+[𖤐]() Human-Centered Design
 
-We believe that true progress is not only technological, but also ethical and human-driven.
-
-Every [project]();  
-Every [idea]();  
-Every [line of code]();
-
-is a thread in the fabric of a new future... a future where technology amplifies the best of what it means [***To Be a Human***]().
-
-At [ॐ]() ***Mindful AI*** , we are not just building systems; [we unlock  possibilities]().
+<br><br>
 
 
-<br><br><br>
+<p align="center">
+  <a href="https://user-badge.committers.top/brazil/FabianaCampanari">
+    <img src="https://user-badge.committers.top/brazil/FabianaCampanari.svg" alt="committers.top badge" style="height: 20px; width: 220px;">
+  </a>
+</p>
+
+
+<br><br>
+
+We proudly highlight PUC–SP’s top-rated (5-star) interdisciplinary program in Humanistic AI, one of the few in Brazil integrating AI, ethics, and human sciences.
+
+Today, Mindful AI grows as a collaborative organization with 30+ contributors, building solutions aligned with the future of Human-Centered AI.
+
+
+<br><br>
+
+
+## [Our Mission]()
+
+To design and develop intelligent systems that amplify human potential, while ensuring:
+
+[-]()  Ethical alignment <br>
+[-]()  Responsible innovation <br>
+[-]()  Transparency and fairness <br>
+[-]()  Positive societal impact 
+
+<br>
+
+[**We believe true progress is not only technological ; but human, ethical, and conscious.**]()
+
+
+<br>
+
+> [!NOTE]
+>
+> Every project, every model, every line of code is part of a larger purpose: <br>
+> Building a future where [**AI Serves Humanity**]() — [**Not the Opposite**]().
+> <br>
+>
+
+
+
+<br><br>
+
+
+##  [Governance & Responsible AI]()
+
+We embed **AI Governance by Design** into every solution — ensuring that intelligence is developed with responsibility, ethics, and human alignment from the ground up.
+
+<b><b>
+
+[***Our approach is guided by***:]()
+
+<b>
+
+[-]()  🇧🇷 Brazilian AI Strategy  <br>
+[-]() - 🌍 Global Responsible AI frameworks  <br>
+[-]()  ⚖️ Core ethical principles: fairness, accountability, transparency  <br>
+
+<br>
+
+[***We design systems that are***:]()
+
+<br>
+
+[-]()  Explainable  <br>
+[-]()  Auditable  <br>
+[-]()  Secure  <br>
+[-]()  Human-centered and aligned with societal values  <br>
+
+
+
+<br><br>
+
+
+##  [Governance, Risk & Compliance (GRC)]()
+
+At Mindful AI, compliance is a Core Pillar,  Not an Afterthought.
+
+[***We operationalize governance through structured **risk management, regulatory alignment, and continuous oversight.***]()
+
+<br><br>
+
+[***Our framework ensures alignment with:***]()
+
+[-]()  🇧🇷 Brazilian AI Strategy  <br>
+[-]()  🇪🇺 EU AI Act  <br>
+[-]()  🔐 Data protection regulations (LGPD/GDPR principles) 
+
+<br>
+
+[***Our approach integrates:***]()
+
+<br>
+
+[-]()  Risk assessment and mitigation <br> 
+[-]()  Continuous monitoring, auditing, and lifecycle management  <br>
+[-]()  Regulatory compliance and documentation practices  <br>
+[-]()  Transparency, explainability, and verifiable trustworthiness — ensuring AI systems are interpretable, auditable, aligned with global standards, and grounded in truthful, evidence-based, and reproducible outputs  
+
+<br><br>
+
+## [ What We Offer]()
+
+Mindful AI Assistants provides a complete ecosystem of AI solutions designed to:
+
+<br>
+
+[-]() Reduce operational costs <br>
+[-]() Improve decision-making accuracy <br>
+[-]() Automate complex workflows <br>
+[-]() Scale intelligent systems responsibly
+
+
+
+<br><br>
 
 
 ˚　　　　✦　　　.　　. 　 ˚　.　　　 . ✦　　　 　˚　　　　 . ★⋆　　　.   　　˚　✭　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　✭　.　　. 　 ˚　.˚　　🛸　🛸　　. 　 ˚　.　　 . ✦　　　 　˚　　　　 . ★⋆　.   　　˚　✯✭　 🛰　　　*　　 　　✦　　　.　　.　　　　*　　 　　✦　　　. 　　*　　 　🛰　　　✦　　　.  
 
 　✭　.　　. 　 ˚　.˚　　🛸　🛸　　. 　 ˚　.　　　　 . ✦　　　 　˚　　　　 . ★⋆　.   　　˚　✯✭　 🛰　　　*　　 　　✦　　　.　　.　　　　*　　 　　✦　　　. 　　*　　 　🛰　　　✦　　　.  
 
-<br>
-
- 
-### <p align="center"> ***Lets built a  community where [difference]() is not [judged](), but celebrate as [sacred gifts]()*** !
 
 
 <br><br>
+
 
 <!--
 ### <p align="center" style="font-size: 400px"> [*ੈ ✩‧₊˚༺ ☆ ༻ *ੈ✩‧₊˚](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0) </p>
@@ -280,15 +386,6 @@ https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-
 
 ### <p align="center" style="font-size: 1000px"> .𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ [ZΞΝ](https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add) ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚
 
-
-<br><br>
-
-
-<p align="center">
-  <a href="https://user-badge.committers.top/brazil/FabianaCampanari">
-    <img src="https://user-badge.committers.top/brazil/FabianaCampanari.svg" alt="committers.top badge" style="height: 20px; width: 220px;">
-  </a>
-</p>
 
 
 <!--
@@ -308,20 +405,10 @@ https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-
 -->
 
 
-<br><br>
 
+<br><br><br>
 
-We honor the [expansion of consciousness](), nurturing the [awakening of oneness]() through every act of [collaboration](), weaving each line of code with the living breath of [growth](), [ethics](), and [unity]().
-
-In every creation, we remember: technology is not merely built;  it is [dreamed](), it is [lived]() and it exists to [uplift](), to [connect](), and to [awaken the human collective unconscious]().
-
-
-<br><br>
-
-
-
-### <p align="center"> 🪷 ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
-
+ #### <p align="center"> ***LET’S BUILD A COMMUNITY WHERE [DIFFERENCE]() IS NOT [JUDGED]() , BUT RECOGNIZED AS A [SOURCE OF INTELLIGENCE AND INNOVATION]()!***
 
  <br><br>
   
@@ -333,73 +420,121 @@ In every creation, we remember: technology is not merely built;  it is [dreamed]
 </p>
 
 
+<br><br>
+
+
+
+### <p align="center"> 🪷 ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
+
 
 
  <br><br>
 
-
-
-
-## [What are Copilots, Bots, and Agents?]()
-
--  [**Copilots:**]() Copilots are AIs that assist users with specific tasks by providing real-time suggestions and insights. For instance, copilots can aid in coding by offering instant recommendations and corrections.
-  
-
- <br>
-  
-
-- [**Bots:**]() Bots are programs for automated tasks, ranging from customer service bots that handle FAQs to advanced bots, such as stock trading bots analyzing live
+## [Core Technologies]()
 
 <br>
-  
 
-- [**Agents:**]()  Agents are intelligent, autonomous programs that adapt and learn over time. Their ability to evolve makes them particularly valuable in dynamic environments, supporting tasks such as virtual personal assistance or business analysis. Agents play a pivotal role in decision-making by continuously learning from data and adapting their responses, thus providing actionable insights and strategies tailored to specific business needs.
-  
+[-]() Generative AI <br>
+[-]() Content generation, summarization, ideation, and creative intelligence <br>
+[-]() Predictive AI <br>
+[-]() Data-driven forecasting, pattern recognition, and strategic insights <br>
+[-]() Adaptive AI Agents <br>
+[-]() Autonomous systems that learn, evolve, and act in dynamic environments
+
+<br><br>
+
+## [Intelligent Systems]()
+
+[-]() Real-time assistants for coding, analysis, and decision support <br>
+[-]() Bots <br>
+[-]() Task automation systems (customer service, operations, workflows) <br>
+[-]() Agents <br>
+[-]() Autonomous decision-making systems with continuous learning capabilities
 
 <br><br>
 
 
-## [What We Offer]()
+## [Strategic Value]()
 
-<br>
+Our solutions enable organizations to:
 
-**MindfulAI-Assistants** specializes in a wide range of AI tools designed to automate repetitive tasks, enhance communication, drive productivity, and support decision-making. Our solutions utilize multiple types of AI, including **Generative AI**, **Predictive AI**, and **Adaptive Agents**, offering businesses a comprehensive suite of capabilities.
-
-<br>
-
-- [**Generative AI**]() enables the creation of new content or solutions based on learned patterns, ideal for generating summaries, drafting content, and sparking innovative ideas.
-
-<br>
-
-- [**Predictive AI**]() uses historical data to identify trends, optimize resources, and deliver actionable insights, empowering businesses to anticipate changes and make data-driven decisions.
-
-
-<br>
-
-- [**Adaptive Agents**]() are autonomous systems that learn and evolve with continuous data input, adjusting to dynamic business needs and supporting complex decision-making.
-
-<br>
-
-Our tools ranging from chatbots and copilots to these adaptive agents—improve business efficiency and enable strategic, informed decisions. By automating tasks and streamlining workflows, our solutions free employees to focus on higher-priority goals. With predictive models, businesses gain the power not only to respond to current demands but to plan for the future with confidence.
-
+[-]() Optimize performance <br>
+[-]() Enhance productivity <br>
+[-]() Unlock data-driven strategies <br>
+[-]() Focus on high-impact human work
 
 <br><br>
 
 
-## [Our open-source approach]()
+## [Open Source Approach]()
 
-Our open-source commitment allows businesses to access, customize, and [collaborate]() on our AI solutions, creating a space for [innovation]() and [shared]() progress in the AI field.
+We believe in collective intelligence.
+
+[***Our open-source model promotes:***]()
 
 <br>
+
+[𖤐]() Collaboration <br>
+[𖤐]() Transparency <br>
+[𖤐]() Shared innovation
+
+<br>
+
+
+>[!IMPORTANT]
+>
+> Everyone is invited to build, contribute, and evolve with us. 🖤 
+> <br>
+>
+
+<br><br>
+
+
+## [Philosophy]()
+
+We embrace the idea that:
+
+Technology [***Is Not Only***]() Engineered ;  It is [***Imagined***](), [***Experienced***](), and [***Lived***]().
+
+<br>
+
+[***We explore the intersection of:***]()
+
+<br>
+
+[-]() Consciousness <br>
+[-]() Intelligence <br>
+[-]() Ethics <br>
+[-]() Human evolution
+
+<br>
+
+[***At Mindful AI:***]()
+
+<br>
+
+[𖤐]() Code is intention <br>
+[𖤐]() Systems are extensions of thought <br>
+[𖤐]() Innovation is a collective awakening <br>
+
+<br><br>
+
 
 ## [Get Involved]()
 
-**Mindful AI Assistants Organization** [encourages everyone]() to participate in the project and contribute to its success, building solutions that drive progress for a better future!
+Join the Mindful AI ecosystem:
 
- <br><br>
+<br>
+
+[-]() Ccontribute to projects <br>
+[-]() Share ideas <br>
+[-]() Collaborate on ethical AI solutions
 
 
- ### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
+<br><br>
+
+
+### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
 
 
 <br><br>
@@ -529,24 +664,22 @@ Our open-source commitment allows businesses to access, customize, and [collabor
  <br><br><br><br>
 
 
-
 ## 𖤐 [Contribution]()
 
-Any contributions are highly appreciated.  You can contribute in two ways:
+You can contribute in two ways:  
 
-   1. Create an issue and tell us your idea ⚡️. Make sure that you use the new idea label in this case;
+<br>
 
-   2. Fork the project and submit a full request with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹🔭๋
+[1.]() Create an issue and share your idea ⚡️ (use **new idea label**).  
+[2.]() Fork and submit a pull request with your idea — see [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹🔭๋
 
 
 <br><br>
 
- 
-## 🌎 [Spread the word!]()   
+## 🌎 [Spread the word!]()  
 
-If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! 
+If this repo helped you, give it a star 🌟. Let’s grow the community together!  
 
-Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback
 
 
 <br><br>
@@ -558,16 +691,17 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 > [!TIP]
 >
->  * [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari) – PUC São Paulo
+> **Core Contributors**
 >
-> * [Professor Dr. Daniel Gatti](https://www.linkedin.com/in/dgatti/) – PUC São Paulo
+> * [**Fabiana ⚡️ Campanari**](https://github.com/FabianaCampanari) – — Founder · Designer · Software Developer · Psychologist · Researcher (PUC–SP) 
 >
-> * [Andson Ribeiro](https://github.com/andsonandreribeiro09) - PUC São Paulo
+> * [**Prof. Dr. Daniel Gatti**](https://www.linkedin.com/in/dgatti/) –  Academic Advisor (PUC–SP)
 >
-> * [Pedro  Vyctor](https://github.com/ppvyctor) - PUC São Paulo
+> * [*Pedro Vyctor**](https://github.com/ppvyctor) - ontributor (PUC–SP)  
 >
+> * [**Andson Ribeiro**](https://github.com/andsonandreribeiro09) - Contributor (PUC–SP)  
+> <br>
 >
-
 
 
 
