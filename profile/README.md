@@ -408,7 +408,7 @@ https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-
 
 <br><br><br>
 
- #### <p align="center"> ***LET’S BUILD A COMMUNITY WHERE [DIFFERENCE]() IS NOT [JUDGED]() , BUT RECOGNIZED AS A [SOURCE OF INTELLIGENCE AND INNOVATION]()!
+ #### <p align="center"> ***LET’S BUILD A COMMUNITY WHERE [DIFFERENCE]() IS NOT [JUDGED]() , BUT RECOGNIZED AS A [SOURCE OF INTELLIGENCE AND INNOVATION]()!***
 
  <br><br>
   
@@ -691,16 +691,17 @@ If this repo helped you, give it a star 🌟. Let’s grow the community togethe
 
 > [!TIP]
 >
->  * [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari) – PUC São Paulo
+> **Core Contributors**
 >
-> * [Professor Dr. Daniel Gatti](https://www.linkedin.com/in/dgatti/) – PUC São Paulo
+> * [**Fabiana ⚡️ Campanari**](https://github.com/FabianaCampanari) – — Founder · Designer · Software Developer · Psychologist · Researcher (PUC–SP) 
 >
-> * [Andson Ribeiro](https://github.com/andsonandreribeiro09) - PUC São Paulo
+> * [**Prof. Dr. Daniel Gatti**](https://www.linkedin.com/in/dgatti/) –  Academic Advisor (PUC–SP)
 >
-> * [Pedro  Vyctor](https://github.com/ppvyctor) - PUC São Paulo
+> * [*Pedro Vyctor**](https://github.com/ppvyctor) - ontributor (PUC–SP)  
 >
+> * [**Andson Ribeiro**](https://github.com/andsonandreribeiro09) - Contributor (PUC–SP)  
+> <br>
 >
-
 
 
 
