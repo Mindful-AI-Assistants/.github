@@ -275,7 +275,7 @@ To design and develop intelligent systems that amplify human potential, while en
 
 <br>
 
-We believe true progress is not only technological ; but human, ethical, and conscious.
+[**We believe true progress is not only technological ; but human, ethical, and conscious.**]()
 
 
 <br>
@@ -296,9 +296,11 @@ We believe true progress is not only technological ; but human, ethical, and con
 
 We embed **AI Governance by Design** into every solution — ensuring that intelligence is developed with responsibility, ethics, and human alignment from the ground up.
 
-<b>
+<b><b>
 
 [***Our approach is guided by***:]()
+
+<b>
 
 [-]()  🇧🇷 Brazilian AI Strategy  <br>
 [-]() - 🌍 Global Responsible AI frameworks  <br>
@@ -324,9 +326,11 @@ We embed **AI Governance by Design** into every solution — ensuring that intel
 
 At Mindful AI, compliance is a core pillar — not an afterthought.
 
-We operationalize governance through structured **risk management, regulatory alignment, and continuous oversight**.
+[]()**We operationalize governance through structured **risk management, regulatory alignment, and continuous oversight**.
 
-Our framework ensures alignment with:
+<br><br>
+
+[***Our framework ensures alignment with:***]()
 
 [-]()  🇧🇷 Brazilian AI Strategy  <br>
 [-]()  🇪🇺 EU AI Act  <br>
@@ -334,7 +338,9 @@ Our framework ensures alignment with:
 
 <br>
 
-Our approach integrates:
+[***Our approach integrates:***]()
+
+<br>
 
 [-]()  Risk assessment and mitigation <br> 
 [-]()  Continuous monitoring, auditing, and lifecycle management  <br>
@@ -347,12 +353,12 @@ Our approach integrates:
 
 Mindful AI Assistants provides a complete ecosystem of AI solutions designed to:
 
-reduce operational costs
-improve decision-making accuracy
-automate complex workflows
-scale intelligent systems responsibly
+<br>
 
-<br><br>
+[-]() Reduce operational costs <br>
+[-]() Improve decision-making accuracy <br>
+[-]() Automate complex workflows <br>
+[-]() Scale intelligent systems responsibly
 
 
 
