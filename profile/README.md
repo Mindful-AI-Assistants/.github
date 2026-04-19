@@ -231,6 +231,9 @@ The Themplairs  Codex
 
 ## [About Us]()
 
+<br><br>
+
+
 𖤐 **Mindful AI**  is an open-source organization born from a vision: to integrate technology, human consciousness, and ethical intelligence into a new paradigm of innovation.
 
 Founded by [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari)**; designer, software developer, psychologist, and researcher in Data Science and Humanistic AI, currently pursuing her fourth undergraduate degree at PUC–SP (Pontifícia Universidade Católica de São Paulo).
@@ -242,6 +245,18 @@ Her multidisciplinary journey bridges technology, human behavior, cognition, and
 [-]() Cognitive Science
 [-]() Collective Intelligence
 
+<br><br>
+
+
+<p align="center">
+  <a href="https://user-badge.committers.top/brazil/FabianaCampanari">
+    <img src="https://user-badge.committers.top/brazil/FabianaCampanari.svg" alt="committers.top badge" style="height: 20px; width: 220px;">
+  </a>
+</p>
+
+
+<br><br>
+
 We proudly highlight PUC–SP’s top-rated (5-star) interdisciplinary program in Humanistic AI, one of the few in Brazil integrating AI, ethics, and human sciences.
 
 Today, Mindful AI grows as a collaborative organization with 30+ contributors, building solutions aligned with the future of Human-Centered AI.
@@ -250,7 +265,7 @@ Today, Mindful AI grows as a collaborative organization with 30+ contributors, b
 <br><br>
 
 
-### [Our Mission]()
+## [Our Mission]()
 
 To design and develop intelligent systems that amplify human potential, while ensuring:
 
@@ -327,15 +342,6 @@ https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-
 ### <p align="center" style="font-size: 1000px"> .𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ [ZΞΝ](https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add) ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚
 
 
-<br><br>
-
-
-<p align="center">
-  <a href="https://user-badge.committers.top/brazil/FabianaCampanari">
-    <img src="https://user-badge.committers.top/brazil/FabianaCampanari.svg" alt="committers.top badge" style="height: 20px; width: 220px;">
-  </a>
-</p>
-
 
 <!--
 
@@ -355,11 +361,6 @@ https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-
 
 
 
-<br><br>
-
-
-
-### <p align="center"> 🪷 ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
 
 
  <br><br>
@@ -371,6 +372,12 @@ https://github.com/Mindful-AI-Assistants/.github/assets/113218619/3881ab54-e612-
   </a>
 </p>
 
+
+<br><br>
+
+
+
+### <p align="center"> 🪷 ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
 
 
 
