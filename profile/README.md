@@ -239,10 +239,10 @@ Founded by [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari)**; de
 
 Her multidisciplinary journey bridges technology, human behavior, cognition, and consciousness, shaping the foundation of Mindful AI as a convergence of:
 
-[-]() Intelligence
-[-]() Ethics & Governance
-[-]() Cognitive Science
-[-]() Collective Intelligence
+[-]() Intelligence <br>
+[-]() Ethics & Governance <br>
+[-]() Cognitive Science <br>
+[-]() Collective Intelligence 
 
 <br><br>
 
@@ -268,16 +268,25 @@ Today, Mindful AI grows as a collaborative organization with 30+ contributors, b
 
 To design and develop intelligent systems that amplify human potential, while ensuring:
 
-[-]()  Ethical alignment
-[-]()  Responsible innovation
-[-]()  Transparency and fairness
-[-]()  Positive societal impact
+[-]()  Ethical alignment <br>
+[-]()  Responsible innovation <br>
+[-]()  Transparency and fairness<br>
+[-]()  Positive societal impact 
+
+<br>
 
 We believe true progress is not only technological ; but human, ethical, and conscious.
 
-Every project, every model, every line of code is part of a larger purpose:
 
-building a future where AI serves humanity — not the opposite.
+<br>
+
+> [!NOTE]
+>
+> Every project, every model, every line of code is part of a larger purpose:
+> Building a future where AI serves humanity — not the opposite.
+> <br>
+>
+
 
 
 <br><br>
