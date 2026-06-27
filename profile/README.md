@@ -77,7 +77,7 @@
  <br>
 
 
-##### <p align="center"> 𖤐 [On the Economic and Governance Mechanisms for the Agentic Web:  A Global South Perspective  by Diogo Cortiz - Beatriz Rocha - Vagner F. de Santana - Henrique S. Xavier - Jacqueline Custodio](https://github.com/Mindful-AI-Assistants/.github/blob/fc6401983a4cb7da549fa6254281d128fcbe303c/On%20the%20Economic%20and%20Governance%20Mechanisms%20forthe%20Agentic%20Web%20-%20%20A%20Global%20South%20Perspective.pdf)
+##### <p align="center"> 𖤐 [On the Economic and Governance Mechanisms for the Agentic Web:  A Global South Perspective](https://github.com/Mindful-AI-Assistants/.github/blob/fc6401983a4cb7da549fa6254281d128fcbe303c/On%20the%20Economic%20and%20Governance%20Mechanisms%20forthe%20Agentic%20Web%20-%20%20A%20Global%20South%20Perspective.pdf)  by [Diogo Cortiz]() - [Beatriz Rocha]() - [Vagner F. de Santana]() - [Henrique S. Xavier]() - [Jacqueline Custodio]()
 
 
 
