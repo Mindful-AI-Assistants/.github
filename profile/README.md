@@ -153,7 +153,7 @@ Her multidisciplinary journey bridges technology, human behavior, cognition, and
 [𖤐]() Collective Intelligence <br>
 [𖤐]() Human-Centered Design
 
-<br><br>
+<br><br><br>
 
 
 <p align="center">
@@ -163,7 +163,7 @@ Her multidisciplinary journey bridges technology, human behavior, cognition, and
 </p>
 
 
-<br><br>
+<br><br><br>
 
 We proudly highlight PUC–SP’s [top-rated (5-star ⭐)](https://j.pucsp.br/noticia/guia-da-faculdade-2024-puc-sp-possui-sete-cursos-com-cinco-estrelas) program in Data Science and Artificial Intelligence (Humanistic AI), the only one in Brazil integrating AI, Ethics, Governance, and Responsible AI in alignment with the EU AI Act.
 
