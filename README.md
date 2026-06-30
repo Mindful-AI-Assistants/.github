@@ -13,7 +13,7 @@
 .　　　　　　　　　　　　　. 　　✦⠀　   　　　,　　　　　　　　　*
 　　　　　⠀　　　　⠀　　,
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　 　　⠀　　　⠀.　
- 　　˚　　　⠀　⠀  　　,　                <p align="center">  [𝛹](https://github.com/user-attachments/assets/4d29c964-8c36-456e-8a04-68fab9ac710c)  𝑬𝒗𝒆𝒓𝒚 𝒐𝒏𝒆 𝒊𝒔 𝒖𝒏𝒊𝒒𝒖𝒆 𝒊𝒏 𝒕𝒉𝒆𝒊𝒓 𝒐𝒘𝒏 𝒘𝒂𝒚   .⭒⋅⊹｡
+ 　　˚　　　⠀　⠀  　　,　  <p align="center">  [𝛹](https://github.com/user-attachments/assets/4d29c964-8c36-456e-8a04-68fab9ac710c)  𝑬𝒗𝒆𝒓𝒚 𝒐𝒏𝒆 𝒊𝒔 𝒖𝒏𝒊𝒒𝒖𝒆 𝒊𝒏 𝒕𝒉𝒆𝒊𝒓 𝒐𝒘𝒏 𝒘𝒂𝒚   .⭒⋅⊹｡
 　　　　　　　　　　　　　.
 　　　　　　*⠀　　⠀  　　　　　　　　　　　　
 
@@ -46,6 +46,8 @@
  <br>
 
 ###### <p align="center"> ⋆ Reference Readings ⋆
+
+<br>
 
 ###### <p align="center"> 𖤐 [On the Economic and Governance Mechanisms for the Agentic Web:  A Global South Perspective](https://github.com/Mindful-AI-Assistants/.github/blob/fc6401983a4cb7da549fa6254281d128fcbe303c/On%20the%20Economic%20and%20Governance%20Mechanisms%20forthe%20Agentic%20Web%20-%20%20A%20Global%20South%20Perspective.pdf), 𖤐
 
@@ -151,7 +153,7 @@ Her multidisciplinary journey bridges technology, human behavior, cognition, and
 [𖤐]() Collective Intelligence <br>
 [𖤐]() Human-Centered Design
 
-<br><br>
+<br><br><br>
 
 
 <p align="center">
@@ -161,7 +163,7 @@ Her multidisciplinary journey bridges technology, human behavior, cognition, and
 </p>
 
 
-<br><br>
+<br><br><br>
 
 We proudly highlight PUC–SP’s [top-rated (5-star ⭐)](https://j.pucsp.br/noticia/guia-da-faculdade-2024-puc-sp-possui-sete-cursos-com-cinco-estrelas) program in Data Science and Artificial Intelligence (Humanistic AI), the only one in Brazil integrating AI, Ethics, Governance, and Responsible AI in alignment with the EU AI Act.
 
