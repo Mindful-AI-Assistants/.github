@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn AI for Free</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background: radial-gradient(circle at top, #050816, #020617);
+            color: #e5e7eb;
+        }
+
+        /* HEADER */
+        header {
+            text-align: center;
+            padding: 70px 20px 30px;
+        }
+
+        h1 {
+            font-size: 44px;
+            margin: 0;
+            background: linear-gradient(90deg, #22d3ee, #38bdf8, #2dd4bf);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .subtitle {
+            color: #94a3b8;
+            margin-top: 10px;
+            font-size: 15px;
+        }
+
+        /* SEARCH */
+        input {
+            margin-top: 25px;
+            padding: 14px 16px;
+            width: 320px;
+            border-radius: 14px;
+            border: 1px solid #1f2937;
+            background: #0b1220;
+            color: white;
+            outline: none;
+            transition: 0.3s;
+        }
+
+        input:focus {
+            border-color: #2dd4bf;
+            box-shadow: 0 0 18px rgba(45, 212, 191, 0.35);
+        }
+
+        /* GRID */
+        .container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 22px;
+            padding: 40px;
+            max-width: 1100px;
+            margin: auto;
+        }
+
+        /* CARD */
+        .card {
+            background: linear-gradient(145deg, #0b1220, #0a0f1d);
+            border: 1px solid #1f2937;
+            padding: 22px;
+            border-radius: 18px;
+            transition: 0.35s;
+            position: relative;
+            overflow: hidden;
+        }
+
+        /* glow turquesa */
+        .card::before {
+            content: "";
+            position: absolute;
+            top: -60%;
+            left: -60%;
+            width: 220%;
+            height: 220%;
+            background: radial-gradient(circle, rgba(45, 212, 191, 0.10), transparent 60%);
+            transform: rotate(25deg);
+        }
+
+        .card:hover {
+            transform: translateY(-8px);
+            border-color: #2dd4bf;
+            box-shadow: 0 15px 40px rgba(45, 212, 191, 0.18);
+        }
+
+        /* TEXT */
+        .card h2 {
+            margin: 0;
+            font-size: 20px;
+            position: relative;
+        }
+
+        .card p {
+            font-size: 14px;
+            color: #94a3b8;
+            position: relative;
+        }
+
+        /* TAG */
+        .tag {
+            display: inline-block;
+            font-size: 11px;
+            padding: 5px 9px;
+            border-radius: 10px;
+            background: #0f172a;
+            border: 1px solid #1f2937;
+            margin-top: 10px;
+            color: #2dd4bf;
+            position: relative;
+        }
+
+        /* LINK */
+        a {
+            display: inline-block;
+            margin-top: 12px;
+            color: #2dd4bf;
+            text-decoration: none;
+            font-weight: bold;
+            position: relative;
+        }
+
+        a:hover {
+            text-shadow: 0 0 10px rgba(45, 212, 191, 0.6);
+        }
+
+        /* FOOTER */
+        footer {
+            text-align: center;
+            padding: 50px 20px;
+            color: #64748b;
+            font-size: 13px;
+        }
+
+        footer span {
+            color: #2dd4bf;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>🪷 Learn AI for Free</h1>
+        <div class="subtitle">Curated learning from the world's leading AI companies</div>
+
+        <input id="search" placeholder="Search OpenAI, Google, CUDA...">
+    </header>
+
+    <div class="container" id="grid">
+
+        <div class="card">
+            <h2>🤖 OpenAI</h2>
+            <p>GPTs, Agents & Prompt Engineering</p>
+            <span class="tag">LLMs</span><br>
+            <a href="https://academy.openai.com" target="_blank">Explore course →</a>
+        </div>
+
+        <div class="card">
+            <h2>🧠 Anthropic</h2>
+            <p>Claude & AI Safety</p>
+            <span class="tag">Safety</span><br>
+            <a href="https://anthropic.skilljar.com" target="_blank">Explore course →</a>
+        </div>
+
+        <div class="card">
+            <h2>🌈 Google</h2>
+            <p>AI, ML & Gemini ecosystem</p>
+            <span class="tag">Cloud AI</span><br>
+            <a href="https://grow.google/ai" target="_blank">Explore course →</a>
+        </div>
+
+        <div class="card">
+            <h2>⚡ NVIDIA</h2>
+            <p>CUDA & GPU Computing</p>
+            <span class="tag">Compute</span><br>
+            <a href="https://developer.nvidia.com/cuda" target="_blank">Explore course →</a>
+        </div>
+
+        <div class="card">
+            <h2>☁ AWS</h2>
+            <p>Machine Learning & Cloud AI</p>
+            <span class="tag">Cloud</span><br>
+            <a href="https://skillbuilder.aws" target="_blank">Explore course →</a>
+        </div>
+
+        <div class="card">
+            <h2>🤗 Hugging Face</h2>
+            <p>Transformers & Open Source AI</p>
+            <span class="tag">NLP</span><br>
+            <a href="https://huggingface.co/learn" target="_blank">Explore course →</a>
+        </div>
+
+    </div>
+
+    <footer>
+        ✨ Built with curiosity and mindful intelligence <br>
+        by <span>Mindful AI</span> 🪷
+    </footer>
+
+    <script>
+
+        const search = document.getElementById("search");
+        const cards = document.querySelectorAll(".card");
+
+        search.addEventListener("input", () => {
+
+            const value = search.value.toLowerCase();
+
+            cards.forEach(card => {
+
+                card.style.display =
+                    card.innerText.toLowerCase().includes(value)
+                        ? "block"
+                        : "none";
+
+            });
+
+        });
+
+    </script>
+
+</body>
+
+</html>
