@@ -272,26 +272,16 @@ Mindful AI Assistants provides a complete ecosystem of AI solutions designed to:
 
 
 
-<br><br>
+<br>
 
 
-˚　　　　✦　　　.　　. 　 ˚　.　　　 . ✦　　　 　˚　　　　 . ★⋆　　　.   　　˚　✭　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　✭　.　　. 　 ˚　.˚　　🛸　🛸　　. 　 ˚　.　　 . ✦　　　 　˚　　　　 . ★⋆　.   　　˚　✯✭　 🛰　　　*　　 　　✦　　　.　　.　　　　*　　 　　✦　　　. 　　*　　 　🛰　　　✦　　　.  
-
-　✭　.　　. 　 ˚　.˚　　🛸　🛸　　. 　 ˚　.　　　　 . ✦　　　 　˚　　　　 . ★⋆　.   　　˚　✯✭　 🛰　　　*　　 　　✦　　　.　　.　　　　*　　 　　✦　　　. 　　*　　 　🛰　　　✦　　　.  
+✭　.　　. 　   ˚　.˚　  　🛸　. 　 ˚　.　　　　 . ✦　　　 　˚　　　　 . ⋆　.   　　˚　✯ 　　*　　 　　✦　　　.　　.　　　　*　　 　　　　. 　　 ˚　　　　 . ⋆　.  　　 　　　　　.   . ⋆　. ✦　
 
 
+### <p align="center" style="font-size: 1000px"> .𖥔 ݁ ˖ִ ࣪ ⊹˚. ݁ [ZΞΝ](https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add) ⊹˚. ݁ ₊ 𖥔 ݁ 
 
-<br><br>
+<br>
 
-
-
-### <p align="center" style="font-size: 1000px"> .𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ [ZΞΝ](https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add) ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚
-
-
-
-
-
-<br><br><br>
 
  #### <p align="center"> ***LET’S BUILD A COMMUNITY WHERE [DIFFERENCE]() IS NOT [JUDGED]() , BUT RECOGNIZED AS A [SOURCE OF INTELLIGENCE AND INNOVATION]()!***
 
