@@ -609,8 +609,13 @@ Join the Mindful AI ecosystem:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0ef82854-830a-4016-92d3-3d1bdb97edeb" />
+  
 </p>
 
+
+#### <p align="center"> [***Learn AI for Free from the world's leading AI companies 🪷  turn knowledge into wisdom***](https://jazzy-gingersnap-38b5e2.netlify.app/)
+
+<br>
 
 ### <p align="center">  🦋˖𓂃🌸˖ ִֶָ🦩˖·🎀˳⋆ ִֶָ🌺 ִֶ˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖🎀˳⋆ ִֶָ🌺 ִֶ  ZΞΝ  🌷𓍢 ִֶָ🍄⋆˳·🌸˖ ִֶָ🌷𓍢˖·🌹˖˳·🦩˳ ִֶ˖⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖·🌸˖🍄⋆˳·🌸˖ ִֶָ 🌷
 
