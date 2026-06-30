@@ -215,8 +215,6 @@ We embed [**AI Governance by Design**]() into every solution — ensuring that i
 [-]()  Human-centered and aligned with societal values  <br>
 
 
-
-
 <br><br>
 
 
@@ -224,9 +222,9 @@ We embed [**AI Governance by Design**]() into every solution — ensuring that i
 
 <br>
 
-*At Mindful AI, Compliance is a Core Pillar,  Not an Afterthought.*
+<sub>At Mindful AI, Compliance is a Core Pillar, Not an Afterthought.</sub>
 
-[***We operationalize governance through structured risk management, regulatory alignment, and continuous oversight.***]()
+We operationalize governance through structured risk management, regulatory alignment, and continuous oversight.
 
 <br>
 
