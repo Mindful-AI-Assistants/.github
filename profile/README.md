@@ -574,7 +574,7 @@ If this repo helped you, give it a star 🌟. Let’s grow the community togethe
 
 ###### <p align="center"> *Showcasing our top contributors — explore the [full community](https://github.com/orgs/Mindful-AI-Assistants/people) of 42+ collaborators*
 
-<br>
+<br><br>
 
 > [!TIP]
 >
