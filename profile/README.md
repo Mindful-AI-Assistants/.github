@@ -165,7 +165,7 @@ Today, Mindful AI grows as a collaborative organization with 42+ contributors, b
 
 ## [Our Mission]()
 
-To design and develop intelligent systems that amplify human potential, while ensuring:
+</sub>To design and develop intelligent systems that amplify human potential, while ensuring:</sub>
 
 [-]()  Ethical alignment <br>
 [-]()  Responsible innovation <br>
@@ -174,10 +174,10 @@ To design and develop intelligent systems that amplify human potential, while en
 
 <br>
 
-[**We believe true progress is not only technological ; but human, ethical, and conscious.**]()
+We believe true progress is not only technological , but [**human**](), [**ethical**](), and [**conscious.**]()
 
 
-<br>
+<br><br>
 
 > [!IMPORTANT]
 >
@@ -191,13 +191,11 @@ To design and develop intelligent systems that amplify human potential, while en
 
 ##  [Governance & Responsible AI]()
 
-We embed [**AI Governance by Design**]() into every solution — ensuring that intelligence is developed with responsibility, ethics, and human alignment from the ground up.
+</sub>We embed [**AI Governance by Design**]() into every solution — ensuring that intelligence is developed with responsibility, ethics, and human alignment from the ground up.</sub>
 
 <b><b>
 
 [***Our approach is guided by***:]()
-
-<b>
 
 [-]()  🇧🇷 Brazilian AI Strategy  <br>
 [-]() 🌍 Global Responsible AI frameworks  <br>
@@ -206,8 +204,6 @@ We embed [**AI Governance by Design**]() into every solution — ensuring that i
 <br>
 
 [***We design systems that are***:]()
-
-<br>
 
 [-]()  Explainable  <br>
 [-]()  Auditable  <br>
@@ -220,11 +216,9 @@ We embed [**AI Governance by Design**]() into every solution — ensuring that i
 
 ##  [Governance, Risk & Compliance (GRC)]()
 
-<br>
+At Mindful AI, Compliance is a Core Pillar, Not an Afterthought.
 
-<sub>At Mindful AI, Compliance is a Core Pillar, Not an Afterthought.</sub>
-
-We operationalize governance through structured risk management, regulatory alignment, and continuous oversight.
+<sub>We operationalize governance through structured risk management, regulatory alignment, and continuous oversight.</sub>
 
 <br>
 
@@ -238,18 +232,19 @@ We operationalize governance through structured risk management, regulatory alig
 
 [***Our approach integrates:***]()
 
-<br>
-
 [-]()  Risk assessment and mitigation <br> 
+
 [-]()  Continuous monitoring, auditing, and lifecycle management  <br>
+
 [-]()  Regulatory compliance and documentation practices  <br>
+
 [-]()  Transparency, explainability, and verifiable trustworthiness — ensuring AI systems are interpretable, auditable, aligned with global standards, and grounded in truthful, evidence-based, and reproducible outputs  
 
 <br><br>
 
 ## [What We Offer]()
 
-Mindful AI Assistants provides a complete ecosystem of AI solutions designed to:
+</sub>Mindful AI Assistants provides a complete ecosystem of AI solutions designed to:</sub>
 
 <br>
 
@@ -257,8 +252,6 @@ Mindful AI Assistants provides a complete ecosystem of AI solutions designed to:
 [-]() Improve decision-making accuracy <br>
 [-]() Automate complex workflows <br>
 [-]() Scale intelligent systems responsibly
-
-
 
 <br>
 
@@ -295,8 +288,6 @@ Mindful AI Assistants provides a complete ecosystem of AI solutions designed to:
 
 ## [Core Technologies]()
 
-<br>
-
 [-]() Generative AI <br>
 [-]() Content generation, summarization, ideation, and creative intelligence <br>
 [-]() Predictive AI <br>
@@ -319,7 +310,7 @@ Mindful AI Assistants provides a complete ecosystem of AI solutions designed to:
 
 ## [Strategic Value]()
 
-Our solutions enable organizations to:
+</sub>Our solutions enable organizations to:</sub>
 
 [-]() Optimize performance <br>
 [-]() Enhance productivity <br>
@@ -331,11 +322,9 @@ Our solutions enable organizations to:
 
 ## [Open Source Approach]()
 
-We believe in collective intelligence.
+</sub>We believe in collective intelligence.
 
 [***Our open-source model promotes:***]()
-
-<br>
 
 [𖤐]() Collaboration <br>
 [𖤐]() Transparency <br>
@@ -355,15 +344,13 @@ We believe in collective intelligence.
 
 ## [Philosophy]()
 
-We embrace the idea that:
+</sub>We embrace the idea that:</sub>
 
 Technology [***Is Not Only***]() Engineered ;  It is [***Imagined***](), [***Experienced***](), and [***Lived***]().
 
 <br>
 
 [***We explore the intersection of:***]()
-
-<br>
 
 [-]() Consciousness <br>
 [-]() Intelligence <br>
@@ -374,8 +361,6 @@ Technology [***Is Not Only***]() Engineered ;  It is [***Imagined***](), [***Exp
 
 [***At Mindful AI:***]()
 
-<br>
-
 [𖤐]() Code is intention <br>
 [𖤐]() Systems are extensions of thought <br>
 [𖤐]() Innovation is a collective awakening <br>
@@ -385,9 +370,8 @@ Technology [***Is Not Only***]() Engineered ;  It is [***Imagined***](), [***Exp
 
 ## [Get Involved]()
 
-Ready to join the Mindful AI ecosystem? Here's where to start:
+</sub>Ready to join the Mindful AI ecosystem? Here's where to start:</sub>
 
-<br>
 
 [-]() ⭐ Star the repositories you find useful <br>
 [-]() 💬 Open an issue with your idea or feedback <br>
@@ -403,11 +387,7 @@ Ready to join the Mindful AI ecosystem? Here's where to start:
 <br><br>
 
      
- ### <p align="center"> [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml)  [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml)   
-
-
-
-
+### <p align="center"> [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml)  [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml)   
 
 
 #
@@ -415,9 +395,8 @@ Ready to join the Mindful AI ecosystem? Here's where to start:
 
 <br><br>
 
-
  
- ## [Overview and Comparison of Common]() ***Supervised*** [Machine Learning Algorithms]() (Part 1)
+## [Overview and Comparison of Common]() ***Supervised*** [Machine Learning Algorithms]() (Part 1)
 
 <br>
 
@@ -527,7 +506,7 @@ Ready to join the Mindful AI ecosystem? Here's where to start:
 
 ## 𖤐 [Contribution]()
 
-You can contribute in two ways:  
+</sub>You can contribute in two ways:</sub>  
 
 <br>
 
@@ -542,7 +521,6 @@ You can contribute in two ways:
 If this repo helped you, give it a star 🌟. Let’s grow the community together!  
 
 
-
 <br><br>
 
 
@@ -552,7 +530,7 @@ If this repo helped you, give it a star 🌟. Let’s grow the community togethe
 
 ###### <p align="center"> *Showcasing our top contributors — explore the [full community](https://github.com/orgs/Mindful-AI-Assistants/people) of 42+ collaborators*
 
-<br><br>
+<br>
 
 > [!TIP]
 >
@@ -565,8 +543,6 @@ If this repo helped you, give it a star 🌟. Let’s grow the community togethe
 > * [**Pedro Vyctor**](https://github.com/ppvyctor) - Contributor (PUC–SP)  
 >
 > * [**Andson Ribeiro**](https://github.com/andsonandreribeiro09) - Contributor (PUC–SP)  
-> <br>
->
 
 
 
