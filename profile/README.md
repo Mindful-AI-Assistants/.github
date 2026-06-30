@@ -89,15 +89,9 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 <br>
 
 
-
 https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
-###### <p align="center"> *A visual reflection on digital consciousness and human identity*
-
-###### <p align="center"> 🎶 *Creation by Fabi* 🖤
-
-
-
+###### <p align="center"> *A visual reflection on digital consciousness and human identity* -  🎶 *Creation by Fabi* 🖤
 
 <br><br>
 
@@ -121,7 +115,6 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 <br>
 
 
-
 ### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/bd0be361-3b23-4786-9345-9676982b20a4) ***Don't turn around, if the goal is the Stars*** [𖤐](https://github.com/user-attachments/assets/27dcc8c4-04cf-4dcd-bd30-4d0aa7dce4da) </sub>
 
 
@@ -131,10 +124,6 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
 
 #### <p align="center"> <sub>  ✠ [Lo Ringraziamo Da Vinci ](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7) ! [✠](https://github.com/user-attachments/assets/15d99c3e-a1fa-4bbf-afc7-420398fdca4c) </sub>
-
-
-
-
 
 
 <br><br>
@@ -193,14 +182,12 @@ To design and develop intelligent systems that amplify human potential, while en
 > <br>
 >
 
-
-
 <br><br>
 
 
 ##  [Governance & Responsible AI]()
 
-We embed **AI Governance by Design** into every solution — ensuring that intelligence is developed with responsibility, ethics, and human alignment from the ground up.
+We embed [**AI Governance by Design**]() into every solution — ensuring that intelligence is developed with responsibility, ethics, and human alignment from the ground up.
 
 <b><b>
 
@@ -231,15 +218,17 @@ We embed **AI Governance by Design** into every solution — ensuring that intel
 
 ##  [Governance, Risk & Compliance (GRC)]()
 
-At Mindful AI, compliance is a Core Pillar,  Not an Afterthought.
+<br>
 
-[***We operationalize governance through structured **risk management, regulatory alignment, and continuous oversight.***]()
+*At Mindful AI, Compliance is a Core Pillar,  Not an Afterthought.*
 
-<br><br>
+[***We operationalize governance through structured risk management, regulatory alignment, and continuous oversight.***]()
+
+<br>
 
 [***Our framework ensures alignment with:***]()
 
-[-]()  🇧🇷 Brazilian AI Strategy  <br>
+[-]()  🇧🇷 Alignment with the Brazilian AI Strategy <br>
 [-]()  🇪🇺 EU AI Act  <br>
 [-]()  🔐 Data protection regulations (LGPD/GDPR principles) 
 
