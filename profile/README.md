@@ -3,7 +3,7 @@
 ##### \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇬🇧 English](README.md)**\]   
 
 <br><br>
-<!--END 🇬🇧English LANGUAGE BUTTON  --
+<!--END 🇬🇧English LANGUAGE BUTTON  --  -->
 
 
 ⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　✦ 　　　　　,　　　　　　　.
@@ -51,13 +51,14 @@
 
 ###### <p align="center"> 𖤐 [On the Economic and Governance Mechanisms for the Agentic Web:  A Global South Perspective](https://github.com/Mindful-AI-Assistants/.github/blob/fc6401983a4cb7da549fa6254281d128fcbe303c/On%20the%20Economic%20and%20Governance%20Mechanisms%20forthe%20Agentic%20Web%20-%20%20A%20Global%20South%20Perspective.pdf), 𖤐
 
-##### <p align="center"> 𖤐 [AI for the Good of All - Brazilian Artificial Intelligence Plan - Dec / 2025](https://github.com/Mindful-AI-Assistants/.github/blob/709df80c196629155bfac11c102f18471663e611/AI%20for%20the%20Good%20of%20All%20-%20Brazilian%20Artificial%20Intelligence%20Plan-Dec2025.pdf) 𖤐
+###### <p align="center"> 𖤐 [AI for the Good of All - Brazilian Artificial Intelligence Plan - Dec / 2025](https://github.com/Mindful-AI-Assistants/.github/blob/709df80c196629155bfac11c102f18471663e611/AI%20for%20the%20Good%20of%20All%20-%20Brazilian%20Artificial%20Intelligence%20Plan-Dec2025.pdf) 𖤐
 
 
-##### <p align="center"> 𖤐 [Stanford AI Experts Predict What Will Happen in 2026](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026) 𖤐
+###### <p align="center"> 𖤐 [Stanford AI Experts Predict What Will Happen in 2026](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026) 𖤐
 
-##### <p align="center"> 𖤐 [Goolge Prompt Engineering Paper - Dec / 2025](https://github.com/Mindful-AI-Assistants/.github/blob/c30d147ff00d195a5427c49747aee2555a318b1a/Goolge_Prompt-Engineering_Dec-%3A2025.pdf) 𖤐
-
+<!--
+###### <p align="center"> 𖤐 [Goolge Prompt Engineering Paper - Dec / 2025](https://github.com/Mindful-AI-Assistants/.github/blob/c30d147ff00d195a5427c49747aee2555a318b1a/Goolge_Prompt-Engineering_Dec-%3A2025.pdf) 𖤐
+-->
 
  <br>
 
@@ -152,7 +153,7 @@ Her multidisciplinary journey bridges technology, human behavior, cognition, and
 [𖤐]() Collective Intelligence <br>
 [𖤐]() Human-Centered Design
 
-<br><br><br>
+<br><br>
 
 
 <p align="center">
@@ -162,7 +163,7 @@ Her multidisciplinary journey bridges technology, human behavior, cognition, and
 </p>
 
 
-<br><br><br>
+<br><br>
 
 We proudly highlight PUC–SP’s [top-rated (5-star ⭐)](https://j.pucsp.br/noticia/guia-da-faculdade-2024-puc-sp-possui-sete-cursos-com-cinco-estrelas) program in Data Science and Artificial Intelligence (Humanistic AI), the only one in Brazil integrating AI, Ethics, Governance, and Responsible AI in alignment with the EU AI Act.
 
@@ -573,7 +574,7 @@ If this repo helped you, give it a star 🌟. Let’s grow the community togethe
 
 ###### <p align="center"> *Showcasing our top contributors — explore the [full community](https://github.com/orgs/Mindful-AI-Assistants/people) of 42+ collaborators*
 
-<br><br>
+<br>
 
 > [!TIP]
 >
