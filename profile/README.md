@@ -263,7 +263,7 @@ At Mindful AI, Compliance is a Core Pillar, Not an Afterthought.
 
  #### <p align="center"> ***LET’S BUILD A COMMUNITY WHERE [DIFFERENCE]() IS NOT [JUDGED]() , BUT RECOGNIZED AS A [SOURCE OF INTELLIGENCE AND INNOVATION]()!***
 
- <br><br>
+ <br>
   
 
  <p align="center">
@@ -273,12 +273,10 @@ At Mindful AI, Compliance is a Core Pillar, Not an Afterthought.
 </p>
 
 
-<br><br>
+<br>
 
 
-
-### <p align="center"> 🪷 ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
-
+#### <p align="center"> 🪷 ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
 
 
  <br><br>
