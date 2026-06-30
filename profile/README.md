@@ -104,13 +104,22 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 #### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* </sub>
 #### <p align="center"> <sub> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2) in the infinity field of possibilities... [⚝]()* </sub>
 
-  <br><br>
+ <br><br>
 
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20Assistants-00FFFF?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=0a1f44)](https://github.com/sponsors/Mindful-AI-Assistants)
-
+  
+<p align="center">
+  <a href="https://user-badge.committers.top/brazil/FabianaCampanari">
+    <img src="https://img.shields.io/badge/🇧🇷_Top_Committer-Brazil-00FFFF?style=flat-square&logoColor=white&labelColor=0a1f44" alt="committers.top badge" height="28">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sponsors/Mindful-AI-Assistants">
+    <img src="https://img.shields.io/badge/Sponsor-Mindful%20AI%20Assistants-00FFFF?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=0a1f44" alt="Sponsor Mindful AI Assistants" height="28">
+  </a>
+</p>
 
 
 <br><br>
+
 
 
 ### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/bd0be361-3b23-4786-9345-9676982b20a4) ***Don't turn around, if the goal is the Stars*** [𖤐](https://github.com/user-attachments/assets/27dcc8c4-04cf-4dcd-bd30-4d0aa7dce4da) </sub>
@@ -139,7 +148,7 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 <br><br>
 
 
-𖤐 **Mindful AI**  is an open-source organization born from a vision: to integrate technology, human consciousness, and ethical intelligence into a new paradigm of innovation.
+𖤐 [**Mindful AI**]()  is an open-source organization born from a vision: to integrate technology, human consciousness, and ethical intelligence into a new paradigm of innovation.
 
 Founded by [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari); designer, software developer, psychologist, and researcher in Data Science and Humanistic AI, currently pursuing her fourth undergraduate degree at PUC–SP (Pontifícia Universidade Católica de São Paulo).
 
@@ -153,17 +162,8 @@ Her multidisciplinary journey bridges technology, human behavior, cognition, and
 [𖤐]() Collective Intelligence <br>
 [𖤐]() Human-Centered Design
 
-<br><br><br>
+<br><br>
 
-
-<p align="center">
-  <a href="https://user-badge.committers.top/brazil/FabianaCampanari">
-    <img src="https://user-badge.committers.top/brazil/FabianaCampanari.svg" alt="committers.top badge">
-  </a>
-</p>
-
-
-<br><br><br>
 
 We proudly highlight PUC–SP’s [top-rated (5-star ⭐)](https://j.pucsp.br/noticia/guia-da-faculdade-2024-puc-sp-possui-sete-cursos-com-cinco-estrelas) program in Data Science and Artificial Intelligence (Humanistic AI), the only one in Brazil integrating AI, Ethics, Governance, and Responsible AI in alignment with the EU AI Act.
 
