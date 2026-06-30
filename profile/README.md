@@ -135,9 +135,6 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
 ## [About Us]()
 
-<br><br>
-
-
 𖤐 [**Mindful AI**]()  is an open-source organization born from a vision: to integrate technology, human consciousness, and ethical intelligence into a new paradigm of innovation.
 
 Founded by [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari); designer, software developer, psychologist, and researcher in Data Science and Humanistic AI, currently pursuing her fourth undergraduate degree at PUC–SP (Pontifícia Universidade Católica de São Paulo).
@@ -174,10 +171,10 @@ Today, Mindful AI grows as a collaborative organization with 42+ contributors, b
 
 <br>
 
-We believe true progress is not only technological , but [**human**](), [**ethical**](), and [**conscious.**]()
+</sub>We believe true progress is not only technological , but [**human**](), [**ethical**](), and [**conscious.**]()</sub>
 
 
-<br><br>
+<br>
 
 > [!IMPORTANT]
 >
