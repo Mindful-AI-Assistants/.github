@@ -93,7 +93,11 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
 ###### <p align="center"> *A visual reflection on digital consciousness and human identity* -  🎶 *Creation by Fabi* 🖤
 
-<br><br>
+<br>
+
+#
+
+<br>
 
 #### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* </sub>
 #### <p align="center"> <sub> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2) in the infinity field of possibilities... [⚝]()* </sub>
