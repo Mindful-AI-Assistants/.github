@@ -286,7 +286,7 @@ To design and develop intelligent systems that amplify human potential, while en
 
 <br>
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > Every project, every model, every line of code is part of a larger purpose: <br>
 > Building a future where [**AI Serves Humanity**]() — [**Not the Opposite**]().
