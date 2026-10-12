@@ -38,26 +38,6 @@
 <!--$$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ -->
 
 $$
-\Huge
-\color{#0057D9}\Phi^+
-\color{#1265DA}\rangle
-\color{#2474DC}=
-\color{#3583DE}\frac{1}{\sqrt{2}}
-\color{#4692E0}\left(
-\color{#579FE1}|00\rangle
-\color{#67ABE0}+
-\color{#76B6DF}|11\rangle
-\color{#83C0DD}\right)
-$$
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 　　⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　　* 　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀
-⠀⠀⠀⠀　　⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀
-
-
-<br>
-
-
-$$
 \Huge{
 \color{#0057D9}{\textbf{Study}}
 \space
@@ -114,7 +94,34 @@ $$
 }
 $$
 
- 　✦⠀　　　　　,　　　　　　　.　　　　    　       　. 　　　  　　　　,　　　　　         　　.　　　　　.     　　　　,　　　　　　　.　　
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 　　⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　　* 　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀
+⠀⠀⠀⠀　　⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀
+
+
+<br>
+
+
+$$
+\Huge
+\color{#0057D9}\Phi^+
+\color{#1265DA}\rangle
+\color{#2474DC}=
+\color{#3583DE}\frac{1}{\sqrt{2}}
+\color{#4692E0}\left(
+\color{#579FE1}|00\rangle
+\color{#67ABE0}+
+\color{#76B6DF}|11\rangle
+\color{#83C0DD}\right)
+$$
+
+ 　✦⠀　　　　　,　　　　　　　.　　　　    　       　. 　　　                  　　　　,　　　　　         　　.　　　　　.     　　　　,　　　　　　　.　　
+  
+  
+  　　. 　　　　　　　　　　　　　　　　 　　　　　,　　　　　　　.　　　　　.     　　. 　　　　　             　　　　　　　　　* 　　　 　　　　　,　　　　　　　.　　　　　.
+
   
 #### <p align="center"> <sub>    [𝛂](https://github.com/user-attachments/assets/16c7b9ad-5cab-46aa-b096-2c0cbd7b7d7b) ———⋅⋆ [♂️](https://github.com/user-attachments/assets/1dc90875-ea1a-47e3-a24d-550738723bda)⋅⋆  —— [𓋹](https://github.com/user-attachments/assets/bc8fa49e-701e-438b-a88a-77a3914bfbb6) —— ⋅⋆[♀️](https://github.com/user-attachments/assets/ac2bbc8b-72ab-44b3-9979-0e5a0cf559e9)⋅⋆  ——— [Ω](https://github.com/user-attachments/assets/aaa05f34-97ae-4dc2-bd68-a1179a29bc7b) </sub>
 #### <p align="center"> <sub>  [✠]() Lo Ringraziamo [Da Vinci ](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7) ! [✠](https://github.com/user-attachments/assets/15d99c3e-a1fa-4bbf-afc7-420398fdca4c) </sub>
@@ -122,7 +129,7 @@ $$
 
 
 　　. 　　　　　　　　　    　　　⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀　 ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀
-⠀⠀⠀⠀　　　 ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　.   .　　　　　　　　　　　　　  . 　　˚　⠀　   　　　,　　　　　　　　˚　
+⠀⠀⠀⠀　　　 ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀          　　.                               .　　　　　　　　　            　　　　  . 　　˚　⠀　   　　　,　　　　　　　　˚　
 
 　˚　　　　　　　　　　　　　　　　.⠀ 　　　　　　　　　　.　　　　　　　　.
 
@@ -132,9 +139,10 @@ $$
 ###### <p align="center">𖤐 *Curated AI Knowledge, Learning & Perspectives* 𖤐
 
 ###### <p align="center">✧ [↗](https://jazzy-gingersnap-38b5e2.netlify.app/) *Learning from Leading AI Companies* · [↗](https://omo.dev/#agents) *Google Prompt Engineering Guide* · [↗](https://github.com/Mindful-AI-Assistants/.github/blob/c30d147ff00d195a5427c49747aee2555a3181b1a/Goolge_Prompt-Engineering_Dec-%3A2025.pdf) *OpenAgent Harness Framework* · [↗](https://github.com/Mindful-AI-Assistants/.github/blob/fc6401983a4cb7da549fa6254281d128fcbe303c/On%20the%20Economic%20and%20Governance%20Mechanisms%20forthe%20Agentic%20Web%20-%20%20A%20Global%20South%20Perspective.pdf)   *Agentic Web: Economic & Governance Mechanisms* · [↗](https://github.com/Mindful-AI-Assistants/.github/blob/709df80c196629155bfac11c102f18471663e611/AI%20for%20the%20Good%20of%20All%20-%20Brazilian%20Artificial%20Intelligence%20Plan-Dec2025.pdf) *AI for the Good of All* · [↗](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026) *Stanford AI Experts: AI in 2026*  · [↗](https://github.com/Mindful-AI-Research/.github/blob/bb9041c852dee6cae224c7b1965f66d7ae96013d/Mission%20Intelligence_WAIC%20Report_2026.pdf) *Mission Intelligence · WAIC Report · 2026* ✧
+
 <!--   END Reference Readings   -- GRAY SMALL REGULAR-->
 ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　　　　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 
-　　　　　　　　⠀　　, 　　　,　　　　　　　　　　　　　　　　　⠀ 　　　　　　　[𖤐]()  
+　　　　　                                              　　　⠀  　　, 　　　,           　　　　　　　　　　　　　　　　　　　　　　　　[𖤐]()  
 
 ###### <p align="center"> [↗](https://github.com/Mindful-AI-Research/.github/blob/f6f25a2c5a47bec52778d11caaa167b8297ef069/A%20Definition%20of%20AGI.pdf) *A Definition of AGI*  　
 <!-- ========= Start SPONSOR BADGE ========= -->
@@ -149,25 +157,30 @@ $$
 </p>
 <!-- ========= END SPONSOR BADGE ========= -->
 
-⠀⠀⠀⠀..   　ﾟ .　　　　　　　　　　　　.       
+⠀⠀⠀⠀..   　ﾟ                                                                                                                      .　　　　　　　　　　　　.       
 
-.　　　　　　　　　　　　　. 　　⠀　  　　　.　　　ﾟ .　　　　　　　　　　　　.       
-　　　　　　　⠀  　　　　　⠀　
+　　　　　　　　　    　　　. 　　⠀　  　                                   　　.　　　ﾟ .　　　　　　　　　　         　　.              
+　　　　　　⠀  　     　　　　⠀ 
 
 ### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2)** ✯
 ###### <p align="center"> *A visual reflection on digital consciousness and human identity* -  🎶 *Creation by Fabi* 🖤
 .　　　　　　　　　　　　　. 　　⠀　  　　　.　                                                           .　　　　　　　　　　　　.   
-<!-- ========= START VIDEO ========= -->
+<
+
+!-- ========= START VIDEO ========= -->
 https://github.com/user-attachments/assets/94a4735f-66a3-4411-927e-7e0e15ffc952
 
-.　　　　　　　　　　　　　. 　　⠀　  　　　.　　　ﾟ .　　  🛸 　　　　　　.　　　　　.   ⠀⠀⠀⠀⠀..   　ﾟ .　　　　　　　　　　　　.       
+
+　　　　　. 　　⠀　  　　　.　　                       　ﾟ .　　       🛸 　　　　　　.　　　　　.   ⠀⠀⠀⠀                    ⠀..   　ﾟ .　　　　　　　　　　　　.      
+     
       
 ###### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/4600e38a-48d8-4da4-84ca-fec536e90294) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Discover your essence* </sub> <p align="center"> <sub> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/5e41e950-0fa8-4f78-9e1f-e97ff422e5c5) in the infinity field of possibilities... [⚝]()* </sub>
 
 <br>
+
 <!-- ========= ENDT VIDEO ========= -->
 
-　　　　　　. 　　　　[𖤐](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)⠀　　　　,　　　　　　　.　　　　　.     　　. 　　　　　　　　　　　,　　　　　　　.　　　　　.
+　　　　　　. 　　　　[𖤐](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)⠀　　　　,　　　　　　　.　　　　　.     　　. 　　　　　　　　　　　,　　　　　                       　　.　　　　　.
 
 
 
